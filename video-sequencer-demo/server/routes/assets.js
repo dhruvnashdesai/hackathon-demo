@@ -518,15 +518,21 @@ router.post('/analyze-clips', async (req, res) => {
       try {
         console.log(`🎬 Running comprehensive analysis for ${video.filename}...`);
 
-        // Run the comprehensive analysis like the original workflow
-        const comprehensiveAnalysis = await twelveLabs.getComprehensiveAnalysis(video.id);
+        // Run the comprehensive analysis with caching
+        const comprehensiveAnalysis = await cache.getOrSet(video.id, 'clip_comprehensive', async () => {
+          return await twelveLabs.getComprehensiveAnalysis(video.id);
+        });
         console.log(`✅ Comprehensive analysis completed for ${video.filename}`);
 
-        // Also get video data for metadata
-        const videoData = await twelveLabs.getVideoData(video.id);
+        // Get video data for metadata with caching
+        const videoData = await cache.getOrSet(video.id, 'clip_metadata', async () => {
+          return await twelveLabs.getVideoData(video.id);
+        });
 
-        // Generate summary using TwelveLabs
-        const summary = await twelveLabs.generateSummary(video.id);
+        // Generate summary using TwelveLabs with caching
+        const summary = await cache.getOrSet(video.id, 'clip_summary', async () => {
+          return await twelveLabs.generateSummary(video.id);
+        });
 
         const clip = {
           id: video.id,

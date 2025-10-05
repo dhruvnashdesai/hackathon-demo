@@ -1,0 +1,134 @@
+{
+  "videoId": "68e2839a830688fe0b91fe24",
+  "analysisType": "claude_tiktok",
+  "result": {
+    "hook_quality_first_impression": 22,
+    "content_modularity_segmentation": 16,
+    "tiktok_specific_optimization": 14,
+    "engagement_retention_factors": 17,
+    "viral_potential_shareability": 11,
+    "total_score": 80,
+    "score_interpretation": "High",
+    "overall_grade": "B+",
+    "key_insights": [
+      "Luxury fashion content has strong visual hooks with striking fashion moments and model showcases that translate well to TikTok's visual-first platform",
+      "High production value and cinematic quality provide multiple aesthetically pleasing moments perfect for short-form clipping",
+      "Brand recognition potential with Gucci logo and luxury positioning can drive engagement in fashion-focused TikTok communities",
+      "Campaign format allows for natural segmentation around different looks, models, and fashion moments",
+      "Requires strategic audio replacement with trending sounds to maximize TikTok algorithm performance"
+    ],
+    "clip_opportunities": {
+      "primary_clips": [
+        {
+          "timestamp": "00:05-00:20",
+          "hook_type": "visual",
+          "hook_score": 23,
+          "modularity_score": 17,
+          "viral_potential": 12,
+          "optimization_notes": "Opening fashion showcase - crop to focus on model and outfit details, overlay trending fashion audio"
+        },
+        {
+          "timestamp": "00:35-00:50",
+          "hook_type": "visual",
+          "hook_score": 22,
+          "modularity_score": 16,
+          "viral_potential": 11,
+          "optimization_notes": "Mid-campaign highlight reel - fast-paced fashion moments perfect for TikTok's quick-cut preference"
+        },
+        {
+          "timestamp": "01:05-01:20",
+          "hook_type": "visual",
+          "hook_score": 21,
+          "modularity_score": 15,
+          "viral_potential": 10,
+          "optimization_notes": "Signature looks segment - individual outfit focus with luxury aesthetic appeal"
+        }
+      ],
+      "secondary_clips": [
+        {
+          "timestamp": "00:20-00:35",
+          "potential_score": 68,
+          "enhancement_required": "Needs trending audio overlay and text captions highlighting fashion details"
+        },
+        {
+          "timestamp": "00:50-01:05",
+          "potential_score": 65,
+          "enhancement_required": "Requires faster pacing through editing and vertical format optimization"
+        }
+      ]
+    },
+    "strategic_recommendations": {
+      "high_scoring_content": "Focus on visually striking fashion moments with clear model showcases. Maintain luxury aesthetic while adapting pacing for TikTok. Use trending fashion-related audio.",
+      "medium_scoring_content": "Enhance with faster cuts, trending audio overlays, and fashion-focused text overlays. Crop strategically for vertical format to highlight outfit details.",
+      "optimization_priorities": [
+        "Audio replacement with trending sounds",
+        "Vertical format cropping",
+        "Pacing acceleration",
+        "Fashion-focused text overlays",
+        "Hashtag optimization for fashion content"
+      ],
+      "resource_allocation": "Prioritize the opening 20 seconds and mid-campaign highlights (35-50s) as primary clips. Invest in professional vertical format adaptation and trending audio integration."
+    },
+    "extraction_analysis": {
+      "strong_segments": [
+        {
+          "timestamp": "00:05-00:20",
+          "hook_score": "23/25",
+          "modularity_score": "17/20",
+          "optimization_score": "14/20",
+          "engagement_score": "18/20",
+          "viral_score": "12/15",
+          "total_score": "84/100 TikTok Optimization Score",
+          "strategic_notes": "Strongest segment - opening fashion showcase with high visual impact, needs trending audio and vertical crop optimization"
+        },
+        {
+          "timestamp": "00:35-00:50",
+          "hook_score": "22/25",
+          "modularity_score": "16/20",
+          "optimization_score": "13/20",
+          "engagement_score": "17/20",
+          "viral_score": "11/15",
+          "total_score": "79/100 TikTok Optimization Score",
+          "strategic_notes": "High-energy fashion montage segment, ideal for TikTok's fast-paced content preference"
+        }
+      ],
+      "recommended_sequence": [
+        "00:05-00:20",
+        "00:35-00:50",
+        "01:05-01:20"
+      ],
+      "platform_optimization_notes": [
+        "Crop to 9:16 focusing on model center-frame",
+        "Replace original audio with trending fashion/luxury sounds",
+        "Add text overlays highlighting brand and outfit details",
+        "Optimize hashtags for fashion and luxury content discovery"
+      ]
+    },
+    "watch_time_optimization": {
+      "predicted_completion_rate": "75% (high visual appeal and luxury content typically retains fashion-interested viewers)",
+      "predicted_engagement_rate": "78% (strong visual content with model presence and fashion focus drives engagement)",
+      "rewatch_potential": "high (fashion content often rewatched for outfit details and styling inspiration)",
+      "attention_retention_factors": [
+        "High-quality visuals and cinematography",
+        "Fashion and luxury appeal",
+        "Model showcases and outfit changes",
+        "Brand recognition value"
+      ]
+    },
+    "tiktok_optimizations": {
+      "face_frequency_score": "8 (fashion campaign likely features models prominently throughout most scenes)",
+      "central_action_percentage": "70 (fashion campaigns typically center models and outfits for maximum impact)",
+      "visual_variety_score": "8 (multiple looks, models, and fashion moments provide strong visual variety)",
+      "cover_frame_recommendation": "00:08 (likely features striking opening fashion moment perfect for TikTok thumbnail)",
+      "trending_audio_potential": "high (fashion content performs well with luxury lifestyle and trending fashion audio)",
+      "text_overlay_compatibility": "9 (high-quality visuals provide clean space for fashion-focused text overlays)"
+    },
+    "platform_optimization": {
+      "vertical_format_score": "7 (fashion campaigns can adapt well to vertical with proper cropping to focus on models)",
+      "trending_audio_compatibility": "9 (fashion content highly compatible with luxury lifestyle and trending audio)",
+      "text_overlay_opportunities": "9 (clean visuals perfect for brand, outfit details, and fashion-focused text)",
+      "algorithm_favorability": "8 (fashion content with high production value and model presence typically performs well on TikTok)"
+    }
+  },
+  "timestamp": "2025-10-05T17:11:48.803Z"
+}

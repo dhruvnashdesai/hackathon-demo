@@ -1,0 +1,115 @@
+{
+  "videoId": "68e2839417b39f617835f106",
+  "analysisType": "claude_tiktok",
+  "result": {
+    "hook_quality_first_impression": 22,
+    "content_modularity_segmentation": 18,
+    "tiktok_specific_optimization": 16,
+    "engagement_retention_factors": 17,
+    "viral_potential_shareability": 13,
+    "total_score": 86,
+    "score_interpretation": "High",
+    "overall_grade": "B+",
+    "key_insights": [
+      "Classic 'The Force' Volkswagen Super Bowl ad with iconic child Darth Vader character has inherent viral DNA",
+      "Strong narrative arc from breakfast to car scene provides multiple natural break points for segmentation",
+      "Child attempting 'Force' powers creates highly relatable and shareable moments perfect for TikTok's humor-driven audience",
+      "Emotional payoff with car remote surprise delivers perfect 'satisfying moment' content that TikTok algorithm favors",
+      "Nostalgic brand content has proven success on TikTok, especially with millennial audience recognition factor"
+    ],
+    "clip_opportunities": {
+      "primary_clips": [
+        {
+          "timestamp": "00:35-00:55",
+          "hook_type": "emotional",
+          "hook_score": 9.2,
+          "modularity_score": 8.8,
+          "viral_potential": 8.5,
+          "optimization_notes": "Car scene with Force attempt and payoff - crop to focus on child's reactions and car lights, add trending sound overlay"
+        },
+        {
+          "timestamp": "00:08-00:25",
+          "hook_type": "curiosity",
+          "hook_score": 8.1,
+          "modularity_score": 7.9,
+          "viral_potential": 7.8,
+          "optimization_notes": "Child in Darth Vader costume attempting Force on various objects - perfect for 'kids being kids' trend"
+        }
+      ],
+      "secondary_clips": [
+        {
+          "timestamp": "00:00-00:08",
+          "potential_score": 72,
+          "enhancement_required": "Opening breakfast scene needs hook enhancement - could work with 'POV: your kid thinks they have superpowers' text overlay"
+        },
+        {
+          "timestamp": "00:55-01:01",
+          "potential_score": 68,
+          "enhancement_required": "Volkswagen reveal moment - requires brand context setup or focus on family reaction for broader appeal"
+        }
+      ]
+    },
+    "strategic_recommendations": {
+      "high_scoring_content": "Focus on car scene (00:35-00:55) as primary clip - has complete story arc, emotional payoff, and strong visual elements for vertical crop",
+      "medium_scoring_content": "Use Force attempt montage (00:08-00:25) with trending audio overlay and relatable parent/child dynamic text hooks",
+      "optimization_priorities": [
+        "Add trending audio to replace original score",
+        "Crop for vertical format focusing on child's expressions",
+        "Overlay text for context and relatability",
+        "Create multiple hook variations testing different opening moments"
+      ],
+      "resource_allocation": "80% effort on car scene optimization, 20% on Force attempts montage - both have standalone value"
+    },
+    "extraction_analysis": {
+      "strong_segments": [
+        {
+          "timestamp": "00:35-00:55",
+          "hook_score": "22/25",
+          "modularity_score": "18/20",
+          "optimization_score": "16/20",
+          "engagement_score": "17/20",
+          "viral_score": "13/15",
+          "total_score": "86/100 TikTok Optimization Score",
+          "strategic_notes": "Primary extraction target - complete emotional arc with visual payoff perfect for TikTok's satisfying content trend"
+        }
+      ],
+      "recommended_sequence": [
+        "00:35-00:55",
+        "00:08-00:25",
+        "00:00-00:08"
+      ],
+      "platform_optimization_notes": [
+        "Crop to 9:16 focusing on child and car center frame",
+        "Add captions for accessibility and engagement",
+        "Test with trending sounds in family/parenting category",
+        "Consider split-screen format showing expectation vs reality"
+      ]
+    },
+    "watch_time_optimization": {
+      "predicted_completion_rate": "78% (strong emotional payoff encourages full viewing, clear narrative structure)",
+      "predicted_engagement_rate": "82% (child character, relatable family content, satisfying conclusion)",
+      "rewatch_potential": "high (surprise element and emotional satisfaction drive multiple views)",
+      "attention_retention_factors": [
+        "Child in recognizable costume",
+        "Building suspense through failed attempts",
+        "Satisfying visual payoff with car lights",
+        "Relatable parent-child dynamic"
+      ]
+    },
+    "tiktok_optimizations": {
+      "face_frequency_score": "6 (child's face visible but often obscured by helmet, needs strategic cropping)",
+      "central_action_percentage": "85 (child and key interactions well-positioned for vertical crop)",
+      "visual_variety_score": "8 (multiple locations, dynamic camera work, clear scene transitions)",
+      "cover_frame_recommendation": "00:47 (moment of surprise when car lights activate - peak emotional impact)",
+      "trending_audio_potential": "high (can overlay trending sounds while maintaining visual impact)",
+      "text_overlay_compatibility": "9 (excellent visual space for TikTok text overlays and captions)"
+    },
+    "platform_optimization": {
+      "vertical_format_score": "8 (action centered, good adaptation potential for 9:16)",
+      "trending_audio_compatibility": "9 (visual storytelling allows complete audio replacement)",
+      "text_overlay_opportunities": "9 (multiple moments perfect for contextual text and hooks)",
+      "algorithm_favorability": "8 (family content, emotional satisfaction, nostalgic elements all favor algorithm)"
+    }
+  },
+  "timestamp": "2025-10-05T17:13:06.011Z"
+}

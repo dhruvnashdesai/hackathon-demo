@@ -1,0 +1,84 @@
+{
+  "videoId": "68e2839417b39f617835f106",
+  "analysisType": "claude_instagram",
+  "result": {
+    "visual_quality_aesthetic": 18,
+    "relationship_community_engagement": 16,
+    "instagram_algorithm_optimization": 14,
+    "audience_retention_engagement": 17,
+    "discovery_growth_potential": 12,
+    "total_score": 77,
+    "overall_grade": "B",
+    "key_insights": [
+      "Classic Volkswagen 'The Force' ad has strong nostalgic appeal and emotional storytelling that resonates well with Instagram's relationship-focused algorithm",
+      "The child character and family dynamics create excellent conversation starter potential for parenting and nostalgia-themed content",
+      "Production quality meets Instagram standards but 360p source resolution limits optimal Reels deployment - requires upscaling",
+      "Star Wars reference and heartwarming narrative provide strong shareability and save-worthy content value",
+      "61-second duration offers multiple clip extraction opportunities for varied Instagram Reels content"
+    ],
+    "extraction_analysis": {
+      "strong_segments": [
+        {
+          "timestamp": "00:45-01:01",
+          "visual_quality_score": "19/25",
+          "relationship_score": "18/20",
+          "algorithm_score": "16/20",
+          "retention_score": "19/20",
+          "discovery_score": "13/15",
+          "total_score": "85/100 Instagram Optimization Score",
+          "strategic_notes": "Climactic car start moment with father-child interaction - perfect emotional payoff for Instagram audience"
+        },
+        {
+          "timestamp": "00:00-00:15",
+          "visual_quality_score": "17/25",
+          "relationship_score": "15/20",
+          "algorithm_score": "15/20",
+          "retention_score": "16/20",
+          "discovery_score": "11/15",
+          "total_score": "74/100 Instagram Optimization Score",
+          "strategic_notes": "Strong hook with child in costume - immediately recognizable Star Wars reference drives engagement"
+        },
+        {
+          "timestamp": "00:30-00:45",
+          "visual_quality_score": "16/25",
+          "relationship_score": "17/20",
+          "algorithm_score": "13/20",
+          "retention_score": "15/20",
+          "discovery_score": "10/15",
+          "total_score": "71/100 Instagram Optimization Score",
+          "strategic_notes": "Family interaction moments build emotional connection - excellent for relationship-building content"
+        }
+      ],
+      "recommended_sequence": [
+        "00:00-00:15",
+        "00:30-00:45",
+        "00:45-01:01"
+      ],
+      "visual_optimization_notes": [
+        "Upscale from 360p to minimum 1080p for Instagram quality standards",
+        "Add subtle sharpening and color grading to enhance visual appeal",
+        "Consider adding branded overlay or watermark for brand recognition",
+        "Optimize for 9:16 vertical format by cropping to focus on central characters"
+      ]
+    },
+    "watch_time_optimization": {
+      "predicted_completion_rate": 78,
+      "predicted_engagement_rate": 72,
+      "visual_momentum_score": 6,
+      "rewatch_potential": "high"
+    },
+    "instagram_optimizations": {
+      "face_frequency_score": 7,
+      "central_action_percentage": 75,
+      "visual_variety_score": 6,
+      "quality_after_crop": 4,
+      "subtitle_requirements": [
+        "00:00-00:15",
+        "00:30-00:45",
+        "00:50-01:01"
+      ],
+      "cover_frame_recommendation": "00:52"
+    }
+  },
+  "timestamp": "2025-10-05T17:13:20.394Z"
+}

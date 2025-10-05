@@ -141,6 +141,23 @@ const ClipModal = ({ clip, score, onClose }) => {
             </div>
           )}
 
+          {/* Exclusion Info */}
+          {clip.excluded && clip.exclusionReason && (
+            <div>
+              <h3 className="text-lg font-semibold text-white mb-4">Exclusion Information</h3>
+              <div className="bg-red-900/30 border border-red-500/50 rounded-lg p-4 mb-6">
+                <div className="flex items-center mb-2">
+                  <X className="h-5 w-5 text-red-400 mr-2" />
+                  <span className="text-red-400 font-medium">Excluded from Sequence</span>
+                </div>
+                <div className="text-gray-200">
+                  <span className="font-medium">Reason: </span>
+                  {clip.exclusionReason}
+                </div>
+              </div>
+            </div>
+          )}
+
           {/* Scoring */}
           {score && (
             <div>
