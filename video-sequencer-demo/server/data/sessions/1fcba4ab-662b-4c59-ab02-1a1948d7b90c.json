@@ -1,0 +1,2057 @@
+{
+  "clips": [
+    {
+      "id": "892f9f0f-ae26-469a-816b-2d9e176e84ae",
+      "filename": "Clip 17.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08a3a1b0bed6c135a43/thumbnails/cecb5a12-4a85-4c2d-b798-de5ecdb2620d.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08a3a1b0bed6c135a43/stream/cecb5a12-4a85-4c2d-b798-de5ecdb2620d.m3u8",
+      "metadata": {
+        "duration": 5,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 17124498
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b08a3a1b0bed6c135a43",
+        "duration": 5,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 17124498,
+        "summary": "The video opens with a scene that captures the essence of a collaborative work environment, focusing on two men seated at a table, each engrossed in their laptops. The man on the left, distinguished by his short dark hair and glasses, initiates a conversation by pointing to something on his screen, likely a project or a piece of content. His dialogue, \"Thumbnails here? I wouldn't have working spoon. I would just have working,\" suggests he might be discussing the creation or placement of thumbnails for a digital project, possibly related to content creation or web design. The mention of a \"spoon\" could be a typo or a metaphor, but it's unclear without more context.\nThe setting is casual yet focused, with a water bottle placed between the two men, indicating a comfortable and familiar work relationship. The background subtly includes another individual, further back from the camera, who appears to be working independently, adding depth to the scene and suggesting a larger, possibly remote team setting.\nThe video, though brief, effectively conveys a snapshot of a workday, highlighting the importance of communication and collaboration in digital projects. The dialogue, though fragmented, hints at the complexities and nuances of the work being done, suggesting that the video might be part of a larger series or a documentary about the day-to-day operations of a digital team.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 5,
+              "description": "The video opens with a scene that captures the essence of a collaborative work environment, focusing on two men seated at a table, each engrossed in their laptops. The man on the left, distinguished by his short dark hair and glasses, initiates a conversation by pointing to something on his screen, likely a project or a piece of content. His dialogue, \"Thumbnails here? I wouldn't have working spoon. I would just have working,\" suggests he might be discussing the creation or placement of thumbnails for a digital project, possibly related to content creation or web design. The mention of a \"spoon\" could be a typo or a metaphor, but it's unclear without more context.\nThe setting is casual yet focused, with a water bottle placed between the two men, indicating a comfortable and familiar work relationship. The background subtly includes another individual, further back from the camera, who appears to be working independently, adding depth to the scene and suggesting a larger, possibly remote team setting.\nThe video, though brief, effectively conveys a snapshot of a workday, highlighting the importance of communication and collaboration in digital projects. The dialogue, though fragmented, hints at the complexities and nuances of the work being done, suggesting that the video might be part of a larger series or a documentary about the day-to-day operations of a digital team.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a scene that captures the essence of a collaborative work environment, focusing on two men seated at a table, each engrossed in their laptops. The man on the left, distinguished by his short dark hair and glasses, initiates a conversation by pointing to something on his screen, likely a project or a piece of content. His dialogue, \"Thumbnails here? I wouldn't have working spoon. I would just have working,\" suggests he might be discussing the creation or placement of thumbnails for a digital project, possibly related to content creation or web design. The mention of a \"spoon\" could be a typo or a metaphor, but it's unclear without more context.\nThe setting is casual yet focused, with a water bottle placed between the two men, indicating a comfortable and familiar work relationship. The background subtly includes another individual, further back from the camera, who appears to be working independently, adding depth to the scene and suggesting a larger, possibly remote team setting.\nThe video, though brief, effectively conveys a snapshot of a workday, highlighting the importance of communication and collaboration in digital projects. The dialogue, though fragmented, hints at the complexities and nuances of the work being done, suggesting that the video might be part of a larger series or a documentary about the day-to-day operations of a digital team."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a scene that captures the essence of a collaborative work environment, focusing on two men seated at a table, each engrossed in their laptops. The man on the left, distinguished by his short dark hair and glasses, initiates a conversation by pointing to something on his screen, likely a project or a piece of content. His dialogue, \"Thumbnails here? I wouldn't have working spoon. I would just have working,\" suggests he might be discussing the creation or placement of thumbnails for a digital project, possibly related to content creation or web design. The mention of a \"spoon\" could be a typo or a metaphor, but it's unclear without more context.\nThe setting is casual yet focused, with a water bottle placed between the two men, indicating a comfortable and familiar work relationship. The background subtly includes another individual, further back from the camera, who appears to be working independently, adding depth to the scene and suggesting a larger, possibly remote team setting.\nThe video, though brief, effectively conveys a snapshot of a workday, highlighting the importance of communication and collaboration in digital projects. The dialogue, though fragmented, hints at the complexities and nuances of the work being done, suggesting that the video might be part of a larger series or a documentary about the day-to-day operations of a digital team."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a scene that captures the essence of a collaborative work environment, focusing..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b08a3a1b0bed6c135a43",
+          "created_at": "2025-10-04T23:40:58Z",
+          "updated_at": "2025-10-04T23:48:06Z",
+          "system_metadata": {
+            "duration": 5,
+            "filename": "Clip 17.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 17124498,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08a3a1b0bed6c135a43/stream/cecb5a12-4a85-4c2d-b798-de5ecdb2620d.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08a3a1b0bed6c135a43/thumbnails/cecb5a12-4a85-4c2d-b798-de5ecdb2620d.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:41:06.901Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b08a3a1b0bed6c135a43",
+      "conversionStatus": "converted",
+      "conversionError": "ffmpeg exited with code 183: Error opening input file /Users/dhruvdesai/hack-demo/video-sequencer-demo/server/public/converted/temp_892f9f0f-ae26-469a-816b-2d9e176e84ae.mov.\nError opening input files: Invalid data found when processing input\n",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_892f9f0f-ae26-469a-816b-2d9e176e84ae_converted.mp4"
+    },
+    {
+      "id": "6ee04221-6483-4316-b928-eecf078c1f58",
+      "filename": "Clips 1.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08464ff05606e152aed/thumbnails/6e90ad7a-7179-490b-ba27-307c2f44dfd7.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08464ff05606e152aed/stream/6e90ad7a-7179-490b-ba27-307c2f44dfd7.m3u8",
+      "metadata": {
+        "duration": 4.066667,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 10787100
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b08464ff05606e152aed",
+        "duration": 4.066667,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 10787100,
+        "summary": "The video opens with a close-up shot of a black t-shirt hanging against a wall, with white lettering that reads \"TwelveLabs.\" The background is slightly blurred, but one can make out a staircase railing to the left and some furniture, suggesting a domestic setting. The scene then transitions to a person wearing blue jeans who walks into view from behind the t-shirt. They proceed to sit down at a desk, which is out of the frame, indicating a shift in focus towards a workspace or an area where the individual intends to engage in some activity or task. The video, while brief, seems to set the stage for an introduction or a setup for a more detailed presentation or discussion about TwelveLabs, possibly leading into a demonstration or explanation of their products or services. The t-shirt and the person's entrance suggest a casual yet professional environment, hinting at the company's ethos or the nature of the content to follow.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.066667,
+              "description": "The video opens with a close-up shot of a black t-shirt hanging against a wall, with white lettering that reads \"TwelveLabs.\" The background is slightly blurred, but one can make out a staircase railing to the left and some furniture, suggesting a domestic setting. The scene then transitions to a person wearing blue jeans who walks into view from behind the t-shirt. They proceed to sit down at a desk, which is out of the frame, indicating a shift in focus towards a workspace or an area where the individual intends to engage in some activity or task. The video, while brief, seems to set the stage for an introduction or a setup for a more detailed presentation or discussion about TwelveLabs, possibly leading into a demonstration or explanation of their products or services. The t-shirt and the person's entrance suggest a casual yet professional environment, hinting at the company's ethos or the nature of the content to follow.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a close-up shot of a black t-shirt hanging against a wall, with white lettering that reads \"TwelveLabs.\" The background is slightly blurred, but one can make out a staircase railing to the left and some furniture, suggesting a domestic setting. The scene then transitions to a person wearing blue jeans who walks into view from behind the t-shirt. They proceed to sit down at a desk, which is out of the frame, indicating a shift in focus towards a workspace or an area where the individual intends to engage in some activity or task. The video, while brief, seems to set the stage for an introduction or a setup for a more detailed presentation or discussion about TwelveLabs, possibly leading into a demonstration or explanation of their products or services. The t-shirt and the person's entrance suggest a casual yet professional environment, hinting at the company's ethos or the nature of the content to follow."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a close-up shot of a black t-shirt hanging against a wall, with white lettering that reads \"TwelveLabs.\" The background is slightly blurred, but one can make out a staircase railing to the left and some furniture, suggesting a domestic setting. The scene then transitions to a person wearing blue jeans who walks into view from behind the t-shirt. They proceed to sit down at a desk, which is out of the frame, indicating a shift in focus towards a workspace or an area where the individual intends to engage in some activity or task. The video, while brief, seems to set the stage for an introduction or a setup for a more detailed presentation or discussion about TwelveLabs, possibly leading into a demonstration or explanation of their products or services. The t-shirt and the person's entrance suggest a casual yet professional environment, hinting at the company's ethos or the nature of the content to follow."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a close-up shot of a black t-shirt hanging against a wall, with white lettering..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b08464ff05606e152aed",
+          "created_at": "2025-10-04T23:40:52Z",
+          "updated_at": "2025-10-04T23:46:47Z",
+          "system_metadata": {
+            "duration": 4.066667,
+            "filename": "Clips 1.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 10787100,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08464ff05606e152aed/stream/6e90ad7a-7179-490b-ba27-307c2f44dfd7.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08464ff05606e152aed/thumbnails/6e90ad7a-7179-490b-ba27-307c2f44dfd7.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:40:59.388Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b08464ff05606e152aed",
+      "conversionStatus": "converted",
+      "conversionError": "ffmpeg exited with code 183: Error opening input file /Users/dhruvdesai/hack-demo/video-sequencer-demo/server/public/converted/temp_6ee04221-6483-4316-b928-eecf078c1f58.mov.\nError opening input files: Invalid data found when processing input\n",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_6ee04221-6483-4316-b928-eecf078c1f58_converted.mp4"
+    },
+    {
+      "id": "a7e870df-49a4-4db0-b2cb-273de1c0279c",
+      "filename": "Clip 16.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b07af2e53b115e1ae4ba/thumbnails/9d772094-8878-47e8-87bc-d900664ba372.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b07af2e53b115e1ae4ba/stream/9d772094-8878-47e8-87bc-d900664ba372.m3u8",
+      "metadata": {
+        "duration": 4.5,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 16040590
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b07af2e53b115e1ae4ba",
+        "duration": 4.5,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 16040590,
+        "summary": "The video opens with a captivating scene set in a cozy cafe, where four individuals are gathered around a table, each engrossed in their own activity. The atmosphere is vibrant and artistic, with a framed picture on the wall that has been digitally altered into abstract lines and shapes, adding a unique touch to the setting. The large black screen to the left of the scene reflects the room, creating a sense of depth and intrigue, while a small shelf to the right, mounted high on the wall, holds an assortment of decorative pieces and books, further enhancing the artistic ambiance.\nAmong the group, a woman wearing sunglasses is seen looking at her phone, engaging in conversation with a person who has short hair. The dialogue captures a moment of casual inquiry, with the short-haired individual asking the woman if she has any new projects or work to share. This interaction suggests a collaborative or friendly environment where the group is open to sharing their creative endeavors.\nAnother member of the group is using a laptop, possibly working on a design or art project, while the fourth person remains attentive, listening to the conversation. The table is adorned with two white cups, napkins, glasses, and other scattered items, indicating a relaxed and informal gathering.\nThe overall setup and dialogue imply that the video is likely a segment from a larger discussion or meeting focused on art, design, or creative projects. The creator of the video seems to have intended to capture a moment of casual creativity and collaboration, showcasing the dynamic and engaging nature of the group's interaction.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.5,
+              "description": "The video opens with a captivating scene set in a cozy cafe, where four individuals are gathered around a table, each engrossed in their own activity. The atmosphere is vibrant and artistic, with a framed picture on the wall that has been digitally altered into abstract lines and shapes, adding a unique touch to the setting. The large black screen to the left of the scene reflects the room, creating a sense of depth and intrigue, while a small shelf to the right, mounted high on the wall, holds an assortment of decorative pieces and books, further enhancing the artistic ambiance.\nAmong the group, a woman wearing sunglasses is seen looking at her phone, engaging in conversation with a person who has short hair. The dialogue captures a moment of casual inquiry, with the short-haired individual asking the woman if she has any new projects or work to share. This interaction suggests a collaborative or friendly environment where the group is open to sharing their creative endeavors.\nAnother member of the group is using a laptop, possibly working on a design or art project, while the fourth person remains attentive, listening to the conversation. The table is adorned with two white cups, napkins, glasses, and other scattered items, indicating a relaxed and informal gathering.\nThe overall setup and dialogue imply that the video is likely a segment from a larger discussion or meeting focused on art, design, or creative projects. The creator of the video seems to have intended to capture a moment of casual creativity and collaboration, showcasing the dynamic and engaging nature of the group's interaction.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a captivating scene set in a cozy cafe, where four individuals are gathered around a table, each engrossed in their own activity. The atmosphere is vibrant and artistic, with a framed picture on the wall that has been digitally altered into abstract lines and shapes, adding a unique touch to the setting. The large black screen to the left of the scene reflects the room, creating a sense of depth and intrigue, while a small shelf to the right, mounted high on the wall, holds an assortment of decorative pieces and books, further enhancing the artistic ambiance.\nAmong the group, a woman wearing sunglasses is seen looking at her phone, engaging in conversation with a person who has short hair. The dialogue captures a moment of casual inquiry, with the short-haired individual asking the woman if she has any new projects or work to share. This interaction suggests a collaborative or friendly environment where the group is open to sharing their creative endeavors.\nAnother member of the group is using a laptop, possibly working on a design or art project, while the fourth person remains attentive, listening to the conversation. The table is adorned with two white cups, napkins, glasses, and other scattered items, indicating a relaxed and informal gathering.\nThe overall setup and dialogue imply that the video is likely a segment from a larger discussion or meeting focused on art, design, or creative projects. The creator of the video seems to have intended to capture a moment of casual creativity and collaboration, showcasing the dynamic and engaging nature of the group's interaction."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a captivating scene set in a cozy cafe, where four individuals are gathered around a table, each engrossed in their own activity. The atmosphere is vibrant and artistic, with a framed picture on the wall that has been digitally altered into abstract lines and shapes, adding a unique touch to the setting. The large black screen to the left of the scene reflects the room, creating a sense of depth and intrigue, while a small shelf to the right, mounted high on the wall, holds an assortment of decorative pieces and books, further enhancing the artistic ambiance.\nAmong the group, a woman wearing sunglasses is seen looking at her phone, engaging in conversation with a person who has short hair. The dialogue captures a moment of casual inquiry, with the short-haired individual asking the woman if she has any new projects or work to share. This interaction suggests a collaborative or friendly environment where the group is open to sharing their creative endeavors.\nAnother member of the group is using a laptop, possibly working on a design or art project, while the fourth person remains attentive, listening to the conversation. The table is adorned with two white cups, napkins, glasses, and other scattered items, indicating a relaxed and informal gathering.\nThe overall setup and dialogue imply that the video is likely a segment from a larger discussion or meeting focused on art, design, or creative projects. The creator of the video seems to have intended to capture a moment of casual creativity and collaboration, showcasing the dynamic and engaging nature of the group's interaction."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a captivating scene set in a cozy cafe, where four individuals are gathered aro..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b07af2e53b115e1ae4ba",
+          "created_at": "2025-10-04T23:40:42Z",
+          "updated_at": "2025-10-04T23:45:54Z",
+          "system_metadata": {
+            "duration": 4.5,
+            "filename": "Clip 16.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 16040590,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b07af2e53b115e1ae4ba/stream/9d772094-8878-47e8-87bc-d900664ba372.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b07af2e53b115e1ae4ba/thumbnails/9d772094-8878-47e8-87bc-d900664ba372.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:40:48.331Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b07af2e53b115e1ae4ba",
+      "conversionStatus": "converted",
+      "conversionError": "ffmpeg exited with code 183: Error opening input file /Users/dhruvdesai/hack-demo/video-sequencer-demo/server/public/converted/temp_a7e870df-49a4-4db0-b2cb-273de1c0279c.mov.\nError opening input files: Invalid data found when processing input\n",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_a7e870df-49a4-4db0-b2cb-273de1c0279c_converted.mp4"
+    },
+    {
+      "id": "dc0b7d6e-6ac9-45ec-8c5c-d4d6afbbc7aa",
+      "filename": "Clip 15.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b06b64ff05606e152ae9/thumbnails/084baa86-91ed-470a-8c46-d1bf5fbf81a0.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b06b64ff05606e152ae9/stream/084baa86-91ed-470a-8c46-d1bf5fbf81a0.m3u8",
+      "metadata": {
+        "duration": 4.066667,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 13438073
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b06b64ff05606e152ae9",
+        "duration": 4.066667,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 13438073,
+        "summary": "The video opens with a captivating low-angle shot of a spacious room, immediately drawing the viewer into its architectural details. The ceiling is supported by a series of white pillars, each one standing tall and proud, while an intricate network of white pipes crisscrosses above, forming a visually striking pattern. Hanging from one of these pipes is a projector, a subtle hint at the room's potential use for presentations or visual displays. On the right side of the frame, the room is adorned with colorful abstract art pieces, adding a vibrant touch to the otherwise monochromatic setting.\nAs the camera pans slowly to the left, the viewer is treated to a broader view of the room's interior. The white pillars continue to dominate the space, maintaining a uniform height and reinforcing the sense of grandeur. The network of pipes above remains consistent, creating a cohesive and structured environment. The colorful artwork, though now partially obscured, still catches the eye, serving as a focal point amidst the otherwise neutral tones.\nThe brief audio snippet, \"Yeah, it was the only one,\" suggests that the video might be part of a larger narrative or context, possibly referring to the uniqueness of the room or its specific setup. This adds a layer of intrigue, prompting the viewer to wonder about the broader story or purpose behind the filming of this particular space.\nOverall, the video effectively captures the essence of a well-designed, spacious room with its architectural elements and artistic touches, while the audio hint leaves the viewer curious about the room's significance within a larger context.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.066667,
+              "description": "The video opens with a captivating low-angle shot of a spacious room, immediately drawing the viewer into its architectural details. The ceiling is supported by a series of white pillars, each one standing tall and proud, while an intricate network of white pipes crisscrosses above, forming a visually striking pattern. Hanging from one of these pipes is a projector, a subtle hint at the room's potential use for presentations or visual displays. On the right side of the frame, the room is adorned with colorful abstract art pieces, adding a vibrant touch to the otherwise monochromatic setting.\nAs the camera pans slowly to the left, the viewer is treated to a broader view of the room's interior. The white pillars continue to dominate the space, maintaining a uniform height and reinforcing the sense of grandeur. The network of pipes above remains consistent, creating a cohesive and structured environment. The colorful artwork, though now partially obscured, still catches the eye, serving as a focal point amidst the otherwise neutral tones.\nThe brief audio snippet, \"Yeah, it was the only one,\" suggests that the video might be part of a larger narrative or context, possibly referring to the uniqueness of the room or its specific setup. This adds a layer of intrigue, prompting the viewer to wonder about the broader story or purpose behind the filming of this particular space.\nOverall, the video effectively captures the essence of a well-designed, spacious room with its architectural elements and artistic touches, while the audio hint leaves the viewer curious about the room's significance within a larger context.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a captivating low-angle shot of a spacious room, immediately drawing the viewer into its architectural details. The ceiling is supported by a series of white pillars, each one standing tall and proud, while an intricate network of white pipes crisscrosses above, forming a visually striking pattern. Hanging from one of these pipes is a projector, a subtle hint at the room's potential use for presentations or visual displays. On the right side of the frame, the room is adorned with colorful abstract art pieces, adding a vibrant touch to the otherwise monochromatic setting.\nAs the camera pans slowly to the left, the viewer is treated to a broader view of the room's interior. The white pillars continue to dominate the space, maintaining a uniform height and reinforcing the sense of grandeur. The network of pipes above remains consistent, creating a cohesive and structured environment. The colorful artwork, though now partially obscured, still catches the eye, serving as a focal point amidst the otherwise neutral tones.\nThe brief audio snippet, \"Yeah, it was the only one,\" suggests that the video might be part of a larger narrative or context, possibly referring to the uniqueness of the room or its specific setup. This adds a layer of intrigue, prompting the viewer to wonder about the broader story or purpose behind the filming of this particular space.\nOverall, the video effectively captures the essence of a well-designed, spacious room with its architectural elements and artistic touches, while the audio hint leaves the viewer curious about the room's significance within a larger context."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a captivating low-angle shot of a spacious room, immediately drawing the viewer into its architectural details. The ceiling is supported by a series of white pillars, each one standing tall and proud, while an intricate network of white pipes crisscrosses above, forming a visually striking pattern. Hanging from one of these pipes is a projector, a subtle hint at the room's potential use for presentations or visual displays. On the right side of the frame, the room is adorned with colorful abstract art pieces, adding a vibrant touch to the otherwise monochromatic setting.\nAs the camera pans slowly to the left, the viewer is treated to a broader view of the room's interior. The white pillars continue to dominate the space, maintaining a uniform height and reinforcing the sense of grandeur. The network of pipes above remains consistent, creating a cohesive and structured environment. The colorful artwork, though now partially obscured, still catches the eye, serving as a focal point amidst the otherwise neutral tones.\nThe brief audio snippet, \"Yeah, it was the only one,\" suggests that the video might be part of a larger narrative or context, possibly referring to the uniqueness of the room or its specific setup. This adds a layer of intrigue, prompting the viewer to wonder about the broader story or purpose behind the filming of this particular space.\nOverall, the video effectively captures the essence of a well-designed, spacious room with its architectural elements and artistic touches, while the audio hint leaves the viewer curious about the room's significance within a larger context."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a captivating low-angle shot of a spacious room, immediately drawing the viewer..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b06b64ff05606e152ae9",
+          "created_at": "2025-10-04T23:40:27Z",
+          "updated_at": "2025-10-04T23:45:53Z",
+          "system_metadata": {
+            "duration": 4.066667,
+            "filename": "Clip 15.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 13438073,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b06b64ff05606e152ae9/stream/084baa86-91ed-470a-8c46-d1bf5fbf81a0.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b06b64ff05606e152ae9/thumbnails/084baa86-91ed-470a-8c46-d1bf5fbf81a0.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:40:39.001Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b06b64ff05606e152ae9",
+      "conversionStatus": "converted",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_dc0b7d6e-6ac9-45ec-8c5c-d4d6afbbc7aa_converted.mp4"
+    },
+    {
+      "id": "c250bdd0-c58f-4fc2-980f-c240d710305c",
+      "filename": "Clip 14.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b063f2e53b115e1ae4b8/thumbnails/216b9653-12a3-4d15-a4a0-33d762026d17.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b063f2e53b115e1ae4b8/stream/216b9653-12a3-4d15-a4a0-33d762026d17.m3u8",
+      "metadata": {
+        "duration": 4.099999999,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 14173864
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b063f2e53b115e1ae4b8",
+        "duration": 4.099999999,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 14173864,
+        "summary": "The video opens with a snapshot of a modern office environment, where four men are seated around a table, engrossed in a discussion. The setting is illuminated by natural light streaming in from a large window, casting a serene glow over the scene. Three of the men have laptops open in front of them, suggesting an active work environment, while the fourth man has his hands folded, attentively listening to someone who is not in the frame. This setup hints at a collaborative work atmosphere, possibly centered around a project or brainstorming session.\nIn the foreground, a white baseball cap rests atop a striped shirt draped over a chair, adding a casual touch to the professional setting. On the left side of the screen, two monitors display content related to 'betaworks', indicating that the group might be involved in some form of technology or software development. The dialogue snippet, \"You should work and try it out,\" further supports this notion, suggesting that the team is discussing a new idea or product that requires practical testing and implementation.\nThe inclusion of another individual working at a desk further back in the room enriches the scene, painting a picture of a bustling office where multiple tasks are being handled simultaneously. The overall composition of the video suggests that it aims to capture the essence of a dynamic and innovative workplace, where creativity and collaboration are key elements driving the team's efforts.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.099999999,
+              "description": "The video opens with a snapshot of a modern office environment, where four men are seated around a table, engrossed in a discussion. The setting is illuminated by natural light streaming in from a large window, casting a serene glow over the scene. Three of the men have laptops open in front of them, suggesting an active work environment, while the fourth man has his hands folded, attentively listening to someone who is not in the frame. This setup hints at a collaborative work atmosphere, possibly centered around a project or brainstorming session.\nIn the foreground, a white baseball cap rests atop a striped shirt draped over a chair, adding a casual touch to the professional setting. On the left side of the screen, two monitors display content related to 'betaworks', indicating that the group might be involved in some form of technology or software development. The dialogue snippet, \"You should work and try it out,\" further supports this notion, suggesting that the team is discussing a new idea or product that requires practical testing and implementation.\nThe inclusion of another individual working at a desk further back in the room enriches the scene, painting a picture of a bustling office where multiple tasks are being handled simultaneously. The overall composition of the video suggests that it aims to capture the essence of a dynamic and innovative workplace, where creativity and collaboration are key elements driving the team's efforts.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a snapshot of a modern office environment, where four men are seated around a table, engrossed in a discussion. The setting is illuminated by natural light streaming in from a large window, casting a serene glow over the scene. Three of the men have laptops open in front of them, suggesting an active work environment, while the fourth man has his hands folded, attentively listening to someone who is not in the frame. This setup hints at a collaborative work atmosphere, possibly centered around a project or brainstorming session.\nIn the foreground, a white baseball cap rests atop a striped shirt draped over a chair, adding a casual touch to the professional setting. On the left side of the screen, two monitors display content related to 'betaworks', indicating that the group might be involved in some form of technology or software development. The dialogue snippet, \"You should work and try it out,\" further supports this notion, suggesting that the team is discussing a new idea or product that requires practical testing and implementation.\nThe inclusion of another individual working at a desk further back in the room enriches the scene, painting a picture of a bustling office where multiple tasks are being handled simultaneously. The overall composition of the video suggests that it aims to capture the essence of a dynamic and innovative workplace, where creativity and collaboration are key elements driving the team's efforts."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a snapshot of a modern office environment, where four men are seated around a table, engrossed in a discussion. The setting is illuminated by natural light streaming in from a large window, casting a serene glow over the scene. Three of the men have laptops open in front of them, suggesting an active work environment, while the fourth man has his hands folded, attentively listening to someone who is not in the frame. This setup hints at a collaborative work atmosphere, possibly centered around a project or brainstorming session.\nIn the foreground, a white baseball cap rests atop a striped shirt draped over a chair, adding a casual touch to the professional setting. On the left side of the screen, two monitors display content related to 'betaworks', indicating that the group might be involved in some form of technology or software development. The dialogue snippet, \"You should work and try it out,\" further supports this notion, suggesting that the team is discussing a new idea or product that requires practical testing and implementation.\nThe inclusion of another individual working at a desk further back in the room enriches the scene, painting a picture of a bustling office where multiple tasks are being handled simultaneously. The overall composition of the video suggests that it aims to capture the essence of a dynamic and innovative workplace, where creativity and collaboration are key elements driving the team's efforts."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a snapshot of a modern office environment, where four men are seated around a t..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b063f2e53b115e1ae4b8",
+          "created_at": "2025-10-04T23:40:19Z",
+          "updated_at": "2025-10-04T23:45:45Z",
+          "system_metadata": {
+            "duration": 4.099999999,
+            "filename": "Clip 14.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 14173864,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b063f2e53b115e1ae4b8/stream/216b9653-12a3-4d15-a4a0-33d762026d17.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b063f2e53b115e1ae4b8/thumbnails/216b9653-12a3-4d15-a4a0-33d762026d17.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:40:27.331Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b063f2e53b115e1ae4b8",
+      "conversionStatus": "converted",
+      "conversionError": "ffmpeg exited with code 183: Error opening input file /Users/dhruvdesai/hack-demo/video-sequencer-demo/server/public/converted/temp_c250bdd0-c58f-4fc2-980f-c240d710305c.mov.\nError opening input files: Invalid data found when processing input\n",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_c250bdd0-c58f-4fc2-980f-c240d710305c_converted.mp4"
+    },
+    {
+      "id": "6ce473a1-46f5-408a-b9d3-de01e5872a7e",
+      "filename": "Clip 13.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b05d64ff05606e152ae6/thumbnails/2d99f20b-9515-4934-9961-3b5da0a28965.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b05d64ff05606e152ae6/stream/2d99f20b-9515-4934-9961-3b5da0a28965.m3u8",
+      "metadata": {
+        "duration": 4.5,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 15805472
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b05d64ff05606e152ae6",
+        "duration": 4.5,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 15805472,
+        "summary": "The video opens with a scene that captures a collaborative work environment, likely in a modern office or co-working space. Three men are seated at a table, each engaged in their own tasks but clearly working together. The man on the left, characterized by his short brown hair and black shirt, is focused on his laptop, typing away and looking down at the screen. This suggests he might be working on a document or coding, contributing to a shared project.\nTo his right, another individual is using a phone, though their face is not visible as they are facing away from the camera. This could indicate that they are on a call or perhaps checking messages, adding to the collaborative atmosphere. The third man, positioned to the right of the table, holds up a smartphone towards the other two individuals. His facial expression conveys a sense of importance, suggesting he might be showing them something on the screen or explaining a point, possibly related to the ongoing project or call.\nOn the table, a closed silver MacBook Air and some papers are visible, indicating that the team is using both laptops and traditional paper documents for their work. The background of the scene is equally telling, with a large white pillar standing behind them against a wall that stretches into the distance. This wall is populated with more people seated around tables, each engaged in their own activities, which adds to the dynamic and bustling atmosphere of the space.\nA yellow object hanging near the ceiling, resembling part of a light fixture, provides a subtle touch of color and highlights the modern design of the space. The dialogue snippet, \"Yeah, we have a good call,\" further supports the idea that the team is actively collaborating, possibly with remote members, and that their current meeting is productive and positive.\nOverall, the video captures a snapshot of a modern, collaborative work environment, emphasizing the use of technology and the importance of teamwork. The scene is vibrant and engaging, reflecting the dynamic nature of contemporary workspaces and the seamless integration of digital and traditional tools in professional settings.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.5,
+              "description": "The video opens with a scene that captures a collaborative work environment, likely in a modern office or co-working space. Three men are seated at a table, each engaged in their own tasks but clearly working together. The man on the left, characterized by his short brown hair and black shirt, is focused on his laptop, typing away and looking down at the screen. This suggests he might be working on a document or coding, contributing to a shared project.\nTo his right, another individual is using a phone, though their face is not visible as they are facing away from the camera. This could indicate that they are on a call or perhaps checking messages, adding to the collaborative atmosphere. The third man, positioned to the right of the table, holds up a smartphone towards the other two individuals. His facial expression conveys a sense of importance, suggesting he might be showing them something on the screen or explaining a point, possibly related to the ongoing project or call.\nOn the table, a closed silver MacBook Air and some papers are visible, indicating that the team is using both laptops and traditional paper documents for their work. The background of the scene is equally telling, with a large white pillar standing behind them against a wall that stretches into the distance. This wall is populated with more people seated around tables, each engaged in their own activities, which adds to the dynamic and bustling atmosphere of the space.\nA yellow object hanging near the ceiling, resembling part of a light fixture, provides a subtle touch of color and highlights the modern design of the space. The dialogue snippet, \"Yeah, we have a good call,\" further supports the idea that the team is actively collaborating, possibly with remote members, and that their current meeting is productive and positive.\nOverall, the video captures a snapshot of a modern, collaborative work environment, emphasizing the use of technology and the importance of teamwork. The scene is vibrant and engaging, reflecting the dynamic nature of contemporary workspaces and the seamless integration of digital and traditional tools in professional settings.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a scene that captures a collaborative work environment, likely in a modern office or co-working space. Three men are seated at a table, each engaged in their own tasks but clearly working together. The man on the left, characterized by his short brown hair and black shirt, is focused on his laptop, typing away and looking down at the screen. This suggests he might be working on a document or coding, contributing to a shared project.\nTo his right, another individual is using a phone, though their face is not visible as they are facing away from the camera. This could indicate that they are on a call or perhaps checking messages, adding to the collaborative atmosphere. The third man, positioned to the right of the table, holds up a smartphone towards the other two individuals. His facial expression conveys a sense of importance, suggesting he might be showing them something on the screen or explaining a point, possibly related to the ongoing project or call.\nOn the table, a closed silver MacBook Air and some papers are visible, indicating that the team is using both laptops and traditional paper documents for their work. The background of the scene is equally telling, with a large white pillar standing behind them against a wall that stretches into the distance. This wall is populated with more people seated around tables, each engaged in their own activities, which adds to the dynamic and bustling atmosphere of the space.\nA yellow object hanging near the ceiling, resembling part of a light fixture, provides a subtle touch of color and highlights the modern design of the space. The dialogue snippet, \"Yeah, we have a good call,\" further supports the idea that the team is actively collaborating, possibly with remote members, and that their current meeting is productive and positive.\nOverall, the video captures a snapshot of a modern, collaborative work environment, emphasizing the use of technology and the importance of teamwork. The scene is vibrant and engaging, reflecting the dynamic nature of contemporary workspaces and the seamless integration of digital and traditional tools in professional settings."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a scene that captures a collaborative work environment, likely in a modern office or co-working space. Three men are seated at a table, each engaged in their own tasks but clearly working together. The man on the left, characterized by his short brown hair and black shirt, is focused on his laptop, typing away and looking down at the screen. This suggests he might be working on a document or coding, contributing to a shared project.\nTo his right, another individual is using a phone, though their face is not visible as they are facing away from the camera. This could indicate that they are on a call or perhaps checking messages, adding to the collaborative atmosphere. The third man, positioned to the right of the table, holds up a smartphone towards the other two individuals. His facial expression conveys a sense of importance, suggesting he might be showing them something on the screen or explaining a point, possibly related to the ongoing project or call.\nOn the table, a closed silver MacBook Air and some papers are visible, indicating that the team is using both laptops and traditional paper documents for their work. The background of the scene is equally telling, with a large white pillar standing behind them against a wall that stretches into the distance. This wall is populated with more people seated around tables, each engaged in their own activities, which adds to the dynamic and bustling atmosphere of the space.\nA yellow object hanging near the ceiling, resembling part of a light fixture, provides a subtle touch of color and highlights the modern design of the space. The dialogue snippet, \"Yeah, we have a good call,\" further supports the idea that the team is actively collaborating, possibly with remote members, and that their current meeting is productive and positive.\nOverall, the video captures a snapshot of a modern, collaborative work environment, emphasizing the use of technology and the importance of teamwork. The scene is vibrant and engaging, reflecting the dynamic nature of contemporary workspaces and the seamless integration of digital and traditional tools in professional settings."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a scene that captures a collaborative work environment, likely in a modern offi..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b05d64ff05606e152ae6",
+          "created_at": "2025-10-04T23:40:13Z",
+          "updated_at": "2025-10-04T23:45:33Z",
+          "system_metadata": {
+            "duration": 4.5,
+            "filename": "Clip 13.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 15805472,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b05d64ff05606e152ae6/stream/2d99f20b-9515-4934-9961-3b5da0a28965.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b05d64ff05606e152ae6/thumbnails/2d99f20b-9515-4934-9961-3b5da0a28965.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:40:19.275Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b05d64ff05606e152ae6",
+      "conversionStatus": "converted",
+      "conversionError": "ffmpeg exited with code 183: Error opening input file /Users/dhruvdesai/hack-demo/video-sequencer-demo/server/public/converted/temp_6ce473a1-46f5-408a-b9d3-de01e5872a7e.mov.\nError opening input files: Invalid data found when processing input\n",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_6ce473a1-46f5-408a-b9d3-de01e5872a7e_converted.mp4"
+    },
+    {
+      "id": "6a42fdb2-5b6b-46c8-bdcc-b8f9f1af20ee",
+      "filename": "Clip 12.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b03266ecb2513d7ef325/thumbnails/5d6c2937-a420-41bc-b32b-89fc4ee8dece.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b03266ecb2513d7ef325/stream/5d6c2937-a420-41bc-b32b-89fc4ee8dece.m3u8",
+      "metadata": {
+        "duration": 4.433333,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 9905204
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b03266ecb2513d7ef325",
+        "duration": 4.433333,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 9905204,
+        "summary": "The video opens with a panoramic view of a bustling room, captured from a high vantage point. The space is vibrant with activity, as people are seen engaged in a variety of tasks, including working on laptops, conversing, and moving around. The camera's angle allows for a comprehensive overview of the scene, highlighting the dynamic atmosphere of the room.\nA notable figure in the frame is a man wearing a red turban, who is seated at a table. He is multitasking, using his laptop while simultaneously enjoying a meal from a plate in front of him. The man's interaction with the environment is brief but significant; he raises his hand to wave goodbye towards someone outside the frame's left side. Despite this gesture, the other individuals in the room remain focused on their own activities, seemingly undisturbed by the man's farewell.\nThe video's audio adds a layer of warmth to the scene, with the man's voice heard saying, \"This is great,\" which could be a reflection of his contentment with the environment or the interaction he is waving goodbye to. The overall tone of the video suggests a casual, friendly setting where people are comfortable and engaged in their own pursuits, yet still mindful of the social interactions around them.\nThe creator of this video likely aimed to capture the essence of a lively communal space, emphasizing the blend of work and social life that characterizes such environments. The high-angle shot and the inclusion of the man's farewell gesture serve to highlight the interconnectedness of the individuals within the room, despite their individual tasks and activities.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.433333,
+              "description": "The video opens with a panoramic view of a bustling room, captured from a high vantage point. The space is vibrant with activity, as people are seen engaged in a variety of tasks, including working on laptops, conversing, and moving around. The camera's angle allows for a comprehensive overview of the scene, highlighting the dynamic atmosphere of the room.\nA notable figure in the frame is a man wearing a red turban, who is seated at a table. He is multitasking, using his laptop while simultaneously enjoying a meal from a plate in front of him. The man's interaction with the environment is brief but significant; he raises his hand to wave goodbye towards someone outside the frame's left side. Despite this gesture, the other individuals in the room remain focused on their own activities, seemingly undisturbed by the man's farewell.\nThe video's audio adds a layer of warmth to the scene, with the man's voice heard saying, \"This is great,\" which could be a reflection of his contentment with the environment or the interaction he is waving goodbye to. The overall tone of the video suggests a casual, friendly setting where people are comfortable and engaged in their own pursuits, yet still mindful of the social interactions around them.\nThe creator of this video likely aimed to capture the essence of a lively communal space, emphasizing the blend of work and social life that characterizes such environments. The high-angle shot and the inclusion of the man's farewell gesture serve to highlight the interconnectedness of the individuals within the room, despite their individual tasks and activities.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a panoramic view of a bustling room, captured from a high vantage point. The space is vibrant with activity, as people are seen engaged in a variety of tasks, including working on laptops, conversing, and moving around. The camera's angle allows for a comprehensive overview of the scene, highlighting the dynamic atmosphere of the room.\nA notable figure in the frame is a man wearing a red turban, who is seated at a table. He is multitasking, using his laptop while simultaneously enjoying a meal from a plate in front of him. The man's interaction with the environment is brief but significant; he raises his hand to wave goodbye towards someone outside the frame's left side. Despite this gesture, the other individuals in the room remain focused on their own activities, seemingly undisturbed by the man's farewell.\nThe video's audio adds a layer of warmth to the scene, with the man's voice heard saying, \"This is great,\" which could be a reflection of his contentment with the environment or the interaction he is waving goodbye to. The overall tone of the video suggests a casual, friendly setting where people are comfortable and engaged in their own pursuits, yet still mindful of the social interactions around them.\nThe creator of this video likely aimed to capture the essence of a lively communal space, emphasizing the blend of work and social life that characterizes such environments. The high-angle shot and the inclusion of the man's farewell gesture serve to highlight the interconnectedness of the individuals within the room, despite their individual tasks and activities."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a panoramic view of a bustling room, captured from a high vantage point. The space is vibrant with activity, as people are seen engaged in a variety of tasks, including working on laptops, conversing, and moving around. The camera's angle allows for a comprehensive overview of the scene, highlighting the dynamic atmosphere of the room.\nA notable figure in the frame is a man wearing a red turban, who is seated at a table. He is multitasking, using his laptop while simultaneously enjoying a meal from a plate in front of him. The man's interaction with the environment is brief but significant; he raises his hand to wave goodbye towards someone outside the frame's left side. Despite this gesture, the other individuals in the room remain focused on their own activities, seemingly undisturbed by the man's farewell.\nThe video's audio adds a layer of warmth to the scene, with the man's voice heard saying, \"This is great,\" which could be a reflection of his contentment with the environment or the interaction he is waving goodbye to. The overall tone of the video suggests a casual, friendly setting where people are comfortable and engaged in their own pursuits, yet still mindful of the social interactions around them.\nThe creator of this video likely aimed to capture the essence of a lively communal space, emphasizing the blend of work and social life that characterizes such environments. The high-angle shot and the inclusion of the man's farewell gesture serve to highlight the interconnectedness of the individuals within the room, despite their individual tasks and activities."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a panoramic view of a bustling room, captured from a high vantage point. The sp..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b03266ecb2513d7ef325",
+          "created_at": "2025-10-04T23:39:31Z",
+          "updated_at": "2025-10-04T23:44:44Z",
+          "system_metadata": {
+            "duration": 4.433333,
+            "filename": "Clip 12.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 9905204,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b03266ecb2513d7ef325/stream/5d6c2937-a420-41bc-b32b-89fc4ee8dece.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b03266ecb2513d7ef325/thumbnails/5d6c2937-a420-41bc-b32b-89fc4ee8dece.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:39:40.935Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b03266ecb2513d7ef325",
+      "conversionStatus": "converted",
+      "conversionError": "ffmpeg exited with code 183: Error opening input file /Users/dhruvdesai/hack-demo/video-sequencer-demo/server/public/converted/temp_6a42fdb2-5b6b-46c8-bdcc-b8f9f1af20ee.mov.\nError opening input files: Invalid data found when processing input\n",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_6a42fdb2-5b6b-46c8-bdcc-b8f9f1af20ee_converted.mp4"
+    },
+    {
+      "id": "32084f0c-e037-4fc1-9ed2-641b8851cb78",
+      "filename": "Clip 11.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0293a1b0bed6c135a3f/thumbnails/aadfc40a-121c-4818-aeb6-57a6fe133bfe.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0293a1b0bed6c135a3f/stream/aadfc40a-121c-4818-aeb6-57a6fe133bfe.m3u8",
+      "metadata": {
+        "duration": 4.566667,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 15618389
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b0293a1b0bed6c135a3f",
+        "duration": 4.566667,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 15618389,
+        "summary": "The video opens with a scene set in a dimly lit room, where the camera is positioned at a low angle, capturing a trio of individuals engaged in a conversation around a cluttered table. The room is illuminated by two round lights from above, casting shadows and highlighting the objects on the table, which include laptops, papers, cups, and other office supplies. The man in glasses is seated facing away from the camera, while another person is positioned to his right, their back visible to the viewer. On the left side of the frame, a third individual stands, appearing taller due to the camera angle. This person has short hair and is dressed in dark clothing.\nThe dialogue snippet provided, \"I saw with one glance,\" suggests that the conversation may involve a quick observation or a sudden realization. The partial darkness in the foreground, where a bag rests against something out of view, adds a layer of intrigue to the setting. Additionally, a red object visible at the far right edge of the frame, possibly part of some equipment, further enriches the visual composition of the scene.\nGiven the setup and the dialogue, it seems the video creator aims to convey a moment of intense interaction or a pivotal realization among the characters. The low-angle shot and the dim lighting create a sense of intimacy and focus on the conversation, while the cluttered table and the red object hint at the complexity and possibly the technological nature of the discussion. The summary encapsulates the visual and auditory elements to provide a comprehensive overview of the video's content, reflecting the creator's intention to highlight a significant interaction within a detailed and evocative setting.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.566667,
+              "description": "The video opens with a scene set in a dimly lit room, where the camera is positioned at a low angle, capturing a trio of individuals engaged in a conversation around a cluttered table. The room is illuminated by two round lights from above, casting shadows and highlighting the objects on the table, which include laptops, papers, cups, and other office supplies. The man in glasses is seated facing away from the camera, while another person is positioned to his right, their back visible to the viewer. On the left side of the frame, a third individual stands, appearing taller due to the camera angle. This person has short hair and is dressed in dark clothing.\nThe dialogue snippet provided, \"I saw with one glance,\" suggests that the conversation may involve a quick observation or a sudden realization. The partial darkness in the foreground, where a bag rests against something out of view, adds a layer of intrigue to the setting. Additionally, a red object visible at the far right edge of the frame, possibly part of some equipment, further enriches the visual composition of the scene.\nGiven the setup and the dialogue, it seems the video creator aims to convey a moment of intense interaction or a pivotal realization among the characters. The low-angle shot and the dim lighting create a sense of intimacy and focus on the conversation, while the cluttered table and the red object hint at the complexity and possibly the technological nature of the discussion. The summary encapsulates the visual and auditory elements to provide a comprehensive overview of the video's content, reflecting the creator's intention to highlight a significant interaction within a detailed and evocative setting.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a scene set in a dimly lit room, where the camera is positioned at a low angle, capturing a trio of individuals engaged in a conversation around a cluttered table. The room is illuminated by two round lights from above, casting shadows and highlighting the objects on the table, which include laptops, papers, cups, and other office supplies. The man in glasses is seated facing away from the camera, while another person is positioned to his right, their back visible to the viewer. On the left side of the frame, a third individual stands, appearing taller due to the camera angle. This person has short hair and is dressed in dark clothing.\nThe dialogue snippet provided, \"I saw with one glance,\" suggests that the conversation may involve a quick observation or a sudden realization. The partial darkness in the foreground, where a bag rests against something out of view, adds a layer of intrigue to the setting. Additionally, a red object visible at the far right edge of the frame, possibly part of some equipment, further enriches the visual composition of the scene.\nGiven the setup and the dialogue, it seems the video creator aims to convey a moment of intense interaction or a pivotal realization among the characters. The low-angle shot and the dim lighting create a sense of intimacy and focus on the conversation, while the cluttered table and the red object hint at the complexity and possibly the technological nature of the discussion. The summary encapsulates the visual and auditory elements to provide a comprehensive overview of the video's content, reflecting the creator's intention to highlight a significant interaction within a detailed and evocative setting."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a scene set in a dimly lit room, where the camera is positioned at a low angle, capturing a trio of individuals engaged in a conversation around a cluttered table. The room is illuminated by two round lights from above, casting shadows and highlighting the objects on the table, which include laptops, papers, cups, and other office supplies. The man in glasses is seated facing away from the camera, while another person is positioned to his right, their back visible to the viewer. On the left side of the frame, a third individual stands, appearing taller due to the camera angle. This person has short hair and is dressed in dark clothing.\nThe dialogue snippet provided, \"I saw with one glance,\" suggests that the conversation may involve a quick observation or a sudden realization. The partial darkness in the foreground, where a bag rests against something out of view, adds a layer of intrigue to the setting. Additionally, a red object visible at the far right edge of the frame, possibly part of some equipment, further enriches the visual composition of the scene.\nGiven the setup and the dialogue, it seems the video creator aims to convey a moment of intense interaction or a pivotal realization among the characters. The low-angle shot and the dim lighting create a sense of intimacy and focus on the conversation, while the cluttered table and the red object hint at the complexity and possibly the technological nature of the discussion. The summary encapsulates the visual and auditory elements to provide a comprehensive overview of the video's content, reflecting the creator's intention to highlight a significant interaction within a detailed and evocative setting."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a scene set in a dimly lit room, where the camera is positioned at a low angle,..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b0293a1b0bed6c135a3f",
+          "created_at": "2025-10-04T23:39:21Z",
+          "updated_at": "2025-10-04T23:43:13Z",
+          "system_metadata": {
+            "duration": 4.566667,
+            "filename": "Clip 11.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 15618389,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0293a1b0bed6c135a3f/stream/aadfc40a-121c-4818-aeb6-57a6fe133bfe.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0293a1b0bed6c135a3f/thumbnails/aadfc40a-121c-4818-aeb6-57a6fe133bfe.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:39:34.896Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b0293a1b0bed6c135a3f",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_32084f0c-e037-4fc1-9ed2-641b8851cb78_converted.mp4",
+      "conversionStatus": "converted"
+    },
+    {
+      "id": "d31385ed-07b3-4d6c-963b-2bd92ed9ab56",
+      "filename": "Clip 8.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b01b66ecb2513d7ef322/thumbnails/299aa826-eba8-4176-864a-f8512a7b4921.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b01b66ecb2513d7ef322/stream/299aa826-eba8-4176-864a-f8512a7b4921.m3u8",
+      "metadata": {
+        "duration": 6.866667,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 22770629
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b01b66ecb2513d7ef322",
+        "duration": 6.866667,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 22770629,
+        "summary": "The video opens with a static scene centered on a laptop screen, where lines of code written in JavaScript are prominently displayed. The camera captures the hand of the coder as it moves swiftly across the keyboard, typing away. The blurred background reveals another individual working diligently at a desk, adding a subtle layer of ambient activity to the scene. The dialogue, which is faintly heard in the background, suggests that the video is setting up for a montage sequence, with the voiceover hinting at a more elaborate narrative to follow. The creator's intention seems to be to introduce the viewer to a coding environment, possibly to set the stage for a tutorial or a documentary on software development, where the voiceover will guide the audience through the process. The initial static shot, combined with the dialogue, builds anticipation for the upcoming content, indicating a blend of visual and audio storytelling to come.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 6.866667,
+              "description": "The video opens with a static scene centered on a laptop screen, where lines of code written in JavaScript are prominently displayed. The camera captures the hand of the coder as it moves swiftly across the keyboard, typing away. The blurred background reveals another individual working diligently at a desk, adding a subtle layer of ambient activity to the scene. The dialogue, which is faintly heard in the background, suggests that the video is setting up for a montage sequence, with the voiceover hinting at a more elaborate narrative to follow. The creator's intention seems to be to introduce the viewer to a coding environment, possibly to set the stage for a tutorial or a documentary on software development, where the voiceover will guide the audience through the process. The initial static shot, combined with the dialogue, builds anticipation for the upcoming content, indicating a blend of visual and audio storytelling to come.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a static scene centered on a laptop screen, where lines of code written in JavaScript are prominently displayed. The camera captures the hand of the coder as it moves swiftly across the keyboard, typing away. The blurred background reveals another individual working diligently at a desk, adding a subtle layer of ambient activity to the scene. The dialogue, which is faintly heard in the background, suggests that the video is setting up for a montage sequence, with the voiceover hinting at a more elaborate narrative to follow. The creator's intention seems to be to introduce the viewer to a coding environment, possibly to set the stage for a tutorial or a documentary on software development, where the voiceover will guide the audience through the process. The initial static shot, combined with the dialogue, builds anticipation for the upcoming content, indicating a blend of visual and audio storytelling to come."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a static scene centered on a laptop screen, where lines of code written in JavaScript are prominently displayed. The camera captures the hand of the coder as it moves swiftly across the keyboard, typing away. The blurred background reveals another individual working diligently at a desk, adding a subtle layer of ambient activity to the scene. The dialogue, which is faintly heard in the background, suggests that the video is setting up for a montage sequence, with the voiceover hinting at a more elaborate narrative to follow. The creator's intention seems to be to introduce the viewer to a coding environment, possibly to set the stage for a tutorial or a documentary on software development, where the voiceover will guide the audience through the process. The initial static shot, combined with the dialogue, builds anticipation for the upcoming content, indicating a blend of visual and audio storytelling to come."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a static scene centered on a laptop screen, where lines of code written in Java..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b01b66ecb2513d7ef322",
+          "created_at": "2025-10-04T23:39:07Z",
+          "updated_at": "2025-10-04T23:43:17Z",
+          "system_metadata": {
+            "duration": 6.866667,
+            "filename": "Clip 8.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 22770629,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b01b66ecb2513d7ef322/stream/299aa826-eba8-4176-864a-f8512a7b4921.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b01b66ecb2513d7ef322/thumbnails/299aa826-eba8-4176-864a-f8512a7b4921.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:39:34.731Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b01b66ecb2513d7ef322",
+      "conversionStatus": "converted",
+      "conversionError": "ffmpeg exited with code 183: Error opening input file /Users/dhruvdesai/hack-demo/video-sequencer-demo/server/public/converted/temp_d31385ed-07b3-4d6c-963b-2bd92ed9ab56.mov.\nError opening input files: Invalid data found when processing input\n",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_d31385ed-07b3-4d6c-963b-2bd92ed9ab56_converted.mp4"
+    },
+    {
+      "id": "6b3cbc2c-14a4-48e4-8789-0ec314eb4f32",
+      "filename": "Clip 10.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0093a1b0bed6c135a3a/thumbnails/dc3d0fc9-ffbf-40c2-895d-5d1b88af7d5f.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0093a1b0bed6c135a3a/stream/dc3d0fc9-ffbf-40c2-895d-5d1b88af7d5f.m3u8",
+      "metadata": {
+        "duration": 4.733333,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 14035581
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b0093a1b0bed6c135a3a",
+        "duration": 4.733333,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 14035581,
+        "summary": "The video opens with a panoramic view of a vibrant, spacious room that serves as a multifunctional space, likely a communal area or office environment. The camera gracefully pans across the room, capturing the dynamic atmosphere as it reveals individuals engaged in a variety of activities. Some are diligently working at their desks, while others are conversing in a more relaxed setting, seated on couches. The room is also populated with people standing near tables, perhaps discussing projects or sharing ideas.\nThe lighting in the room is naturally bright, with sunlight streaming through large windows on one side, casting a warm glow that enhances the overall ambiance. The inclusion of several potted plants throughout the space adds a touch of nature, making the environment feel more inviting and less sterile. The bar area, located towards the back right corner of the room, suggests that this space is not only functional but also designed for social gatherings and relaxation.\nThe video, though brief, provides a snapshot of a lively and well-designed space that balances work and leisure. The intention behind the video seems to be to showcase the room's versatility and the comfortable, collaborative environment it fosters. The lack of dialogue in the provided extract suggests that the focus is on the visual elements and the atmosphere of the room rather than on any specific conversation or interaction.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.733333,
+              "description": "The video opens with a panoramic view of a vibrant, spacious room that serves as a multifunctional space, likely a communal area or office environment. The camera gracefully pans across the room, capturing the dynamic atmosphere as it reveals individuals engaged in a variety of activities. Some are diligently working at their desks, while others are conversing in a more relaxed setting, seated on couches. The room is also populated with people standing near tables, perhaps discussing projects or sharing ideas.\nThe lighting in the room is naturally bright, with sunlight streaming through large windows on one side, casting a warm glow that enhances the overall ambiance. The inclusion of several potted plants throughout the space adds a touch of nature, making the environment feel more inviting and less sterile. The bar area, located towards the back right corner of the room, suggests that this space is not only functional but also designed for social gatherings and relaxation.\nThe video, though brief, provides a snapshot of a lively and well-designed space that balances work and leisure. The intention behind the video seems to be to showcase the room's versatility and the comfortable, collaborative environment it fosters. The lack of dialogue in the provided extract suggests that the focus is on the visual elements and the atmosphere of the room rather than on any specific conversation or interaction.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a panoramic view of a vibrant, spacious room that serves as a multifunctional space, likely a communal area or office environment. The camera gracefully pans across the room, capturing the dynamic atmosphere as it reveals individuals engaged in a variety of activities. Some are diligently working at their desks, while others are conversing in a more relaxed setting, seated on couches. The room is also populated with people standing near tables, perhaps discussing projects or sharing ideas.\nThe lighting in the room is naturally bright, with sunlight streaming through large windows on one side, casting a warm glow that enhances the overall ambiance. The inclusion of several potted plants throughout the space adds a touch of nature, making the environment feel more inviting and less sterile. The bar area, located towards the back right corner of the room, suggests that this space is not only functional but also designed for social gatherings and relaxation.\nThe video, though brief, provides a snapshot of a lively and well-designed space that balances work and leisure. The intention behind the video seems to be to showcase the room's versatility and the comfortable, collaborative environment it fosters. The lack of dialogue in the provided extract suggests that the focus is on the visual elements and the atmosphere of the room rather than on any specific conversation or interaction."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a panoramic view of a vibrant, spacious room that serves as a multifunctional space, likely a communal area or office environment. The camera gracefully pans across the room, capturing the dynamic atmosphere as it reveals individuals engaged in a variety of activities. Some are diligently working at their desks, while others are conversing in a more relaxed setting, seated on couches. The room is also populated with people standing near tables, perhaps discussing projects or sharing ideas.\nThe lighting in the room is naturally bright, with sunlight streaming through large windows on one side, casting a warm glow that enhances the overall ambiance. The inclusion of several potted plants throughout the space adds a touch of nature, making the environment feel more inviting and less sterile. The bar area, located towards the back right corner of the room, suggests that this space is not only functional but also designed for social gatherings and relaxation.\nThe video, though brief, provides a snapshot of a lively and well-designed space that balances work and leisure. The intention behind the video seems to be to showcase the room's versatility and the comfortable, collaborative environment it fosters. The lack of dialogue in the provided extract suggests that the focus is on the visual elements and the atmosphere of the room rather than on any specific conversation or interaction."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a panoramic view of a vibrant, spacious room that serves as a multifunctional s..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b0093a1b0bed6c135a3a",
+          "created_at": "2025-10-04T23:38:49Z",
+          "updated_at": "2025-10-04T23:43:06Z",
+          "system_metadata": {
+            "duration": 4.733333,
+            "filename": "Clip 10.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 14035581,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0093a1b0bed6c135a3a/stream/dc3d0fc9-ffbf-40c2-895d-5d1b88af7d5f.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0093a1b0bed6c135a3a/thumbnails/dc3d0fc9-ffbf-40c2-895d-5d1b88af7d5f.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:39:26.187Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b0093a1b0bed6c135a3a",
+      "conversionStatus": "converted",
+      "conversionError": "ffmpeg exited with code 183: Error opening input file /Users/dhruvdesai/hack-demo/video-sequencer-demo/server/public/converted/temp_6b3cbc2c-14a4-48e4-8789-0ec314eb4f32.mov.\nError opening input files: Invalid data found when processing input\n",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_6b3cbc2c-14a4-48e4-8789-0ec314eb4f32_converted.mp4"
+    },
+    {
+      "id": "1b8f922c-e934-4ab9-9853-0c18a945622d",
+      "filename": "Clip 9.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1affd66ecb2513d7ef31f/thumbnails/07c000c0-e365-4688-a2d0-7b4e35b642ed.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1affd66ecb2513d7ef31f/stream/07c000c0-e365-4688-a2d0-7b4e35b642ed.m3u8",
+      "metadata": {
+        "duration": 4.633333,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 16598216
+      },
+      "tlAnalysis": {
+        "video_id": "68e1affd66ecb2513d7ef31f",
+        "duration": 4.633333,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 16598216,
+        "summary": "The video opens with a serene and focused atmosphere, capturing a glass-walled room where two individuals are engaged in their work. Positioned to the left is a man with glasses and a beard, diligently working on his laptop, which is placed on a white table covered with a marble-patterned cloth. To his right, a woman is similarly engrossed in her own device, mirroring his concentration. Each has a disposable coffee cup in front of them, and their black backpacks rest against the wall beside them. The transparent walls of the room provide a glimpse into the larger space beyond, where other people are seen conversing, adding a layer of ambient activity to the scene.\nThe dialogue snippet, \"When I'm good with my voice over script, I'm going to match you in general,\" suggests that the video likely revolves around the process of creating voice-over content. The man, possibly the speaker, seems to be in the midst of refining his script, indicating a dedication to his craft and a desire to align his work with a certain standard or style set by the woman or another unseen individual. The static nature of the visual scene contrasts with the dynamic process of voice-over creation, highlighting the intense focus and preparation that goes into such work.\nThe creator of this video seems to be aiming to provide a glimpse into the environment and mindset of individuals working on voice-over projects. The juxtaposition of the calm, almost meditative setting with the dialogue about voice-over scripts suggests an intention to convey the balance between the external environment and the internal focus required for such tasks. The video likely continues to explore the nuances of voice-over work, possibly delving into the techniques, tools, and processes involved in creating high-quality voice-over content.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.633333,
+              "description": "The video opens with a serene and focused atmosphere, capturing a glass-walled room where two individuals are engaged in their work. Positioned to the left is a man with glasses and a beard, diligently working on his laptop, which is placed on a white table covered with a marble-patterned cloth. To his right, a woman is similarly engrossed in her own device, mirroring his concentration. Each has a disposable coffee cup in front of them, and their black backpacks rest against the wall beside them. The transparent walls of the room provide a glimpse into the larger space beyond, where other people are seen conversing, adding a layer of ambient activity to the scene.\nThe dialogue snippet, \"When I'm good with my voice over script, I'm going to match you in general,\" suggests that the video likely revolves around the process of creating voice-over content. The man, possibly the speaker, seems to be in the midst of refining his script, indicating a dedication to his craft and a desire to align his work with a certain standard or style set by the woman or another unseen individual. The static nature of the visual scene contrasts with the dynamic process of voice-over creation, highlighting the intense focus and preparation that goes into such work.\nThe creator of this video seems to be aiming to provide a glimpse into the environment and mindset of individuals working on voice-over projects. The juxtaposition of the calm, almost meditative setting with the dialogue about voice-over scripts suggests an intention to convey the balance between the external environment and the internal focus required for such tasks. The video likely continues to explore the nuances of voice-over work, possibly delving into the techniques, tools, and processes involved in creating high-quality voice-over content.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a serene and focused atmosphere, capturing a glass-walled room where two individuals are engaged in their work. Positioned to the left is a man with glasses and a beard, diligently working on his laptop, which is placed on a white table covered with a marble-patterned cloth. To his right, a woman is similarly engrossed in her own device, mirroring his concentration. Each has a disposable coffee cup in front of them, and their black backpacks rest against the wall beside them. The transparent walls of the room provide a glimpse into the larger space beyond, where other people are seen conversing, adding a layer of ambient activity to the scene.\nThe dialogue snippet, \"When I'm good with my voice over script, I'm going to match you in general,\" suggests that the video likely revolves around the process of creating voice-over content. The man, possibly the speaker, seems to be in the midst of refining his script, indicating a dedication to his craft and a desire to align his work with a certain standard or style set by the woman or another unseen individual. The static nature of the visual scene contrasts with the dynamic process of voice-over creation, highlighting the intense focus and preparation that goes into such work.\nThe creator of this video seems to be aiming to provide a glimpse into the environment and mindset of individuals working on voice-over projects. The juxtaposition of the calm, almost meditative setting with the dialogue about voice-over scripts suggests an intention to convey the balance between the external environment and the internal focus required for such tasks. The video likely continues to explore the nuances of voice-over work, possibly delving into the techniques, tools, and processes involved in creating high-quality voice-over content."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a serene and focused atmosphere, capturing a glass-walled room where two individuals are engaged in their work. Positioned to the left is a man with glasses and a beard, diligently working on his laptop, which is placed on a white table covered with a marble-patterned cloth. To his right, a woman is similarly engrossed in her own device, mirroring his concentration. Each has a disposable coffee cup in front of them, and their black backpacks rest against the wall beside them. The transparent walls of the room provide a glimpse into the larger space beyond, where other people are seen conversing, adding a layer of ambient activity to the scene.\nThe dialogue snippet, \"When I'm good with my voice over script, I'm going to match you in general,\" suggests that the video likely revolves around the process of creating voice-over content. The man, possibly the speaker, seems to be in the midst of refining his script, indicating a dedication to his craft and a desire to align his work with a certain standard or style set by the woman or another unseen individual. The static nature of the visual scene contrasts with the dynamic process of voice-over creation, highlighting the intense focus and preparation that goes into such work.\nThe creator of this video seems to be aiming to provide a glimpse into the environment and mindset of individuals working on voice-over projects. The juxtaposition of the calm, almost meditative setting with the dialogue about voice-over scripts suggests an intention to convey the balance between the external environment and the internal focus required for such tasks. The video likely continues to explore the nuances of voice-over work, possibly delving into the techniques, tools, and processes involved in creating high-quality voice-over content."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a serene and focused atmosphere, capturing a glass-walled room where two indivi..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1affd66ecb2513d7ef31f",
+          "created_at": "2025-10-04T23:38:37Z",
+          "updated_at": "2025-10-04T23:43:15Z",
+          "system_metadata": {
+            "duration": 4.633333,
+            "filename": "Clip 9.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 16598216,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1affd66ecb2513d7ef31f/stream/07c000c0-e365-4688-a2d0-7b4e35b642ed.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1affd66ecb2513d7ef31f/thumbnails/07c000c0-e365-4688-a2d0-7b4e35b642ed.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:39:32.372Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1affd66ecb2513d7ef31f",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_1b8f922c-e934-4ab9-9853-0c18a945622d_converted.mp4",
+      "conversionStatus": "converted"
+    },
+    {
+      "id": "dfe0800b-186e-4ed6-a356-6610523c7dad",
+      "filename": "Clip 7.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afda3a1b0bed6c135a31/thumbnails/c610d564-13ed-4f71-9967-d3d75e9af162.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afda3a1b0bed6c135a31/stream/c610d564-13ed-4f71-9967-d3d75e9af162.m3u8",
+      "metadata": {
+        "duration": 4.3,
+        "resolution": {
+          "width": 2160,
+          "height": 3840
+        },
+        "fps": 30,
+        "size": 14372562
+      },
+      "tlAnalysis": {
+        "video_id": "68e1afda3a1b0bed6c135a31",
+        "duration": 4.3,
+        "fps": 30,
+        "resolution": {
+          "width": 2160,
+          "height": 3840
+        },
+        "file_size": 14372562,
+        "summary": "The video opens with a close-up shot of two hands moving swiftly over a laptop keyboard, capturing the essence of a coder in action. The screen is dominated by lines of code, illuminated against a dark background, suggesting an intense moment of programming or software development. The blurred background reveals another laptop to the left, possibly indicating a dual-screen setup for increased productivity or multitasking. A smartphone lies face down next to the laptop, with a black object resembling a camera lens cap resting on top of it, adding a subtle detail to the scene.\nDespite the static nature of the shot, the rapid typing and the visible lines of code convey a sense of dynamism and focus. The video seems to be designed to highlight the process of coding, perhaps to inspire or educate viewers about the intricacies of software development. The inclusion of the smartphone and the lens cap might hint at the broader context of the coder's environment, suggesting a blend of digital and physical tools used in their work.\nThe only audio captured is a brief, almost inaudible \"What?\" which could be a muffled sound from the background or perhaps a momentary distraction for the coder. This minimal audio element contrasts with the visual intensity of the scene, emphasizing the visual storytelling aspect of the video.\nOverall, the video effectively captures a snapshot of a coder's workspace and workflow, immersing the viewer in the focused and dynamic world of software development.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.3,
+              "description": "The video opens with a close-up shot of two hands moving swiftly over a laptop keyboard, capturing the essence of a coder in action. The screen is dominated by lines of code, illuminated against a dark background, suggesting an intense moment of programming or software development. The blurred background reveals another laptop to the left, possibly indicating a dual-screen setup for increased productivity or multitasking. A smartphone lies face down next to the laptop, with a black object resembling a camera lens cap resting on top of it, adding a subtle detail to the scene.\nDespite the static nature of the shot, the rapid typing and the visible lines of code convey a sense of dynamism and focus. The video seems to be designed to highlight the process of coding, perhaps to inspire or educate viewers about the intricacies of software development. The inclusion of the smartphone and the lens cap might hint at the broader context of the coder's environment, suggesting a blend of digital and physical tools used in their work.\nThe only audio captured is a brief, almost inaudible \"What?\" which could be a muffled sound from the background or perhaps a momentary distraction for the coder. This minimal audio element contrasts with the visual intensity of the scene, emphasizing the visual storytelling aspect of the video.\nOverall, the video effectively captures a snapshot of a coder's workspace and workflow, immersing the viewer in the focused and dynamic world of software development.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a close-up shot of two hands moving swiftly over a laptop keyboard, capturing the essence of a coder in action. The screen is dominated by lines of code, illuminated against a dark background, suggesting an intense moment of programming or software development. The blurred background reveals another laptop to the left, possibly indicating a dual-screen setup for increased productivity or multitasking. A smartphone lies face down next to the laptop, with a black object resembling a camera lens cap resting on top of it, adding a subtle detail to the scene.\nDespite the static nature of the shot, the rapid typing and the visible lines of code convey a sense of dynamism and focus. The video seems to be designed to highlight the process of coding, perhaps to inspire or educate viewers about the intricacies of software development. The inclusion of the smartphone and the lens cap might hint at the broader context of the coder's environment, suggesting a blend of digital and physical tools used in their work.\nThe only audio captured is a brief, almost inaudible \"What?\" which could be a muffled sound from the background or perhaps a momentary distraction for the coder. This minimal audio element contrasts with the visual intensity of the scene, emphasizing the visual storytelling aspect of the video.\nOverall, the video effectively captures a snapshot of a coder's workspace and workflow, immersing the viewer in the focused and dynamic world of software development."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a close-up shot of two hands moving swiftly over a laptop keyboard, capturing the essence of a coder in action. The screen is dominated by lines of code, illuminated against a dark background, suggesting an intense moment of programming or software development. The blurred background reveals another laptop to the left, possibly indicating a dual-screen setup for increased productivity or multitasking. A smartphone lies face down next to the laptop, with a black object resembling a camera lens cap resting on top of it, adding a subtle detail to the scene.\nDespite the static nature of the shot, the rapid typing and the visible lines of code convey a sense of dynamism and focus. The video seems to be designed to highlight the process of coding, perhaps to inspire or educate viewers about the intricacies of software development. The inclusion of the smartphone and the lens cap might hint at the broader context of the coder's environment, suggesting a blend of digital and physical tools used in their work.\nThe only audio captured is a brief, almost inaudible \"What?\" which could be a muffled sound from the background or perhaps a momentary distraction for the coder. This minimal audio element contrasts with the visual intensity of the scene, emphasizing the visual storytelling aspect of the video.\nOverall, the video effectively captures a snapshot of a coder's workspace and workflow, immersing the viewer in the focused and dynamic world of software development."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a close-up shot of two hands moving swiftly over a laptop keyboard, capturing t..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1afda3a1b0bed6c135a31",
+          "created_at": "2025-10-04T23:38:02Z",
+          "updated_at": "2025-10-04T23:42:47Z",
+          "system_metadata": {
+            "duration": 4.3,
+            "filename": "Clip 7.mov",
+            "fps": 30,
+            "height": 3840,
+            "size": 14372562,
+            "width": 2160
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afda3a1b0bed6c135a31/stream/c610d564-13ed-4f71-9967-d3d75e9af162.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afda3a1b0bed6c135a31/thumbnails/c610d564-13ed-4f71-9967-d3d75e9af162.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:38:13.351Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1afda3a1b0bed6c135a31",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_dfe0800b-186e-4ed6-a356-6610523c7dad_converted.mp4",
+      "conversionStatus": "converted"
+    },
+    {
+      "id": "d1cb2915-36e0-40a6-8436-74c7287e4b0e",
+      "filename": "Clip 6.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afc766ecb2513d7ef314/thumbnails/37ae4fe1-24e5-43f7-b4f9-338e71b2b215.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afc766ecb2513d7ef314/stream/37ae4fe1-24e5-43f7-b4f9-338e71b2b215.m3u8",
+      "metadata": {
+        "duration": 4.066667,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 12848667
+      },
+      "tlAnalysis": {
+        "video_id": "68e1afc766ecb2513d7ef314",
+        "duration": 4.066667,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 12848667,
+        "summary": "The video opens with a focused look at a person typing code on a laptop keyboard, with the screen displaying lines of green code against a dark background. This scene sets a tone of intense concentration and technical work, likely aimed at showcasing coding or software development processes. The dialogue snippet, \"I can end this very much,\" adds a layer of intent and finality to the action, suggesting that the coder is either concluding a significant piece of work or has a strong sense of control over the task at hand.\nIn the background, slightly blurred to maintain focus on the primary action, another individual can be seen working at a desk equipped with two computer monitors. One monitor displays a spreadsheet-like interface, indicating that there is a parallel activity involving data management or analysis. The other monitor remains unclear, possibly due to its distance from the camera, but it hints at the complexity and multi-faceted nature of the work environment.\nThe video's creator seems to aim at providing a glimpse into a typical workday in a tech-oriented setting, emphasizing both the individual's focused work and the broader context of a collaborative or multi-tasking environment. The combination of the clear, detailed view of the coding process and the blurred background with additional monitors suggests a balance between highlighting specific tasks and acknowledging the larger ecosystem of tools and activities that support such work.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.066667,
+              "description": "The video opens with a focused look at a person typing code on a laptop keyboard, with the screen displaying lines of green code against a dark background. This scene sets a tone of intense concentration and technical work, likely aimed at showcasing coding or software development processes. The dialogue snippet, \"I can end this very much,\" adds a layer of intent and finality to the action, suggesting that the coder is either concluding a significant piece of work or has a strong sense of control over the task at hand.\nIn the background, slightly blurred to maintain focus on the primary action, another individual can be seen working at a desk equipped with two computer monitors. One monitor displays a spreadsheet-like interface, indicating that there is a parallel activity involving data management or analysis. The other monitor remains unclear, possibly due to its distance from the camera, but it hints at the complexity and multi-faceted nature of the work environment.\nThe video's creator seems to aim at providing a glimpse into a typical workday in a tech-oriented setting, emphasizing both the individual's focused work and the broader context of a collaborative or multi-tasking environment. The combination of the clear, detailed view of the coding process and the blurred background with additional monitors suggests a balance between highlighting specific tasks and acknowledging the larger ecosystem of tools and activities that support such work.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a focused look at a person typing code on a laptop keyboard, with the screen displaying lines of green code against a dark background. This scene sets a tone of intense concentration and technical work, likely aimed at showcasing coding or software development processes. The dialogue snippet, \"I can end this very much,\" adds a layer of intent and finality to the action, suggesting that the coder is either concluding a significant piece of work or has a strong sense of control over the task at hand.\nIn the background, slightly blurred to maintain focus on the primary action, another individual can be seen working at a desk equipped with two computer monitors. One monitor displays a spreadsheet-like interface, indicating that there is a parallel activity involving data management or analysis. The other monitor remains unclear, possibly due to its distance from the camera, but it hints at the complexity and multi-faceted nature of the work environment.\nThe video's creator seems to aim at providing a glimpse into a typical workday in a tech-oriented setting, emphasizing both the individual's focused work and the broader context of a collaborative or multi-tasking environment. The combination of the clear, detailed view of the coding process and the blurred background with additional monitors suggests a balance between highlighting specific tasks and acknowledging the larger ecosystem of tools and activities that support such work."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a focused look at a person typing code on a laptop keyboard, with the screen displaying lines of green code against a dark background. This scene sets a tone of intense concentration and technical work, likely aimed at showcasing coding or software development processes. The dialogue snippet, \"I can end this very much,\" adds a layer of intent and finality to the action, suggesting that the coder is either concluding a significant piece of work or has a strong sense of control over the task at hand.\nIn the background, slightly blurred to maintain focus on the primary action, another individual can be seen working at a desk equipped with two computer monitors. One monitor displays a spreadsheet-like interface, indicating that there is a parallel activity involving data management or analysis. The other monitor remains unclear, possibly due to its distance from the camera, but it hints at the complexity and multi-faceted nature of the work environment.\nThe video's creator seems to aim at providing a glimpse into a typical workday in a tech-oriented setting, emphasizing both the individual's focused work and the broader context of a collaborative or multi-tasking environment. The combination of the clear, detailed view of the coding process and the blurred background with additional monitors suggests a balance between highlighting specific tasks and acknowledging the larger ecosystem of tools and activities that support such work."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a focused look at a person typing code on a laptop keyboard, with the screen di..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1afc766ecb2513d7ef314",
+          "created_at": "2025-10-04T23:37:43Z",
+          "updated_at": "2025-10-04T23:40:49Z",
+          "system_metadata": {
+            "duration": 4.066667,
+            "filename": "Clip 6.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 12848667,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afc766ecb2513d7ef314/stream/37ae4fe1-24e5-43f7-b4f9-338e71b2b215.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afc766ecb2513d7ef314/thumbnails/37ae4fe1-24e5-43f7-b4f9-338e71b2b215.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:38:09.587Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1afc766ecb2513d7ef314",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_d1cb2915-36e0-40a6-8436-74c7287e4b0e_converted.mp4",
+      "conversionStatus": "converted"
+    },
+    {
+      "id": "c9d55407-6439-472c-ab18-6ed5c87d45f4",
+      "filename": "Clip 3.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afb13a1b0bed6c135a2e/thumbnails/12cdb6d8-1434-4b5f-9590-9987bfc0f83a.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afb13a1b0bed6c135a2e/stream/12cdb6d8-1434-4b5f-9590-9987bfc0f83a.m3u8",
+      "metadata": {
+        "duration": 4.2,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 14566482
+      },
+      "tlAnalysis": {
+        "video_id": "68e1afb13a1b0bed6c135a2e",
+        "duration": 4.2,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 14566482,
+        "summary": "The video opens with a sweeping camera movement that captures the essence of a vibrant, spacious room. The setting is dominated by an array of white chairs neatly arranged around tables, where people are seen engaged in a variety of activities. Some are deeply focused on their laptops, while others are involved in animated conversations. The room is bathed in natural light, streaming in through large windows, which creates a bright and welcoming atmosphere. The back wall of the room is a canvas of framed artwork, adding a touch of aesthetic appeal to the environment. Standing near this wall, a few individuals are captured in the scene, perhaps taking a moment to reflect or to admire the art.\nThe dialogue, though brief, adds a layer of human interaction to the visual narrative. The phrase \"Oh yeah,\" spoken at the beginning, could be a response to something seen or heard, or it might simply be a casual acknowledgment of the surroundings. This snippet of conversation, coupled with the visual elements, suggests a casual yet productive environment where people are comfortable and engaged in their activities.\nThe architectural elements, such as the white pillars supporting the ceiling, contribute to the room's design, making it not just a functional space but also an aesthetically pleasing one. The overall impression is of a modern, well-lit room that fosters both work and social interaction, possibly a setting for a collaborative workspace or a community center.\nThe creator of this video seems to have an intention to showcase a space that is both functional and beautiful, highlighting the balance between work and relaxation. The combination of the visual elements and the brief dialogue paints a picture of a dynamic environment where people can thrive, whether they are working, socializing, or simply enjoying the ambiance.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.2,
+              "description": "The video opens with a sweeping camera movement that captures the essence of a vibrant, spacious room. The setting is dominated by an array of white chairs neatly arranged around tables, where people are seen engaged in a variety of activities. Some are deeply focused on their laptops, while others are involved in animated conversations. The room is bathed in natural light, streaming in through large windows, which creates a bright and welcoming atmosphere. The back wall of the room is a canvas of framed artwork, adding a touch of aesthetic appeal to the environment. Standing near this wall, a few individuals are captured in the scene, perhaps taking a moment to reflect or to admire the art.\nThe dialogue, though brief, adds a layer of human interaction to the visual narrative. The phrase \"Oh yeah,\" spoken at the beginning, could be a response to something seen or heard, or it might simply be a casual acknowledgment of the surroundings. This snippet of conversation, coupled with the visual elements, suggests a casual yet productive environment where people are comfortable and engaged in their activities.\nThe architectural elements, such as the white pillars supporting the ceiling, contribute to the room's design, making it not just a functional space but also an aesthetically pleasing one. The overall impression is of a modern, well-lit room that fosters both work and social interaction, possibly a setting for a collaborative workspace or a community center.\nThe creator of this video seems to have an intention to showcase a space that is both functional and beautiful, highlighting the balance between work and relaxation. The combination of the visual elements and the brief dialogue paints a picture of a dynamic environment where people can thrive, whether they are working, socializing, or simply enjoying the ambiance.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a sweeping camera movement that captures the essence of a vibrant, spacious room. The setting is dominated by an array of white chairs neatly arranged around tables, where people are seen engaged in a variety of activities. Some are deeply focused on their laptops, while others are involved in animated conversations. The room is bathed in natural light, streaming in through large windows, which creates a bright and welcoming atmosphere. The back wall of the room is a canvas of framed artwork, adding a touch of aesthetic appeal to the environment. Standing near this wall, a few individuals are captured in the scene, perhaps taking a moment to reflect or to admire the art.\nThe dialogue, though brief, adds a layer of human interaction to the visual narrative. The phrase \"Oh yeah,\" spoken at the beginning, could be a response to something seen or heard, or it might simply be a casual acknowledgment of the surroundings. This snippet of conversation, coupled with the visual elements, suggests a casual yet productive environment where people are comfortable and engaged in their activities.\nThe architectural elements, such as the white pillars supporting the ceiling, contribute to the room's design, making it not just a functional space but also an aesthetically pleasing one. The overall impression is of a modern, well-lit room that fosters both work and social interaction, possibly a setting for a collaborative workspace or a community center.\nThe creator of this video seems to have an intention to showcase a space that is both functional and beautiful, highlighting the balance between work and relaxation. The combination of the visual elements and the brief dialogue paints a picture of a dynamic environment where people can thrive, whether they are working, socializing, or simply enjoying the ambiance."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a sweeping camera movement that captures the essence of a vibrant, spacious room. The setting is dominated by an array of white chairs neatly arranged around tables, where people are seen engaged in a variety of activities. Some are deeply focused on their laptops, while others are involved in animated conversations. The room is bathed in natural light, streaming in through large windows, which creates a bright and welcoming atmosphere. The back wall of the room is a canvas of framed artwork, adding a touch of aesthetic appeal to the environment. Standing near this wall, a few individuals are captured in the scene, perhaps taking a moment to reflect or to admire the art.\nThe dialogue, though brief, adds a layer of human interaction to the visual narrative. The phrase \"Oh yeah,\" spoken at the beginning, could be a response to something seen or heard, or it might simply be a casual acknowledgment of the surroundings. This snippet of conversation, coupled with the visual elements, suggests a casual yet productive environment where people are comfortable and engaged in their activities.\nThe architectural elements, such as the white pillars supporting the ceiling, contribute to the room's design, making it not just a functional space but also an aesthetically pleasing one. The overall impression is of a modern, well-lit room that fosters both work and social interaction, possibly a setting for a collaborative workspace or a community center.\nThe creator of this video seems to have an intention to showcase a space that is both functional and beautiful, highlighting the balance between work and relaxation. The combination of the visual elements and the brief dialogue paints a picture of a dynamic environment where people can thrive, whether they are working, socializing, or simply enjoying the ambiance."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a sweeping camera movement that captures the essence of a vibrant, spacious roo..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1afb13a1b0bed6c135a2e",
+          "created_at": "2025-10-04T23:37:21Z",
+          "updated_at": "2025-10-04T23:40:35Z",
+          "system_metadata": {
+            "duration": 4.2,
+            "filename": "Clip 3.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 14566482,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afb13a1b0bed6c135a2e/stream/12cdb6d8-1434-4b5f-9590-9987bfc0f83a.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afb13a1b0bed6c135a2e/thumbnails/12cdb6d8-1434-4b5f-9590-9987bfc0f83a.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:37:28.608Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1afb13a1b0bed6c135a2e",
+      "conversionStatus": "converted",
+      "conversionError": "ffmpeg exited with code 183: Error opening input file /Users/dhruvdesai/hack-demo/video-sequencer-demo/server/public/converted/temp_c9d55407-6439-472c-ab18-6ed5c87d45f4.mov.\nError opening input files: Invalid data found when processing input\n",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_c9d55407-6439-472c-ab18-6ed5c87d45f4_converted.mp4"
+    },
+    {
+      "id": "b729df91-b479-457d-9845-7a67eabeb93d",
+      "filename": "Clip 2.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afaf66ecb2513d7ef30e/thumbnails/2ccbb495-fba2-4450-aec3-807b0d9e07e5.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afaf66ecb2513d7ef30e/stream/2ccbb495-fba2-4450-aec3-807b0d9e07e5.m3u8",
+      "metadata": {
+        "duration": 4.066667,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 13986303
+      },
+      "tlAnalysis": {
+        "video_id": "68e1afaf66ecb2513d7ef30e",
+        "duration": 4.066667,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 13986303,
+        "summary": "The video opens with a scene that sets the stage for what appears to be a collaborative work environment. A man, wearing glasses, is seated at his desk, gesturing towards another person who is standing beside him. The standing individual is looking down at something out of the viewer's sight, suggesting they might be examining a document or device. In the background, two other individuals are seen working diligently at their own desks, adding to the atmosphere of a busy office or lab setting. The desk of the seated man features a laptop computer that is open, indicating that the work being done is likely digital in nature.\nThe dialogue snippet heard in the opening seconds of the video provides a clue about the nature of the work being discussed. The seated man mentions \"dumping\" and \"sequencing\" something, which could imply that the team is involved in data processing, possibly in a scientific or technological context. The use of the term \"sequence\" might suggest that they are dealing with data that needs to be organized in a particular order, such as genetic sequences or digital files.\nGiven the context and the dialogue, the video seems to be documenting a moment in a professional setting where a team is discussing a project or task that involves handling and organizing data. The intention of the video content creator appears to be to provide a glimpse into the work dynamics and the type of tasks being undertaken by the team. The focus on the seated man and his gesture towards the standing individual, combined with the background activity, suggests that the creator wants to highlight the collaborative and focused nature of the work environment.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.066667,
+              "description": "The video opens with a scene that sets the stage for what appears to be a collaborative work environment. A man, wearing glasses, is seated at his desk, gesturing towards another person who is standing beside him. The standing individual is looking down at something out of the viewer's sight, suggesting they might be examining a document or device. In the background, two other individuals are seen working diligently at their own desks, adding to the atmosphere of a busy office or lab setting. The desk of the seated man features a laptop computer that is open, indicating that the work being done is likely digital in nature.\nThe dialogue snippet heard in the opening seconds of the video provides a clue about the nature of the work being discussed. The seated man mentions \"dumping\" and \"sequencing\" something, which could imply that the team is involved in data processing, possibly in a scientific or technological context. The use of the term \"sequence\" might suggest that they are dealing with data that needs to be organized in a particular order, such as genetic sequences or digital files.\nGiven the context and the dialogue, the video seems to be documenting a moment in a professional setting where a team is discussing a project or task that involves handling and organizing data. The intention of the video content creator appears to be to provide a glimpse into the work dynamics and the type of tasks being undertaken by the team. The focus on the seated man and his gesture towards the standing individual, combined with the background activity, suggests that the creator wants to highlight the collaborative and focused nature of the work environment.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a scene that sets the stage for what appears to be a collaborative work environment. A man, wearing glasses, is seated at his desk, gesturing towards another person who is standing beside him. The standing individual is looking down at something out of the viewer's sight, suggesting they might be examining a document or device. In the background, two other individuals are seen working diligently at their own desks, adding to the atmosphere of a busy office or lab setting. The desk of the seated man features a laptop computer that is open, indicating that the work being done is likely digital in nature.\nThe dialogue snippet heard in the opening seconds of the video provides a clue about the nature of the work being discussed. The seated man mentions \"dumping\" and \"sequencing\" something, which could imply that the team is involved in data processing, possibly in a scientific or technological context. The use of the term \"sequence\" might suggest that they are dealing with data that needs to be organized in a particular order, such as genetic sequences or digital files.\nGiven the context and the dialogue, the video seems to be documenting a moment in a professional setting where a team is discussing a project or task that involves handling and organizing data. The intention of the video content creator appears to be to provide a glimpse into the work dynamics and the type of tasks being undertaken by the team. The focus on the seated man and his gesture towards the standing individual, combined with the background activity, suggests that the creator wants to highlight the collaborative and focused nature of the work environment."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a scene that sets the stage for what appears to be a collaborative work environment. A man, wearing glasses, is seated at his desk, gesturing towards another person who is standing beside him. The standing individual is looking down at something out of the viewer's sight, suggesting they might be examining a document or device. In the background, two other individuals are seen working diligently at their own desks, adding to the atmosphere of a busy office or lab setting. The desk of the seated man features a laptop computer that is open, indicating that the work being done is likely digital in nature.\nThe dialogue snippet heard in the opening seconds of the video provides a clue about the nature of the work being discussed. The seated man mentions \"dumping\" and \"sequencing\" something, which could imply that the team is involved in data processing, possibly in a scientific or technological context. The use of the term \"sequence\" might suggest that they are dealing with data that needs to be organized in a particular order, such as genetic sequences or digital files.\nGiven the context and the dialogue, the video seems to be documenting a moment in a professional setting where a team is discussing a project or task that involves handling and organizing data. The intention of the video content creator appears to be to provide a glimpse into the work dynamics and the type of tasks being undertaken by the team. The focus on the seated man and his gesture towards the standing individual, combined with the background activity, suggests that the creator wants to highlight the collaborative and focused nature of the work environment."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a scene that sets the stage for what appears to be a collaborative work environ..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1afaf66ecb2513d7ef30e",
+          "created_at": "2025-10-04T23:37:19Z",
+          "updated_at": "2025-10-04T23:40:43Z",
+          "system_metadata": {
+            "duration": 4.066667,
+            "filename": "Clip 2.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 13986303,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afaf66ecb2513d7ef30e/stream/2ccbb495-fba2-4450-aec3-807b0d9e07e5.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afaf66ecb2513d7ef30e/thumbnails/2ccbb495-fba2-4450-aec3-807b0d9e07e5.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:37:26.803Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1afaf66ecb2513d7ef30e",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_b729df91-b479-457d-9845-7a67eabeb93d_converted.mp4",
+      "conversionStatus": "converted"
+    },
+    {
+      "id": "473cb815-8892-4b7c-854d-d3e2d07264cc",
+      "filename": "Clip 5.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af993a1b0bed6c135a28/thumbnails/bcddc150-0375-479f-86c3-8e0b60cbc36e.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af993a1b0bed6c135a28/stream/bcddc150-0375-479f-86c3-8e0b60cbc36e.m3u8",
+      "metadata": {
+        "duration": 4.5,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 8686406
+      },
+      "tlAnalysis": {
+        "video_id": "68e1af993a1b0bed6c135a28",
+        "duration": 4.5,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 8686406,
+        "summary": "The video opens with a static, almost surreal scene that captures a moment frozen in time. The camera is positioned behind a table where two individuals are seated, their backs to the viewer, suggesting a focused conversation or interaction. In front of them, a third person stands, gesturing towards something out of the frame, possibly indicating an object or a point of interest that is not visible to the audience. This gesture, along with the dialogue that begins with a simple \"Thank you,\" implies a formal or appreciative exchange, perhaps the conclusion of a presentation or a meeting.\nTo the right of this central trio, a counter is visible, where several more individuals are engaged in conversation, their postures and gestures indicating a lively exchange of ideas or casual discussion. The background of the scene is populated with additional people seated around tables, creating a sense of a larger gathering or event. The presence of a large mural on one of the walls adds a vibrant touch to the otherwise neutral-toned space, suggesting a setting that might be a community center, a classroom, or a meeting room with an emphasis on creativity or cultural expression.\nThroughout the video, the lack of discernible movement among the characters creates a unique visual effect, as if the scene has been paused mid-action. This static quality could be intentional, aiming to highlight the momentary stillness in a dynamic environment, or it could be a stylistic choice to emphasize the content of the dialogue and the significance of the interactions depicted. The overall composition of the video suggests a focus on interpersonal communication and the dynamics of group interactions within a specific setting, possibly intended to convey a message about the importance of gratitude, community, or shared experiences.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.5,
+              "description": "The video opens with a static, almost surreal scene that captures a moment frozen in time. The camera is positioned behind a table where two individuals are seated, their backs to the viewer, suggesting a focused conversation or interaction. In front of them, a third person stands, gesturing towards something out of the frame, possibly indicating an object or a point of interest that is not visible to the audience. This gesture, along with the dialogue that begins with a simple \"Thank you,\" implies a formal or appreciative exchange, perhaps the conclusion of a presentation or a meeting.\nTo the right of this central trio, a counter is visible, where several more individuals are engaged in conversation, their postures and gestures indicating a lively exchange of ideas or casual discussion. The background of the scene is populated with additional people seated around tables, creating a sense of a larger gathering or event. The presence of a large mural on one of the walls adds a vibrant touch to the otherwise neutral-toned space, suggesting a setting that might be a community center, a classroom, or a meeting room with an emphasis on creativity or cultural expression.\nThroughout the video, the lack of discernible movement among the characters creates a unique visual effect, as if the scene has been paused mid-action. This static quality could be intentional, aiming to highlight the momentary stillness in a dynamic environment, or it could be a stylistic choice to emphasize the content of the dialogue and the significance of the interactions depicted. The overall composition of the video suggests a focus on interpersonal communication and the dynamics of group interactions within a specific setting, possibly intended to convey a message about the importance of gratitude, community, or shared experiences.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a static, almost surreal scene that captures a moment frozen in time. The camera is positioned behind a table where two individuals are seated, their backs to the viewer, suggesting a focused conversation or interaction. In front of them, a third person stands, gesturing towards something out of the frame, possibly indicating an object or a point of interest that is not visible to the audience. This gesture, along with the dialogue that begins with a simple \"Thank you,\" implies a formal or appreciative exchange, perhaps the conclusion of a presentation or a meeting.\nTo the right of this central trio, a counter is visible, where several more individuals are engaged in conversation, their postures and gestures indicating a lively exchange of ideas or casual discussion. The background of the scene is populated with additional people seated around tables, creating a sense of a larger gathering or event. The presence of a large mural on one of the walls adds a vibrant touch to the otherwise neutral-toned space, suggesting a setting that might be a community center, a classroom, or a meeting room with an emphasis on creativity or cultural expression.\nThroughout the video, the lack of discernible movement among the characters creates a unique visual effect, as if the scene has been paused mid-action. This static quality could be intentional, aiming to highlight the momentary stillness in a dynamic environment, or it could be a stylistic choice to emphasize the content of the dialogue and the significance of the interactions depicted. The overall composition of the video suggests a focus on interpersonal communication and the dynamics of group interactions within a specific setting, possibly intended to convey a message about the importance of gratitude, community, or shared experiences."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a static, almost surreal scene that captures a moment frozen in time. The camera is positioned behind a table where two individuals are seated, their backs to the viewer, suggesting a focused conversation or interaction. In front of them, a third person stands, gesturing towards something out of the frame, possibly indicating an object or a point of interest that is not visible to the audience. This gesture, along with the dialogue that begins with a simple \"Thank you,\" implies a formal or appreciative exchange, perhaps the conclusion of a presentation or a meeting.\nTo the right of this central trio, a counter is visible, where several more individuals are engaged in conversation, their postures and gestures indicating a lively exchange of ideas or casual discussion. The background of the scene is populated with additional people seated around tables, creating a sense of a larger gathering or event. The presence of a large mural on one of the walls adds a vibrant touch to the otherwise neutral-toned space, suggesting a setting that might be a community center, a classroom, or a meeting room with an emphasis on creativity or cultural expression.\nThroughout the video, the lack of discernible movement among the characters creates a unique visual effect, as if the scene has been paused mid-action. This static quality could be intentional, aiming to highlight the momentary stillness in a dynamic environment, or it could be a stylistic choice to emphasize the content of the dialogue and the significance of the interactions depicted. The overall composition of the video suggests a focus on interpersonal communication and the dynamics of group interactions within a specific setting, possibly intended to convey a message about the importance of gratitude, community, or shared experiences."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a static, almost surreal scene that captures a moment frozen in time. The camer..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1af993a1b0bed6c135a28",
+          "created_at": "2025-10-04T23:36:57Z",
+          "updated_at": "2025-10-04T23:40:32Z",
+          "system_metadata": {
+            "duration": 4.5,
+            "filename": "Clip 5.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 8686406,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af993a1b0bed6c135a28/stream/bcddc150-0375-479f-86c3-8e0b60cbc36e.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af993a1b0bed6c135a28/thumbnails/bcddc150-0375-479f-86c3-8e0b60cbc36e.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:37:04.427Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1af993a1b0bed6c135a28",
+      "conversionStatus": "not_converted",
+      "mp4Url": null
+    },
+    {
+      "id": "61151b7d-51f4-4b2d-999f-2bc6aafd2559",
+      "filename": "Clip 4.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af8f64ff05606e152acc/thumbnails/b2c7b1a6-c7b0-4fb1-ab8f-f0c4c7f84ad9.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af8f64ff05606e152acc/stream/b2c7b1a6-c7b0-4fb1-ab8f-f0c4c7f84ad9.m3u8",
+      "metadata": {
+        "duration": 4.099999999,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 6305342
+      },
+      "tlAnalysis": {
+        "video_id": "68e1af8f64ff05606e152acc",
+        "duration": 4.099999999,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 6305342,
+        "summary": "The video opens with a static shot of a large screen displaying the word 'betaworks' against a stark white backdrop. To the right side of the frame, a small potted plant adds a touch of greenery, subtly breaking the monotony of the white space. As the camera begins to pan leftward, it gradually reveals additional content beneath the initial display. This includes a series of logos from various companies such as Swayable, IlevenLabs, NEA, AWS, and Amazon Prime Video, suggesting a collaborative or sponsored event.\nThe panning motion continues to uncover more detailed information, which reads \"ADVERTISING WEEK NY\", \"Generative AI in Advertising Hackathon\", and \"OCTOBER 4-6, 2025 NEW YORK CITY\". This sequence of information clearly indicates that the video is likely an introduction or promotional piece for an upcoming event focused on the integration of generative artificial intelligence in the advertising industry. The event is set to take place in New York City over a three-day period in October 2025, and the presence of multiple corporate logos suggests a high level of industry involvement and support.\nThe video's opening dialogue, a simple \"Okay,\" serves as a brief verbal cue, possibly signaling the start of the event or the beginning of a presentation. This concise statement, combined with the visual elements, sets a professional and straightforward tone for the video, emphasizing the event's focus on technology and collaboration within the advertising sector.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.099999999,
+              "description": "The video opens with a static shot of a large screen displaying the word 'betaworks' against a stark white backdrop. To the right side of the frame, a small potted plant adds a touch of greenery, subtly breaking the monotony of the white space. As the camera begins to pan leftward, it gradually reveals additional content beneath the initial display. This includes a series of logos from various companies such as Swayable, IlevenLabs, NEA, AWS, and Amazon Prime Video, suggesting a collaborative or sponsored event.\nThe panning motion continues to uncover more detailed information, which reads \"ADVERTISING WEEK NY\", \"Generative AI in Advertising Hackathon\", and \"OCTOBER 4-6, 2025 NEW YORK CITY\". This sequence of information clearly indicates that the video is likely an introduction or promotional piece for an upcoming event focused on the integration of generative artificial intelligence in the advertising industry. The event is set to take place in New York City over a three-day period in October 2025, and the presence of multiple corporate logos suggests a high level of industry involvement and support.\nThe video's opening dialogue, a simple \"Okay,\" serves as a brief verbal cue, possibly signaling the start of the event or the beginning of a presentation. This concise statement, combined with the visual elements, sets a professional and straightforward tone for the video, emphasizing the event's focus on technology and collaboration within the advertising sector.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a static shot of a large screen displaying the word 'betaworks' against a stark white backdrop. To the right side of the frame, a small potted plant adds a touch of greenery, subtly breaking the monotony of the white space. As the camera begins to pan leftward, it gradually reveals additional content beneath the initial display. This includes a series of logos from various companies such as Swayable, IlevenLabs, NEA, AWS, and Amazon Prime Video, suggesting a collaborative or sponsored event.\nThe panning motion continues to uncover more detailed information, which reads \"ADVERTISING WEEK NY\", \"Generative AI in Advertising Hackathon\", and \"OCTOBER 4-6, 2025 NEW YORK CITY\". This sequence of information clearly indicates that the video is likely an introduction or promotional piece for an upcoming event focused on the integration of generative artificial intelligence in the advertising industry. The event is set to take place in New York City over a three-day period in October 2025, and the presence of multiple corporate logos suggests a high level of industry involvement and support.\nThe video's opening dialogue, a simple \"Okay,\" serves as a brief verbal cue, possibly signaling the start of the event or the beginning of a presentation. This concise statement, combined with the visual elements, sets a professional and straightforward tone for the video, emphasizing the event's focus on technology and collaboration within the advertising sector."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a static shot of a large screen displaying the word 'betaworks' against a stark white backdrop. To the right side of the frame, a small potted plant adds a touch of greenery, subtly breaking the monotony of the white space. As the camera begins to pan leftward, it gradually reveals additional content beneath the initial display. This includes a series of logos from various companies such as Swayable, IlevenLabs, NEA, AWS, and Amazon Prime Video, suggesting a collaborative or sponsored event.\nThe panning motion continues to uncover more detailed information, which reads \"ADVERTISING WEEK NY\", \"Generative AI in Advertising Hackathon\", and \"OCTOBER 4-6, 2025 NEW YORK CITY\". This sequence of information clearly indicates that the video is likely an introduction or promotional piece for an upcoming event focused on the integration of generative artificial intelligence in the advertising industry. The event is set to take place in New York City over a three-day period in October 2025, and the presence of multiple corporate logos suggests a high level of industry involvement and support.\nThe video's opening dialogue, a simple \"Okay,\" serves as a brief verbal cue, possibly signaling the start of the event or the beginning of a presentation. This concise statement, combined with the visual elements, sets a professional and straightforward tone for the video, emphasizing the event's focus on technology and collaboration within the advertising sector."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a static shot of a large screen displaying the word 'betaworks' against a stark..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1af8f64ff05606e152acc",
+          "created_at": "2025-10-04T23:36:47Z",
+          "updated_at": "2025-10-04T23:40:01Z",
+          "system_metadata": {
+            "duration": 4.099999999,
+            "filename": "Clip 4.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 6305342,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af8f64ff05606e152acc/stream/b2c7b1a6-c7b0-4fb1-ab8f-f0c4c7f84ad9.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af8f64ff05606e152acc/thumbnails/b2c7b1a6-c7b0-4fb1-ab8f-f0c4c7f84ad9.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:36:54.587Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1af8f64ff05606e152acc",
+      "conversionStatus": "converted",
+      "conversionError": "ffmpeg exited with code 183: Error opening input file /Users/dhruvdesai/hack-demo/video-sequencer-demo/server/public/converted/temp_61151b7d-51f4-4b2d-999f-2bc6aafd2559.mov.\nError opening input files: Invalid data found when processing input\n",
+      "mp4Url": "http://localhost:3001/converted/1fcba4ab-662b-4c59-ab02-1a1948d7b90c_61151b7d-51f4-4b2d-999f-2bc6aafd2559_converted.mp4"
+    }
+  ],
+  "sequence": {
+    "sequence": [
+      "6ee04221-6483-4316-b928-eecf078c1f58",
+      "61151b7d-51f4-4b2d-999f-2bc6aafd2559",
+      "c250bdd0-c58f-4fc2-980f-c240d710305c",
+      "6ce473a1-46f5-408a-b9d3-de01e5872a7e",
+      "892f9f0f-ae26-469a-816b-2d9e176e84ae",
+      "d31385ed-07b3-4d6c-963b-2bd92ed9ab56",
+      "dfe0800b-186e-4ed6-a356-6610523c7dad",
+      "d1cb2915-36e0-40a6-8436-74c7287e4b0e",
+      "1b8f922c-e934-4ab9-9853-0c18a945622d",
+      "6b3cbc2c-14a4-48e4-8789-0ec314eb4f32",
+      "6a42fdb2-5b6b-46c8-bdcc-b8f9f1af20ee"
+    ],
+    "excluded_clips": [
+      {
+        "clipId": "a7e870df-49a4-4db0-b2cb-273de1c0279c",
+        "reason": "Cafe setting with creative discussion doesn't match the tech office/workspace narrative"
+      },
+      {
+        "clipId": "dc0b7d6e-6ac9-45ec-8c5c-d4d6afbbc7aa",
+        "reason": "Architectural space with ceiling/pipes doesn't fit the office workspace story"
+      },
+      {
+        "clipId": "32084f0c-e037-4fc1-9ed2-641b8851cb78",
+        "reason": "Dimly lit room with different lighting doesn't match bright office environment"
+      },
+      {
+        "clipId": "c9d55407-6439-472c-ab18-6ed5c87d45f4",
+        "reason": "Art-focused space with framed artwork doesn't align with tech workspace theme"
+      },
+      {
+        "clipId": "b729df91-b479-457d-9845-7a67eabeb93d",
+        "reason": "Different work environment focused on data processing doesn't match hackathon setting"
+      },
+      {
+        "clipId": "473cb815-8892-4b7c-854d-d3e2d07264cc",
+        "reason": "Static meeting conclusion doesn't fit the dynamic workspace narrative flow"
+      }
+    ],
+    "narrative_structure": "Tech hackathon journey: Brand introduction → Event setup → Team formation → Collaboration → Development work → Focused coding → Final workspace overview → Positive conclusion",
+    "reasoning": "Selected clips that create a cohesive story about a tech hackathon/workspace experience. Starting with TwelveLabs branding, moving through the betaworks hackathon setup, showing team collaboration, intensive coding work, and ending with the vibrant workspace atmosphere and positive team energy. Excluded clips that didn't match the tech office setting or hackathon theme.",
+    "estimated_total_duration": 49.43
+  },
+  "scores": [
+    {
+      "clipId": "892f9f0f-ae26-469a-816b-2d9e176e84ae",
+      "clarity": 85,
+      "salience": 75,
+      "hook": 70,
+      "emotion": 60,
+      "suitability": 65,
+      "pacing": 75,
+      "ability": 73.5,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video has high-quality visual resolution and a clear, professional work environment setting with crisp technical details. The visual and audio quality are strong, making the content easily comprehensible despite the brief duration."
+    },
+    {
+      "clipId": "6ee04221-6483-4316-b928-eecf078c1f58",
+      "clarity": 85,
+      "salience": 70,
+      "hook": 75,
+      "emotion": 60,
+      "suitability": 65,
+      "pacing": 80,
+      "ability": 74,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video offers a high-quality, crisp visual presentation with a professional 4K resolution and clear visual narrative. The technical quality and visual composition contribute to its strong clarity score."
+    },
+    {
+      "clipId": "a7e870df-49a4-4db0-b2cb-273de1c0279c",
+      "clarity": 85,
+      "salience": 75,
+      "hook": 80,
+      "emotion": 65,
+      "suitability": 70,
+      "pacing": 75,
+      "ability": 76,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video presents a high-quality, visually crisp scene of a creative group meeting in a cafe, with excellent resolution and a clear, detailed visual narrative that provides exceptional clarity of the scene and its context."
+    },
+    {
+      "clipId": "dc0b7d6e-6ac9-45ec-8c5c-d4d6afbbc7aa",
+      "clarity": 85,
+      "salience": 70,
+      "hook": 80,
+      "emotion": 65,
+      "suitability": 60,
+      "pacing": 75,
+      "ability": 75.25,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video features exceptionally high-quality visual details with a crisp 4K resolution and a clear, architectural narrative. The low-angle shot and systematic room exploration provide a visually precise and comprehensible experience."
+    },
+    {
+      "clipId": "c250bdd0-c58f-4fc2-980f-c240d710305c",
+      "clarity": 85,
+      "salience": 80,
+      "hook": 75,
+      "emotion": 70,
+      "suitability": 65,
+      "pacing": 72,
+      "ability": 76.25,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video presents a high-quality, detailed snapshot of a professional office environment with clear visual composition and descriptive context. The technical aspects of the video, including high resolution and good lighting, contribute to its exceptional clarity."
+    },
+    {
+      "clipId": "6ce473a1-46f5-408a-b9d3-de01e5872a7e",
+      "clarity": 90,
+      "salience": 85,
+      "hook": 80,
+      "emotion": 70,
+      "suitability": 75,
+      "pacing": 75,
+      "ability": 80.25,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video presents an exceptionally clear and high-quality visualization of a modern collaborative workspace with sharp 4K resolution and good visual details. The professional setting and crisp technical specifications contribute to its top-tier clarity."
+    },
+    {
+      "clipId": "6a42fdb2-5b6b-46c8-bdcc-b8f9f1af20ee",
+      "clarity": 85,
+      "salience": 75,
+      "hook": 70,
+      "emotion": 65,
+      "suitability": 60,
+      "pacing": 80,
+      "ability": 73.5,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video offers a high-resolution, panoramic view with excellent visual quality and a clear narrative structure. The high-angle shot and detailed description provide exceptional clarity of the scene and its dynamics."
+    },
+    {
+      "clipId": "32084f0c-e037-4fc1-9ed2-641b8851cb78",
+      "clarity": 85,
+      "salience": 75,
+      "hook": 80,
+      "emotion": 70,
+      "suitability": 65,
+      "pacing": 75,
+      "ability": 76.25,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video demonstrates high visual clarity with a detailed, deliberately composed low-angle shot in a dimly lit room, capturing nuanced interactions with high-resolution cinematography. The technical precision and intentional framing contribute to its strong visual communication."
+    },
+    {
+      "clipId": "d31385ed-07b3-4d6c-963b-2bd92ed9ab56",
+      "clarity": 85,
+      "salience": 75,
+      "hook": 80,
+      "emotion": 60,
+      "suitability": 65,
+      "pacing": 70,
+      "ability": 75.5,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video provides a crisp, high-resolution view of a coding environment with clean visuals and good technical quality. The static shot of the laptop screen with JavaScript code offers a clear and focused visual narrative."
+    },
+    {
+      "clipId": "6b3cbc2c-14a4-48e4-8789-0ec314eb4f32",
+      "clarity": 90,
+      "salience": 85,
+      "hook": 80,
+      "emotion": 75,
+      "suitability": 70,
+      "pacing": 75,
+      "ability": 80.25,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video provides an exceptionally clear and high-quality visual exploration of a multifunctional workspace, with crisp 4K resolution and a smooth panoramic camera movement that effectively captures the room's dynamic environment."
+    },
+    {
+      "clipId": "1b8f922c-e934-4ab9-9853-0c18a945622d",
+      "clarity": 85,
+      "salience": 75,
+      "hook": 70,
+      "emotion": 65,
+      "suitability": 60,
+      "pacing": 75,
+      "ability": 74,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video demonstrates high visual clarity with a crisp 4K resolution and a well-composed, focused scene of professionals working. The technical quality and clear visual narrative contribute to its strong clarity score."
+    },
+    {
+      "clipId": "dfe0800b-186e-4ed6-a356-6610523c7dad",
+      "clarity": 95,
+      "salience": 85,
+      "hook": 88,
+      "emotion": 70,
+      "suitability": 75,
+      "pacing": 80,
+      "ability": 83.5,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video presents an exceptionally clear, high-resolution view of a coding environment with precise visual details and a crisp, focused narrative. The technical quality and visual storytelling are outstanding, particularly in capturing the nuanced moment of software development."
+    },
+    {
+      "clipId": "d1cb2915-36e0-40a6-8436-74c7287e4b0e",
+      "clarity": 95,
+      "salience": 90,
+      "hook": 85,
+      "emotion": 70,
+      "suitability": 80,
+      "pacing": 75,
+      "ability": 83.5,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video offers an exceptionally clear visual representation of a technical work environment with high-resolution 4K footage and a focused view of coding activity. The crisp, detailed imagery and professional setting contribute to its outstanding clarity and technical precision."
+    },
+    {
+      "clipId": "c9d55407-6439-472c-ab18-6ed5c87d45f4",
+      "clarity": 92,
+      "salience": 85,
+      "hook": 88,
+      "emotion": 75,
+      "suitability": 80,
+      "pacing": 82,
+      "ability": 84.5,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video exhibits exceptional visual quality with a high-resolution 4K capture, crisp camera movement, and a clear narrative that effectively communicates the environment's dynamic nature. The high-definition imagery and comprehensive scene description contribute to its outstanding clarity."
+    },
+    {
+      "clipId": "b729df91-b479-457d-9845-7a67eabeb93d",
+      "clarity": 85,
+      "salience": 75,
+      "hook": 70,
+      "emotion": 60,
+      "suitability": 65,
+      "pacing": 75,
+      "ability": 73.5,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video demonstrates high visual quality with a 4K resolution and clear professional setting, providing a crisp and comprehensible view of a collaborative work environment. The technical details and visual clarity stand out as the most impressive aspect of the clip."
+    },
+    {
+      "clipId": "473cb815-8892-4b7c-854d-d3e2d07264cc",
+      "clarity": 85,
+      "salience": 75,
+      "hook": 70,
+      "emotion": 60,
+      "suitability": 65,
+      "pacing": 80,
+      "ability": 74.25,
+      "topDimension": "Clarity",
+      "badge": "Crystal Clear",
+      "reasoning": "The video demonstrates high-quality visual composition with a 4K resolution and a detailed, static scene that provides a clear, focused view of a professional interaction. The high-resolution capture and comprehensive visual description contribute to its exceptional clarity."
+    },
+    {
+      "clipId": "61151b7d-51f4-4b2d-999f-2bc6aafd2559",
+      "clarity": 85,
+      "salience": 90,
+      "hook": 75,
+      "emotion": 60,
+      "suitability": 80,
+      "pacing": 70,
+      "ability": 78,
+      "topDimension": "Salience",
+      "badge": "Strong Subject",
+      "reasoning": "The video provides a clear, professional introduction to a high-relevance Generative AI Advertising Hackathon, with strong corporate backing and a focused technological theme. Its subject matter is particularly compelling in the current AI-driven advertising landscape."
+    }
+  ],
+  "soundtrack": null,
+  "createdAt": "2025-10-05T02:31:59.044Z",
+  "conversionResult": {
+    "timestamp": "2025-10-05T04:32:29.487Z",
+    "successCount": 11,
+    "failureCount": 0,
+    "allSuccessful": true
+  }
+}

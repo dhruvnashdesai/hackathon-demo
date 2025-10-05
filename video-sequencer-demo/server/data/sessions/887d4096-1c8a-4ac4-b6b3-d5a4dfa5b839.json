@@ -1,0 +1,1844 @@
+{
+  "clips": [
+    {
+      "id": "0eebc4f1-3060-4cf8-b28e-0fb6958b0a34",
+      "filename": "asset_1759640236516_Chipotle - Back to the Start - TRUE FOOD ALLIANCE (480p, h264, youtube).mp4",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1faba64ff05606e153230/thumbnails/b74f0b7b-a5de-4b52-9d75-9846a0810afe.0000001.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1faba64ff05606e153230/stream/b74f0b7b-a5de-4b52-9d75-9846a0810afe.m3u8",
+      "metadata": {
+        "duration": 140.058005,
+        "resolution": {
+          "width": 854,
+          "height": 480
+        },
+        "fps": 24,
+        "size": 9021885
+      },
+      "tlAnalysis": {
+        "video_id": "68e1faba64ff05606e153230",
+        "duration": 140.058005,
+        "fps": 24,
+        "resolution": {
+          "width": 854,
+          "height": 480
+        },
+        "file_size": 9021885,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 140.058005,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1faba64ff05606e153230",
+          "created_at": "2025-10-05T04:57:30Z",
+          "updated_at": "2025-10-05T05:00:04Z",
+          "system_metadata": {
+            "duration": 140.058005,
+            "filename": "asset_1759640236516_Chipotle - Back to the Start - TRUE FOOD ALLIANCE (480p, h264, youtube).mp4",
+            "fps": 24,
+            "height": 480,
+            "size": 9021885,
+            "width": 854
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1faba64ff05606e153230/stream/b74f0b7b-a5de-4b52-9d75-9846a0810afe.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1faba64ff05606e153230/thumbnails/b74f0b7b-a5de-4b52-9d75-9846a0810afe.0000001.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-05T04:58:05.859Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1faba64ff05606e153230"
+    },
+    {
+      "id": "9230b829-45d5-4149-a27b-e783d7dc62d4",
+      "filename": "Clip 17.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08a3a1b0bed6c135a43/thumbnails/cecb5a12-4a85-4c2d-b798-de5ecdb2620d.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08a3a1b0bed6c135a43/stream/cecb5a12-4a85-4c2d-b798-de5ecdb2620d.m3u8",
+      "metadata": {
+        "duration": 5,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 17124498
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b08a3a1b0bed6c135a43",
+        "duration": 5,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 17124498,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 5,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b08a3a1b0bed6c135a43",
+          "created_at": "2025-10-04T23:40:58Z",
+          "updated_at": "2025-10-04T23:48:06Z",
+          "system_metadata": {
+            "duration": 5,
+            "filename": "Clip 17.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 17124498,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08a3a1b0bed6c135a43/stream/cecb5a12-4a85-4c2d-b798-de5ecdb2620d.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08a3a1b0bed6c135a43/thumbnails/cecb5a12-4a85-4c2d-b798-de5ecdb2620d.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:41:06.901Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b08a3a1b0bed6c135a43"
+    },
+    {
+      "id": "4dde3797-ee07-40da-b7c0-02d9f6836f50",
+      "filename": "Clips 1.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08464ff05606e152aed/thumbnails/6e90ad7a-7179-490b-ba27-307c2f44dfd7.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08464ff05606e152aed/stream/6e90ad7a-7179-490b-ba27-307c2f44dfd7.m3u8",
+      "metadata": {
+        "duration": 4.066667,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 10787100
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b08464ff05606e152aed",
+        "duration": 4.066667,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 10787100,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.066667,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b08464ff05606e152aed",
+          "created_at": "2025-10-04T23:40:52Z",
+          "updated_at": "2025-10-04T23:46:47Z",
+          "system_metadata": {
+            "duration": 4.066667,
+            "filename": "Clips 1.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 10787100,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08464ff05606e152aed/stream/6e90ad7a-7179-490b-ba27-307c2f44dfd7.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b08464ff05606e152aed/thumbnails/6e90ad7a-7179-490b-ba27-307c2f44dfd7.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:40:59.388Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b08464ff05606e152aed"
+    },
+    {
+      "id": "d398e315-c61d-45cd-a627-c83c30c40ca7",
+      "filename": "Clip 16.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b07af2e53b115e1ae4ba/thumbnails/9d772094-8878-47e8-87bc-d900664ba372.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b07af2e53b115e1ae4ba/stream/9d772094-8878-47e8-87bc-d900664ba372.m3u8",
+      "metadata": {
+        "duration": 4.5,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 16040590
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b07af2e53b115e1ae4ba",
+        "duration": 4.5,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 16040590,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.5,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b07af2e53b115e1ae4ba",
+          "created_at": "2025-10-04T23:40:42Z",
+          "updated_at": "2025-10-04T23:45:54Z",
+          "system_metadata": {
+            "duration": 4.5,
+            "filename": "Clip 16.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 16040590,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b07af2e53b115e1ae4ba/stream/9d772094-8878-47e8-87bc-d900664ba372.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b07af2e53b115e1ae4ba/thumbnails/9d772094-8878-47e8-87bc-d900664ba372.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:40:48.331Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b07af2e53b115e1ae4ba"
+    },
+    {
+      "id": "a7958f57-b00d-4339-9f4a-a36f823823b7",
+      "filename": "Clip 15.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b06b64ff05606e152ae9/thumbnails/084baa86-91ed-470a-8c46-d1bf5fbf81a0.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b06b64ff05606e152ae9/stream/084baa86-91ed-470a-8c46-d1bf5fbf81a0.m3u8",
+      "metadata": {
+        "duration": 4.066667,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 13438073
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b06b64ff05606e152ae9",
+        "duration": 4.066667,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 13438073,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.066667,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b06b64ff05606e152ae9",
+          "created_at": "2025-10-04T23:40:27Z",
+          "updated_at": "2025-10-04T23:45:53Z",
+          "system_metadata": {
+            "duration": 4.066667,
+            "filename": "Clip 15.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 13438073,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b06b64ff05606e152ae9/stream/084baa86-91ed-470a-8c46-d1bf5fbf81a0.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b06b64ff05606e152ae9/thumbnails/084baa86-91ed-470a-8c46-d1bf5fbf81a0.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:40:39.001Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b06b64ff05606e152ae9"
+    },
+    {
+      "id": "87c126b1-3daa-4964-b90d-19ecf35aad1d",
+      "filename": "Clip 14.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b063f2e53b115e1ae4b8/thumbnails/216b9653-12a3-4d15-a4a0-33d762026d17.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b063f2e53b115e1ae4b8/stream/216b9653-12a3-4d15-a4a0-33d762026d17.m3u8",
+      "metadata": {
+        "duration": 4.099999999,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 14173864
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b063f2e53b115e1ae4b8",
+        "duration": 4.099999999,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 14173864,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.099999999,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b063f2e53b115e1ae4b8",
+          "created_at": "2025-10-04T23:40:19Z",
+          "updated_at": "2025-10-04T23:45:45Z",
+          "system_metadata": {
+            "duration": 4.099999999,
+            "filename": "Clip 14.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 14173864,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b063f2e53b115e1ae4b8/stream/216b9653-12a3-4d15-a4a0-33d762026d17.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b063f2e53b115e1ae4b8/thumbnails/216b9653-12a3-4d15-a4a0-33d762026d17.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:40:27.331Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b063f2e53b115e1ae4b8"
+    },
+    {
+      "id": "b1d98abe-bb72-4f9a-b475-d884c181e42d",
+      "filename": "Clip 13.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b05d64ff05606e152ae6/thumbnails/2d99f20b-9515-4934-9961-3b5da0a28965.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b05d64ff05606e152ae6/stream/2d99f20b-9515-4934-9961-3b5da0a28965.m3u8",
+      "metadata": {
+        "duration": 4.5,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 15805472
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b05d64ff05606e152ae6",
+        "duration": 4.5,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 15805472,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.5,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b05d64ff05606e152ae6",
+          "created_at": "2025-10-04T23:40:13Z",
+          "updated_at": "2025-10-04T23:45:33Z",
+          "system_metadata": {
+            "duration": 4.5,
+            "filename": "Clip 13.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 15805472,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b05d64ff05606e152ae6/stream/2d99f20b-9515-4934-9961-3b5da0a28965.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b05d64ff05606e152ae6/thumbnails/2d99f20b-9515-4934-9961-3b5da0a28965.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:40:19.275Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b05d64ff05606e152ae6"
+    },
+    {
+      "id": "c657f6ea-6d70-4544-8ebe-19bf7cf528e0",
+      "filename": "Clip 12.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b03266ecb2513d7ef325/thumbnails/5d6c2937-a420-41bc-b32b-89fc4ee8dece.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b03266ecb2513d7ef325/stream/5d6c2937-a420-41bc-b32b-89fc4ee8dece.m3u8",
+      "metadata": {
+        "duration": 4.433333,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 9905204
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b03266ecb2513d7ef325",
+        "duration": 4.433333,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 9905204,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.433333,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b03266ecb2513d7ef325",
+          "created_at": "2025-10-04T23:39:31Z",
+          "updated_at": "2025-10-04T23:44:44Z",
+          "system_metadata": {
+            "duration": 4.433333,
+            "filename": "Clip 12.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 9905204,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b03266ecb2513d7ef325/stream/5d6c2937-a420-41bc-b32b-89fc4ee8dece.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b03266ecb2513d7ef325/thumbnails/5d6c2937-a420-41bc-b32b-89fc4ee8dece.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:39:40.935Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b03266ecb2513d7ef325"
+    },
+    {
+      "id": "38fbeab7-e09c-4e29-9df1-6877cba076cd",
+      "filename": "Clip 11.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0293a1b0bed6c135a3f/thumbnails/aadfc40a-121c-4818-aeb6-57a6fe133bfe.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0293a1b0bed6c135a3f/stream/aadfc40a-121c-4818-aeb6-57a6fe133bfe.m3u8",
+      "metadata": {
+        "duration": 4.566667,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 15618389
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b0293a1b0bed6c135a3f",
+        "duration": 4.566667,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 15618389,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.566667,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b0293a1b0bed6c135a3f",
+          "created_at": "2025-10-04T23:39:21Z",
+          "updated_at": "2025-10-04T23:43:13Z",
+          "system_metadata": {
+            "duration": 4.566667,
+            "filename": "Clip 11.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 15618389,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0293a1b0bed6c135a3f/stream/aadfc40a-121c-4818-aeb6-57a6fe133bfe.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0293a1b0bed6c135a3f/thumbnails/aadfc40a-121c-4818-aeb6-57a6fe133bfe.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:39:34.896Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b0293a1b0bed6c135a3f"
+    },
+    {
+      "id": "44ca7a4e-46e1-4758-bd5f-2e8c2670f377",
+      "filename": "Clip 8.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b01b66ecb2513d7ef322/thumbnails/299aa826-eba8-4176-864a-f8512a7b4921.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b01b66ecb2513d7ef322/stream/299aa826-eba8-4176-864a-f8512a7b4921.m3u8",
+      "metadata": {
+        "duration": 6.866667,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 22770629
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b01b66ecb2513d7ef322",
+        "duration": 6.866667,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 22770629,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 6.866667,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b01b66ecb2513d7ef322",
+          "created_at": "2025-10-04T23:39:07Z",
+          "updated_at": "2025-10-04T23:43:17Z",
+          "system_metadata": {
+            "duration": 6.866667,
+            "filename": "Clip 8.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 22770629,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b01b66ecb2513d7ef322/stream/299aa826-eba8-4176-864a-f8512a7b4921.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b01b66ecb2513d7ef322/thumbnails/299aa826-eba8-4176-864a-f8512a7b4921.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:39:34.731Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b01b66ecb2513d7ef322"
+    },
+    {
+      "id": "ef77011c-44b7-475d-8e8b-ec57c70d3e4e",
+      "filename": "Clip 10.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0093a1b0bed6c135a3a/thumbnails/dc3d0fc9-ffbf-40c2-895d-5d1b88af7d5f.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0093a1b0bed6c135a3a/stream/dc3d0fc9-ffbf-40c2-895d-5d1b88af7d5f.m3u8",
+      "metadata": {
+        "duration": 4.733333,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 14035581
+      },
+      "tlAnalysis": {
+        "video_id": "68e1b0093a1b0bed6c135a3a",
+        "duration": 4.733333,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 14035581,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.733333,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1b0093a1b0bed6c135a3a",
+          "created_at": "2025-10-04T23:38:49Z",
+          "updated_at": "2025-10-04T23:43:06Z",
+          "system_metadata": {
+            "duration": 4.733333,
+            "filename": "Clip 10.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 14035581,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0093a1b0bed6c135a3a/stream/dc3d0fc9-ffbf-40c2-895d-5d1b88af7d5f.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1b0093a1b0bed6c135a3a/thumbnails/dc3d0fc9-ffbf-40c2-895d-5d1b88af7d5f.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:39:26.187Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1b0093a1b0bed6c135a3a"
+    },
+    {
+      "id": "9d4fc3dd-4ed1-4c6f-b60e-484eefdf5b77",
+      "filename": "Clip 9.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1affd66ecb2513d7ef31f/thumbnails/07c000c0-e365-4688-a2d0-7b4e35b642ed.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1affd66ecb2513d7ef31f/stream/07c000c0-e365-4688-a2d0-7b4e35b642ed.m3u8",
+      "metadata": {
+        "duration": 4.633333,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 16598216
+      },
+      "tlAnalysis": {
+        "video_id": "68e1affd66ecb2513d7ef31f",
+        "duration": 4.633333,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 16598216,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.633333,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1affd66ecb2513d7ef31f",
+          "created_at": "2025-10-04T23:38:37Z",
+          "updated_at": "2025-10-04T23:43:15Z",
+          "system_metadata": {
+            "duration": 4.633333,
+            "filename": "Clip 9.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 16598216,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1affd66ecb2513d7ef31f/stream/07c000c0-e365-4688-a2d0-7b4e35b642ed.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1affd66ecb2513d7ef31f/thumbnails/07c000c0-e365-4688-a2d0-7b4e35b642ed.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:39:32.372Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1affd66ecb2513d7ef31f"
+    },
+    {
+      "id": "23c97a9c-b71c-44a3-885b-64ca6c9da7d5",
+      "filename": "Clip 7.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afda3a1b0bed6c135a31/thumbnails/c610d564-13ed-4f71-9967-d3d75e9af162.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afda3a1b0bed6c135a31/stream/c610d564-13ed-4f71-9967-d3d75e9af162.m3u8",
+      "metadata": {
+        "duration": 4.3,
+        "resolution": {
+          "width": 2160,
+          "height": 3840
+        },
+        "fps": 30,
+        "size": 14372562
+      },
+      "tlAnalysis": {
+        "video_id": "68e1afda3a1b0bed6c135a31",
+        "duration": 4.3,
+        "fps": 30,
+        "resolution": {
+          "width": 2160,
+          "height": 3840
+        },
+        "file_size": 14372562,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.3,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1afda3a1b0bed6c135a31",
+          "created_at": "2025-10-04T23:38:02Z",
+          "updated_at": "2025-10-04T23:42:47Z",
+          "system_metadata": {
+            "duration": 4.3,
+            "filename": "Clip 7.mov",
+            "fps": 30,
+            "height": 3840,
+            "size": 14372562,
+            "width": 2160
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afda3a1b0bed6c135a31/stream/c610d564-13ed-4f71-9967-d3d75e9af162.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afda3a1b0bed6c135a31/thumbnails/c610d564-13ed-4f71-9967-d3d75e9af162.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:38:13.351Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1afda3a1b0bed6c135a31"
+    },
+    {
+      "id": "75e28b08-0632-4d53-a5b3-60ab497b44c4",
+      "filename": "Clip 6.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afc766ecb2513d7ef314/thumbnails/37ae4fe1-24e5-43f7-b4f9-338e71b2b215.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afc766ecb2513d7ef314/stream/37ae4fe1-24e5-43f7-b4f9-338e71b2b215.m3u8",
+      "metadata": {
+        "duration": 4.066667,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 12848667
+      },
+      "tlAnalysis": {
+        "video_id": "68e1afc766ecb2513d7ef314",
+        "duration": 4.066667,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 12848667,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.066667,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1afc766ecb2513d7ef314",
+          "created_at": "2025-10-04T23:37:43Z",
+          "updated_at": "2025-10-04T23:40:49Z",
+          "system_metadata": {
+            "duration": 4.066667,
+            "filename": "Clip 6.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 12848667,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afc766ecb2513d7ef314/stream/37ae4fe1-24e5-43f7-b4f9-338e71b2b215.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afc766ecb2513d7ef314/thumbnails/37ae4fe1-24e5-43f7-b4f9-338e71b2b215.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:38:09.587Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1afc766ecb2513d7ef314"
+    },
+    {
+      "id": "82a3295a-7659-4c3a-8b5c-f16dae6ea30a",
+      "filename": "Clip 3.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afb13a1b0bed6c135a2e/thumbnails/12cdb6d8-1434-4b5f-9590-9987bfc0f83a.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afb13a1b0bed6c135a2e/stream/12cdb6d8-1434-4b5f-9590-9987bfc0f83a.m3u8",
+      "metadata": {
+        "duration": 4.2,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 14566482
+      },
+      "tlAnalysis": {
+        "video_id": "68e1afb13a1b0bed6c135a2e",
+        "duration": 4.2,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 14566482,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.2,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1afb13a1b0bed6c135a2e",
+          "created_at": "2025-10-04T23:37:21Z",
+          "updated_at": "2025-10-04T23:40:35Z",
+          "system_metadata": {
+            "duration": 4.2,
+            "filename": "Clip 3.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 14566482,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afb13a1b0bed6c135a2e/stream/12cdb6d8-1434-4b5f-9590-9987bfc0f83a.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afb13a1b0bed6c135a2e/thumbnails/12cdb6d8-1434-4b5f-9590-9987bfc0f83a.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:37:28.608Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1afb13a1b0bed6c135a2e"
+    },
+    {
+      "id": "24a27f00-935a-4e3d-a53b-c0d4901edaf3",
+      "filename": "Clip 2.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afaf66ecb2513d7ef30e/thumbnails/2ccbb495-fba2-4450-aec3-807b0d9e07e5.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afaf66ecb2513d7ef30e/stream/2ccbb495-fba2-4450-aec3-807b0d9e07e5.m3u8",
+      "metadata": {
+        "duration": 4.066667,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 13986303
+      },
+      "tlAnalysis": {
+        "video_id": "68e1afaf66ecb2513d7ef30e",
+        "duration": 4.066667,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 13986303,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.066667,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1afaf66ecb2513d7ef30e",
+          "created_at": "2025-10-04T23:37:19Z",
+          "updated_at": "2025-10-04T23:40:43Z",
+          "system_metadata": {
+            "duration": 4.066667,
+            "filename": "Clip 2.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 13986303,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afaf66ecb2513d7ef30e/stream/2ccbb495-fba2-4450-aec3-807b0d9e07e5.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1afaf66ecb2513d7ef30e/thumbnails/2ccbb495-fba2-4450-aec3-807b0d9e07e5.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:37:26.803Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1afaf66ecb2513d7ef30e"
+    },
+    {
+      "id": "b8090a34-72a6-4066-899e-949c305b6daf",
+      "filename": "Clip 5.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af993a1b0bed6c135a28/thumbnails/bcddc150-0375-479f-86c3-8e0b60cbc36e.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af993a1b0bed6c135a28/stream/bcddc150-0375-479f-86c3-8e0b60cbc36e.m3u8",
+      "metadata": {
+        "duration": 4.5,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 8686406
+      },
+      "tlAnalysis": {
+        "video_id": "68e1af993a1b0bed6c135a28",
+        "duration": 4.5,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 8686406,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.5,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1af993a1b0bed6c135a28",
+          "created_at": "2025-10-04T23:36:57Z",
+          "updated_at": "2025-10-04T23:40:32Z",
+          "system_metadata": {
+            "duration": 4.5,
+            "filename": "Clip 5.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 8686406,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af993a1b0bed6c135a28/stream/bcddc150-0375-479f-86c3-8e0b60cbc36e.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af993a1b0bed6c135a28/thumbnails/bcddc150-0375-479f-86c3-8e0b60cbc36e.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:37:04.427Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1af993a1b0bed6c135a28"
+    },
+    {
+      "id": "4ab5e46d-d8bf-4870-a1df-4682998c943e",
+      "filename": "Clip 4.mov",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af8f64ff05606e152acc/thumbnails/b2c7b1a6-c7b0-4fb1-ab8f-f0c4c7f84ad9.0000000.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af8f64ff05606e152acc/stream/b2c7b1a6-c7b0-4fb1-ab8f-f0c4c7f84ad9.m3u8",
+      "metadata": {
+        "duration": 4.099999999,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "fps": 30,
+        "size": 6305342
+      },
+      "tlAnalysis": {
+        "video_id": "68e1af8f64ff05606e152acc",
+        "duration": 4.099999999,
+        "fps": 30,
+        "resolution": {
+          "width": 3840,
+          "height": 2160
+        },
+        "file_size": 6305342,
+        "summary": "Summary not available",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 4.099999999,
+              "description": "Summary not available",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "Summary not available"
+          ],
+          "content_style": "unknown",
+          "summary": "Summary not available"
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: Summary not available..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e1af8f64ff05606e152acc",
+          "created_at": "2025-10-04T23:36:47Z",
+          "updated_at": "2025-10-04T23:40:01Z",
+          "system_metadata": {
+            "duration": 4.099999999,
+            "filename": "Clip 4.mov",
+            "fps": 30,
+            "height": 2160,
+            "size": 6305342,
+            "width": 3840
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af8f64ff05606e152acc/stream/b2c7b1a6-c7b0-4fb1-ab8f-f0c4c7f84ad9.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e1af3cf2fdf84f18e168a9/68e1af8f64ff05606e152acc/thumbnails/b2c7b1a6-c7b0-4fb1-ab8f-f0c4c7f84ad9.0000000.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-04T23:36:54.587Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e1af8f64ff05606e152acc"
+    }
+  ],
+  "sequence": null,
+  "scores": {},
+  "soundtrack": null,
+  "createdAt": "2025-10-05T05:13:38.327Z"
+}

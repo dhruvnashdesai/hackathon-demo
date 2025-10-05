@@ -1,0 +1,314 @@
+{
+  "clips": [
+    {
+      "id": "bbb51768-bed4-457b-9bf1-bead19b75d1a",
+      "filename": "Chipotle - Back to the Start - TRUE FOOD ALLIANCE (480p, h264, youtube).mp4",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e202595cc17d94ad18fb7a/68e202a7f2e53b115e1aed27/thumbnails/2a96c4c5-f8aa-49b8-80c5-79fa988a36ea.0000001.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e202595cc17d94ad18fb7a/68e202a7f2e53b115e1aed27/stream/2a96c4c5-f8aa-49b8-80c5-79fa988a36ea.m3u8",
+      "metadata": {
+        "duration": 140.058005,
+        "resolution": {
+          "width": 854,
+          "height": 480
+        },
+        "fps": 24,
+        "size": 9021885
+      },
+      "tlAnalysis": {
+        "video_id": "68e202a7f2e53b115e1aed27",
+        "duration": 140.058005,
+        "fps": 24,
+        "resolution": {
+          "width": 854,
+          "height": 480
+        },
+        "file_size": 9021885,
+        "summary": "The video opens with a serene night scene, transitioning into the early morning as dawn breaks over a landscape of green hills and silhouetted trees. The tranquility is soon disrupted by the arrival of a man carrying two pigs, who places them near an already present pig. Gradually, more pigs join the scene until there are six in total, forming a small group. Wooden frames then rise to create pens for the pigs, with hay bales filling some of them, while other farm structures like barns and grain bins emerge, signaling the development of a farm.\nThe narrative shifts to a snowy winter scene, where the farm animals' shelters stand out against the white landscape. Inside these shelters, pigs navigate narrow corridors leading to large containers filled with colorful pellets and liquid, suggesting a feeding routine. The video then takes a surreal turn, showing two pink pills moving along a conveyor belt before being crushed into a white powder, which spills onto the ground. This sequence is accompanied by a melancholic tune, with lyrics that speak of guessing at numbers and figures, and the struggle between science and the heart.\nAs night falls, a farmer drives a tractor across the snowy fields, leaving tracks behind him. He pauses, looking upwards, his thoughts drifting to medicine capsules, clouds, pigs, and caged pigs, reflecting on the complexities of farming and perhaps the broader implications of his work. The scene transitions to spring, with cows gathering outside a shed and pigs walking past it. An aerial shot reveals the farm's layout, with different sections dedicated to growing crops such as wheat, corn, sunflowers, potatoes, carrots, tomatoes, and grapes. Chickens roam freely within fenced areas, and a delivery truck marked \"Chipotle Mexican Grill\" arrives, unloading boxes of chicken meat.\nThe video takes another unexpected turn as three farmers standing beside the Chipotle truck suddenly disappear, leaving only a pig and a tire swing hanging from a tree branch. This moment is underscored by a poignant rendition of a song about parting ways and returning to the start. The video concludes with a signpost reading \"CULTIVATE A BETTER WORLD\" and \"chipotle.com\" written underneath, fading away as darkness descends over the landscape. This final message suggests a call to action for sustainable and ethical farming practices, tying together the video's themes of nature, farming, and the human impact on the environment.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 140.058005,
+              "description": "The video opens with a serene night scene, transitioning into the early morning as dawn breaks over a landscape of green hills and silhouetted trees. The tranquility is soon disrupted by the arrival of a man carrying two pigs, who places them near an already present pig. Gradually, more pigs join the scene until there are six in total, forming a small group. Wooden frames then rise to create pens for the pigs, with hay bales filling some of them, while other farm structures like barns and grain bins emerge, signaling the development of a farm.\nThe narrative shifts to a snowy winter scene, where the farm animals' shelters stand out against the white landscape. Inside these shelters, pigs navigate narrow corridors leading to large containers filled with colorful pellets and liquid, suggesting a feeding routine. The video then takes a surreal turn, showing two pink pills moving along a conveyor belt before being crushed into a white powder, which spills onto the ground. This sequence is accompanied by a melancholic tune, with lyrics that speak of guessing at numbers and figures, and the struggle between science and the heart.\nAs night falls, a farmer drives a tractor across the snowy fields, leaving tracks behind him. He pauses, looking upwards, his thoughts drifting to medicine capsules, clouds, pigs, and caged pigs, reflecting on the complexities of farming and perhaps the broader implications of his work. The scene transitions to spring, with cows gathering outside a shed and pigs walking past it. An aerial shot reveals the farm's layout, with different sections dedicated to growing crops such as wheat, corn, sunflowers, potatoes, carrots, tomatoes, and grapes. Chickens roam freely within fenced areas, and a delivery truck marked \"Chipotle Mexican Grill\" arrives, unloading boxes of chicken meat.\nThe video takes another unexpected turn as three farmers standing beside the Chipotle truck suddenly disappear, leaving only a pig and a tire swing hanging from a tree branch. This moment is underscored by a poignant rendition of a song about parting ways and returning to the start. The video concludes with a signpost reading \"CULTIVATE A BETTER WORLD\" and \"chipotle.com\" written underneath, fading away as darkness descends over the landscape. This final message suggests a call to action for sustainable and ethical farming practices, tying together the video's themes of nature, farming, and the human impact on the environment.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a serene night scene, transitioning into the early morning as dawn breaks over a landscape of green hills and silhouetted trees. The tranquility is soon disrupted by the arrival of a man carrying two pigs, who places them near an already present pig. Gradually, more pigs join the scene until there are six in total, forming a small group. Wooden frames then rise to create pens for the pigs, with hay bales filling some of them, while other farm structures like barns and grain bins emerge, signaling the development of a farm.\nThe narrative shifts to a snowy winter scene, where the farm animals' shelters stand out against the white landscape. Inside these shelters, pigs navigate narrow corridors leading to large containers filled with colorful pellets and liquid, suggesting a feeding routine. The video then takes a surreal turn, showing two pink pills moving along a conveyor belt before being crushed into a white powder, which spills onto the ground. This sequence is accompanied by a melancholic tune, with lyrics that speak of guessing at numbers and figures, and the struggle between science and the heart.\nAs night falls, a farmer drives a tractor across the snowy fields, leaving tracks behind him. He pauses, looking upwards, his thoughts drifting to medicine capsules, clouds, pigs, and caged pigs, reflecting on the complexities of farming and perhaps the broader implications of his work. The scene transitions to spring, with cows gathering outside a shed and pigs walking past it. An aerial shot reveals the farm's layout, with different sections dedicated to growing crops such as wheat, corn, sunflowers, potatoes, carrots, tomatoes, and grapes. Chickens roam freely within fenced areas, and a delivery truck marked \"Chipotle Mexican Grill\" arrives, unloading boxes of chicken meat.\nThe video takes another unexpected turn as three farmers standing beside the Chipotle truck suddenly disappear, leaving only a pig and a tire swing hanging from a tree branch. This moment is underscored by a poignant rendition of a song about parting ways and returning to the start. The video concludes with a signpost reading \"CULTIVATE A BETTER WORLD\" and \"chipotle.com\" written underneath, fading away as darkness descends over the landscape. This final message suggests a call to action for sustainable and ethical farming practices, tying together the video's themes of nature, farming, and the human impact on the environment."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a serene night scene, transitioning into the early morning as dawn breaks over a landscape of green hills and silhouetted trees. The tranquility is soon disrupted by the arrival of a man carrying two pigs, who places them near an already present pig. Gradually, more pigs join the scene until there are six in total, forming a small group. Wooden frames then rise to create pens for the pigs, with hay bales filling some of them, while other farm structures like barns and grain bins emerge, signaling the development of a farm.\nThe narrative shifts to a snowy winter scene, where the farm animals' shelters stand out against the white landscape. Inside these shelters, pigs navigate narrow corridors leading to large containers filled with colorful pellets and liquid, suggesting a feeding routine. The video then takes a surreal turn, showing two pink pills moving along a conveyor belt before being crushed into a white powder, which spills onto the ground. This sequence is accompanied by a melancholic tune, with lyrics that speak of guessing at numbers and figures, and the struggle between science and the heart.\nAs night falls, a farmer drives a tractor across the snowy fields, leaving tracks behind him. He pauses, looking upwards, his thoughts drifting to medicine capsules, clouds, pigs, and caged pigs, reflecting on the complexities of farming and perhaps the broader implications of his work. The scene transitions to spring, with cows gathering outside a shed and pigs walking past it. An aerial shot reveals the farm's layout, with different sections dedicated to growing crops such as wheat, corn, sunflowers, potatoes, carrots, tomatoes, and grapes. Chickens roam freely within fenced areas, and a delivery truck marked \"Chipotle Mexican Grill\" arrives, unloading boxes of chicken meat.\nThe video takes another unexpected turn as three farmers standing beside the Chipotle truck suddenly disappear, leaving only a pig and a tire swing hanging from a tree branch. This moment is underscored by a poignant rendition of a song about parting ways and returning to the start. The video concludes with a signpost reading \"CULTIVATE A BETTER WORLD\" and \"chipotle.com\" written underneath, fading away as darkness descends over the landscape. This final message suggests a call to action for sustainable and ethical farming practices, tying together the video's themes of nature, farming, and the human impact on the environment."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a serene night scene, transitioning into the early morning as dawn breaks over ..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e202a7f2e53b115e1aed27",
+          "created_at": "2025-10-05T05:31:19Z",
+          "updated_at": "2025-10-05T05:34:40Z",
+          "system_metadata": {
+            "duration": 140.058005,
+            "filename": "Chipotle - Back to the Start - TRUE FOOD ALLIANCE (480p, h264, youtube).mp4",
+            "fps": 24,
+            "height": 480,
+            "size": 9021885,
+            "width": 854
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e202595cc17d94ad18fb7a/68e202a7f2e53b115e1aed27/stream/2a96c4c5-f8aa-49b8-80c5-79fa988a36ea.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e202595cc17d94ad18fb7a/68e202a7f2e53b115e1aed27/thumbnails/2a96c4c5-f8aa-49b8-80c5-79fa988a36ea.0000001.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-05T05:31:55.707Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e202a7f2e53b115e1aed27"
+    },
+    {
+      "id": "40318fc9-2644-404f-88cc-b59b74dd1281",
+      "filename": "The Gucci Aria Advertising Campaign - GUCCI (720p, h264, youtube).mp4",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e202595cc17d94ad18fb7a/68e202a317b39f617835e0a5/thumbnails/a4c834c2-bd80-4e63-805d-3e3c9cf3bf64.0000001.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e202595cc17d94ad18fb7a/68e202a317b39f617835e0a5/stream/a4c834c2-bd80-4e63-805d-3e3c9cf3bf64.m3u8",
+      "metadata": {
+        "duration": 86.90585,
+        "resolution": {
+          "width": 1280,
+          "height": 720
+        },
+        "fps": 25,
+        "size": 6230110
+      },
+      "tlAnalysis": {
+        "video_id": "68e202a317b39f617835e0a5",
+        "duration": 86.90585,
+        "fps": 25,
+        "resolution": {
+          "width": 1280,
+          "height": 720
+        },
+        "file_size": 6230110,
+        "summary": "The video opens with a stark warning of adult content, setting the stage for a series of intimate and provocative scenes. It begins at night in Rome, with a classic car driving past the grand entrance of Gucci's Plaza hotel. Inside the car, a platinum blonde individual with braided hair and a silver sequined jacket over a white collared shirt gazes out the window, their presence adding a touch of glamour and mystery to the scene.\nThe narrative then shifts to a dimly lit room where two people, one with dark skin and short curly hair, and the other with light skin and long brown hair, lie together under the covers. The video cuts to the same individual from the car walking down the street and entering another building, checking into a hotel lobby. This transition suggests a journey or a meeting, possibly leading to the intimate scenes that follow.\nIn the hotel room, a woman in a corset top steps out of an elevator and is greeted by another woman who touches her face. They enter room 316, where one woman sits on a pink fur-covered couch and the other stands beside her, holding a book. The standing woman leans forward and kisses the seated woman, and they lay back against each other, their bodies intertwined. This scene is underscored by the dialogue, \"I want you the right way,\" emphasizing the desire and intimacy between them.\nAnother scene shows a woman drying herself off in a bathroom, her reflection visible through the glass door. This is followed by a man adjusting his coat, revealing a shiny patterned interior, and then putting on a gold necklace. These actions hint at preparation and anticipation, possibly for a rendezvous or an encounter.\nThe video then captures a passionate embrace near a bed, with faces obscured as they kiss deeply. The dialogue, \"I want you too, Want me too, Want me baby, Just like I want you, I want you,\" reinforces the mutual desire and the emotional intensity of the moment. Afterward, someone fastens a belt around their waist, suggesting a transition or a change in the scene's dynamic.\nIn a comedic turn, three people sit on sofas watching television when one suddenly jumps up and runs away screaming, reacting to an altercation on the screen. This scene adds a layer of drama and possibly a hint of suspense or fear, contrasting with the earlier intimate moments.\nThe video concludes with a series of intimate interactions and preparations, including a person knocking on a yellow door wearing goggles, and a group of four people gathered on a green sofa, one reading from a small book while others hold sunglasses and various accessories. The final shot shows a man adjusting something resembling a necktie while walking across a living space, with two more individuals standing close together behind him.\nThroughout the video, the scenes are interwoven with dialogue that emphasizes desire and intimacy, suggesting a narrative centered around the themes of passion, connection, and the pursuit of pleasure. The video's creator likely aimed to evoke a sense of allure and intrigue, possibly for a marketing campaign or an artistic exploration of human relationships and desires.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 86.90585,
+              "description": "The video opens with a stark warning of adult content, setting the stage for a series of intimate and provocative scenes. It begins at night in Rome, with a classic car driving past the grand entrance of Gucci's Plaza hotel. Inside the car, a platinum blonde individual with braided hair and a silver sequined jacket over a white collared shirt gazes out the window, their presence adding a touch of glamour and mystery to the scene.\nThe narrative then shifts to a dimly lit room where two people, one with dark skin and short curly hair, and the other with light skin and long brown hair, lie together under the covers. The video cuts to the same individual from the car walking down the street and entering another building, checking into a hotel lobby. This transition suggests a journey or a meeting, possibly leading to the intimate scenes that follow.\nIn the hotel room, a woman in a corset top steps out of an elevator and is greeted by another woman who touches her face. They enter room 316, where one woman sits on a pink fur-covered couch and the other stands beside her, holding a book. The standing woman leans forward and kisses the seated woman, and they lay back against each other, their bodies intertwined. This scene is underscored by the dialogue, \"I want you the right way,\" emphasizing the desire and intimacy between them.\nAnother scene shows a woman drying herself off in a bathroom, her reflection visible through the glass door. This is followed by a man adjusting his coat, revealing a shiny patterned interior, and then putting on a gold necklace. These actions hint at preparation and anticipation, possibly for a rendezvous or an encounter.\nThe video then captures a passionate embrace near a bed, with faces obscured as they kiss deeply. The dialogue, \"I want you too, Want me too, Want me baby, Just like I want you, I want you,\" reinforces the mutual desire and the emotional intensity of the moment. Afterward, someone fastens a belt around their waist, suggesting a transition or a change in the scene's dynamic.\nIn a comedic turn, three people sit on sofas watching television when one suddenly jumps up and runs away screaming, reacting to an altercation on the screen. This scene adds a layer of drama and possibly a hint of suspense or fear, contrasting with the earlier intimate moments.\nThe video concludes with a series of intimate interactions and preparations, including a person knocking on a yellow door wearing goggles, and a group of four people gathered on a green sofa, one reading from a small book while others hold sunglasses and various accessories. The final shot shows a man adjusting something resembling a necktie while walking across a living space, with two more individuals standing close together behind him.\nThroughout the video, the scenes are interwoven with dialogue that emphasizes desire and intimacy, suggesting a narrative centered around the themes of passion, connection, and the pursuit of pleasure. The video's creator likely aimed to evoke a sense of allure and intrigue, possibly for a marketing campaign or an artistic exploration of human relationships and desires.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a stark warning of adult content, setting the stage for a series of intimate and provocative scenes. It begins at night in Rome, with a classic car driving past the grand entrance of Gucci's Plaza hotel. Inside the car, a platinum blonde individual with braided hair and a silver sequined jacket over a white collared shirt gazes out the window, their presence adding a touch of glamour and mystery to the scene.\nThe narrative then shifts to a dimly lit room where two people, one with dark skin and short curly hair, and the other with light skin and long brown hair, lie together under the covers. The video cuts to the same individual from the car walking down the street and entering another building, checking into a hotel lobby. This transition suggests a journey or a meeting, possibly leading to the intimate scenes that follow.\nIn the hotel room, a woman in a corset top steps out of an elevator and is greeted by another woman who touches her face. They enter room 316, where one woman sits on a pink fur-covered couch and the other stands beside her, holding a book. The standing woman leans forward and kisses the seated woman, and they lay back against each other, their bodies intertwined. This scene is underscored by the dialogue, \"I want you the right way,\" emphasizing the desire and intimacy between them.\nAnother scene shows a woman drying herself off in a bathroom, her reflection visible through the glass door. This is followed by a man adjusting his coat, revealing a shiny patterned interior, and then putting on a gold necklace. These actions hint at preparation and anticipation, possibly for a rendezvous or an encounter.\nThe video then captures a passionate embrace near a bed, with faces obscured as they kiss deeply. The dialogue, \"I want you too, Want me too, Want me baby, Just like I want you, I want you,\" reinforces the mutual desire and the emotional intensity of the moment. Afterward, someone fastens a belt around their waist, suggesting a transition or a change in the scene's dynamic.\nIn a comedic turn, three people sit on sofas watching television when one suddenly jumps up and runs away screaming, reacting to an altercation on the screen. This scene adds a layer of drama and possibly a hint of suspense or fear, contrasting with the earlier intimate moments.\nThe video concludes with a series of intimate interactions and preparations, including a person knocking on a yellow door wearing goggles, and a group of four people gathered on a green sofa, one reading from a small book while others hold sunglasses and various accessories. The final shot shows a man adjusting something resembling a necktie while walking across a living space, with two more individuals standing close together behind him.\nThroughout the video, the scenes are interwoven with dialogue that emphasizes desire and intimacy, suggesting a narrative centered around the themes of passion, connection, and the pursuit of pleasure. The video's creator likely aimed to evoke a sense of allure and intrigue, possibly for a marketing campaign or an artistic exploration of human relationships and desires."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a stark warning of adult content, setting the stage for a series of intimate and provocative scenes. It begins at night in Rome, with a classic car driving past the grand entrance of Gucci's Plaza hotel. Inside the car, a platinum blonde individual with braided hair and a silver sequined jacket over a white collared shirt gazes out the window, their presence adding a touch of glamour and mystery to the scene.\nThe narrative then shifts to a dimly lit room where two people, one with dark skin and short curly hair, and the other with light skin and long brown hair, lie together under the covers. The video cuts to the same individual from the car walking down the street and entering another building, checking into a hotel lobby. This transition suggests a journey or a meeting, possibly leading to the intimate scenes that follow.\nIn the hotel room, a woman in a corset top steps out of an elevator and is greeted by another woman who touches her face. They enter room 316, where one woman sits on a pink fur-covered couch and the other stands beside her, holding a book. The standing woman leans forward and kisses the seated woman, and they lay back against each other, their bodies intertwined. This scene is underscored by the dialogue, \"I want you the right way,\" emphasizing the desire and intimacy between them.\nAnother scene shows a woman drying herself off in a bathroom, her reflection visible through the glass door. This is followed by a man adjusting his coat, revealing a shiny patterned interior, and then putting on a gold necklace. These actions hint at preparation and anticipation, possibly for a rendezvous or an encounter.\nThe video then captures a passionate embrace near a bed, with faces obscured as they kiss deeply. The dialogue, \"I want you too, Want me too, Want me baby, Just like I want you, I want you,\" reinforces the mutual desire and the emotional intensity of the moment. Afterward, someone fastens a belt around their waist, suggesting a transition or a change in the scene's dynamic.\nIn a comedic turn, three people sit on sofas watching television when one suddenly jumps up and runs away screaming, reacting to an altercation on the screen. This scene adds a layer of drama and possibly a hint of suspense or fear, contrasting with the earlier intimate moments.\nThe video concludes with a series of intimate interactions and preparations, including a person knocking on a yellow door wearing goggles, and a group of four people gathered on a green sofa, one reading from a small book while others hold sunglasses and various accessories. The final shot shows a man adjusting something resembling a necktie while walking across a living space, with two more individuals standing close together behind him.\nThroughout the video, the scenes are interwoven with dialogue that emphasizes desire and intimacy, suggesting a narrative centered around the themes of passion, connection, and the pursuit of pleasure. The video's creator likely aimed to evoke a sense of allure and intrigue, possibly for a marketing campaign or an artistic exploration of human relationships and desires."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a stark warning of adult content, setting the stage for a series of intimate an..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e202a317b39f617835e0a5",
+          "created_at": "2025-10-05T05:31:15Z",
+          "updated_at": "2025-10-05T05:34:14Z",
+          "system_metadata": {
+            "duration": 86.90585,
+            "filename": "The Gucci Aria Advertising Campaign - GUCCI (720p, h264, youtube).mp4",
+            "fps": 25,
+            "height": 720,
+            "size": 6230110,
+            "width": 1280
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e202595cc17d94ad18fb7a/68e202a317b39f617835e0a5/stream/a4c834c2-bd80-4e63-805d-3e3c9cf3bf64.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e202595cc17d94ad18fb7a/68e202a317b39f617835e0a5/thumbnails/a4c834c2-bd80-4e63-805d-3e3c9cf3bf64.0000001.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-05T05:31:37.367Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e202a317b39f617835e0a5"
+    },
+    {
+      "id": "4bdc23d8-e351-44c4-ad1c-6d9d42508b4c",
+      "filename": "The Force - Volkswagen Commercial - Estadão (360p, h264, youtube).mp4",
+      "thumbnail": "https://deuqpmn4rs7j5.cloudfront.net/68e202595cc17d94ad18fb7a/68e20296830688fe0b91ee4a/thumbnails/997f6200-4951-46d7-adab-e6976d57d043.0000001.jpg",
+      "streamingUrl": "https://deuqpmn4rs7j5.cloudfront.net/68e202595cc17d94ad18fb7a/68e20296830688fe0b91ee4a/stream/997f6200-4951-46d7-adab-e6976d57d043.m3u8",
+      "metadata": {
+        "duration": 61.713923,
+        "resolution": {
+          "width": 640,
+          "height": 360
+        },
+        "fps": 23.976023976023978,
+        "size": 2368449
+      },
+      "tlAnalysis": {
+        "video_id": "68e20296830688fe0b91ee4a",
+        "duration": 61.713923,
+        "fps": 23.976023976023978,
+        "resolution": {
+          "width": 640,
+          "height": 360
+        },
+        "file_size": 2368449,
+        "summary": "The video opens with a young child, dressed in a Darth Vader costume, walking down a hallway towards a bright doorway. The child's journey leads them into a living room where they attempt to use \"the force\" on a dog lying on its bed, but the effort is unsuccessful. The scene transitions to a laundry room where the child opens the dryer door and peers inside, before moving into a pink bedroom filled with toys. Here, the child approaches a baby doll sitting up on the bed, adding a touch of whimsy to the sequence.\nThe video then shifts to the kitchen, where the child sits at the counter as a woman prepares food. She places a plate with two slices of bread next to the child, hinting at a meal or snack being prepared. The narrative takes an interesting turn as a silver Volkswagen Passat pulls out from the driveway. The child, still in the Darth Vader costume, runs outside and attempts to stop the car using \"the force,\" with gestures that mimic wielding lightsabers. This playful interaction between the child and the car is a central element of the video, showcasing the child's imaginative play.\nIndoors, a man stands behind the woman who was preparing food, suggesting a family setting. The video concludes with a brief text overlay against a black backdrop, announcing the all-new 2012 Passat will be available starting around $20,000. The Volkswagen logo appears alongside the tagline 'Das Auto,' tying the entire sequence back to the car's promotional intent.\nThroughout the video, the child's interactions with various elements of the home and the car are woven together to create a narrative that balances playful imagination with a subtle product promotion. The use of dialogue, such as \"Thank you\" and \"Bye,\" adds a personal touch, enhancing the sense of a real family engaging in everyday activities. The video effectively blends the charm of a child's imaginative play with the marketing of a new car model, creating a memorable and engaging promotional piece.",
+        "visual": {
+          "scenes": [
+            {
+              "start_time": 0,
+              "end_time": 61.713923,
+              "description": "The video opens with a young child, dressed in a Darth Vader costume, walking down a hallway towards a bright doorway. The child's journey leads them into a living room where they attempt to use \"the force\" on a dog lying on its bed, but the effort is unsuccessful. The scene transitions to a laundry room where the child opens the dryer door and peers inside, before moving into a pink bedroom filled with toys. Here, the child approaches a baby doll sitting up on the bed, adding a touch of whimsy to the sequence.\nThe video then shifts to the kitchen, where the child sits at the counter as a woman prepares food. She places a plate with two slices of bread next to the child, hinting at a meal or snack being prepared. The narrative takes an interesting turn as a silver Volkswagen Passat pulls out from the driveway. The child, still in the Darth Vader costume, runs outside and attempts to stop the car using \"the force,\" with gestures that mimic wielding lightsabers. This playful interaction between the child and the car is a central element of the video, showcasing the child's imaginative play.\nIndoors, a man stands behind the woman who was preparing food, suggesting a family setting. The video concludes with a brief text overlay against a black backdrop, announcing the all-new 2012 Passat will be available starting around $20,000. The Volkswagen logo appears alongside the tagline 'Das Auto,' tying the entire sequence back to the car's promotional intent.\nThroughout the video, the child's interactions with various elements of the home and the car are woven together to create a narrative that balances playful imagination with a subtle product promotion. The use of dialogue, such as \"Thank you\" and \"Bye,\" adds a personal touch, enhancing the sense of a real family engaging in everyday activities. The video effectively blends the charm of a child's imaginative play with the marketing of a new car model, creating a memorable and engaging promotional piece.",
+              "confidence": "high",
+              "score": 90
+            }
+          ],
+          "shots": [],
+          "overall_quality": "good",
+          "people": [],
+          "text_in_video": [],
+          "logos": [],
+          "motion": "medium"
+        },
+        "audio": {
+          "transcription": "",
+          "audio_quality": "good",
+          "sounds_detected": [],
+          "music": false,
+          "voice_analysis": {}
+        },
+        "semantics": {
+          "topics": [],
+          "categories": [],
+          "sentiment": "neutral",
+          "emotions": [],
+          "highlights": [
+            "The video opens with a young child, dressed in a Darth Vader costume, walking down a hallway towards a bright doorway. The child's journey leads them into a living room where they attempt to use \"the force\" on a dog lying on its bed, but the effort is unsuccessful. The scene transitions to a laundry room where the child opens the dryer door and peers inside, before moving into a pink bedroom filled with toys. Here, the child approaches a baby doll sitting up on the bed, adding a touch of whimsy to the sequence.\nThe video then shifts to the kitchen, where the child sits at the counter as a woman prepares food. She places a plate with two slices of bread next to the child, hinting at a meal or snack being prepared. The narrative takes an interesting turn as a silver Volkswagen Passat pulls out from the driveway. The child, still in the Darth Vader costume, runs outside and attempts to stop the car using \"the force,\" with gestures that mimic wielding lightsabers. This playful interaction between the child and the car is a central element of the video, showcasing the child's imaginative play.\nIndoors, a man stands behind the woman who was preparing food, suggesting a family setting. The video concludes with a brief text overlay against a black backdrop, announcing the all-new 2012 Passat will be available starting around $20,000. The Volkswagen logo appears alongside the tagline 'Das Auto,' tying the entire sequence back to the car's promotional intent.\nThroughout the video, the child's interactions with various elements of the home and the car are woven together to create a narrative that balances playful imagination with a subtle product promotion. The use of dialogue, such as \"Thank you\" and \"Bye,\" adds a personal touch, enhancing the sense of a real family engaging in everyday activities. The video effectively blends the charm of a child's imaginative play with the marketing of a new car model, creating a memorable and engaging promotional piece."
+          ],
+          "content_style": "unknown",
+          "summary": "The video opens with a young child, dressed in a Darth Vader costume, walking down a hallway towards a bright doorway. The child's journey leads them into a living room where they attempt to use \"the force\" on a dog lying on its bed, but the effort is unsuccessful. The scene transitions to a laundry room where the child opens the dryer door and peers inside, before moving into a pink bedroom filled with toys. Here, the child approaches a baby doll sitting up on the bed, adding a touch of whimsy to the sequence.\nThe video then shifts to the kitchen, where the child sits at the counter as a woman prepares food. She places a plate with two slices of bread next to the child, hinting at a meal or snack being prepared. The narrative takes an interesting turn as a silver Volkswagen Passat pulls out from the driveway. The child, still in the Darth Vader costume, runs outside and attempts to stop the car using \"the force,\" with gestures that mimic wielding lightsabers. This playful interaction between the child and the car is a central element of the video, showcasing the child's imaginative play.\nIndoors, a man stands behind the woman who was preparing food, suggesting a family setting. The video concludes with a brief text overlay against a black backdrop, announcing the all-new 2012 Passat will be available starting around $20,000. The Volkswagen logo appears alongside the tagline 'Das Auto,' tying the entire sequence back to the car's promotional intent.\nThroughout the video, the child's interactions with various elements of the home and the car are woven together to create a narrative that balances playful imagination with a subtle product promotion. The use of dialogue, such as \"Thank you\" and \"Bye,\" adds a personal touch, enhancing the sense of a real family engaging in everyday activities. The video effectively blends the charm of a child's imaginative play with the marketing of a new car model, creating a memorable and engaging promotional piece."
+        },
+        "temporal": {
+          "pacing": "medium",
+          "opening": {
+            "hook_strength": "medium"
+          },
+          "closing": {
+            "satisfaction": "medium"
+          }
+        },
+        "context": {
+          "suitable_for": [],
+          "platform_fit": [],
+          "editing_notes": [
+            "Contains 1 scene segments",
+            "Summary: The video opens with a young child, dressed in a Darth Vader costume, walking down a hallway towards..."
+          ],
+          "flags": []
+        },
+        "raw_search_results": null,
+        "raw_video_details": {
+          "_id": "68e20296830688fe0b91ee4a",
+          "created_at": "2025-10-05T05:31:02Z",
+          "updated_at": "2025-10-05T05:33:46Z",
+          "system_metadata": {
+            "duration": 61.713923,
+            "filename": "The Force - Volkswagen Commercial - Estadão (360p, h264, youtube).mp4",
+            "fps": 23.976023976023978,
+            "height": 360,
+            "size": 2368449,
+            "width": 640
+          },
+          "hls": {
+            "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e202595cc17d94ad18fb7a/68e20296830688fe0b91ee4a/stream/997f6200-4951-46d7-adab-e6976d57d043.m3u8",
+            "thumbnail_urls": [
+              "https://deuqpmn4rs7j5.cloudfront.net/68e202595cc17d94ad18fb7a/68e20296830688fe0b91ee4a/thumbnails/997f6200-4951-46d7-adab-e6976d57d043.0000001.jpg"
+            ],
+            "status": "COMPLETE",
+            "updated_at": "2025-10-05T05:31:17.631Z"
+          }
+        }
+      },
+      "twelveLabsVideoId": "68e20296830688fe0b91ee4a"
+    }
+  ],
+  "sequence": null,
+  "scores": {},
+  "soundtrack": null,
+  "createdAt": "2025-10-05T05:38:47.794Z"
+}
