@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect, useMemo } from 'react';
 import { Play, Upload, Download, Zap, Star, Music, X, Check, Edit3, Volume2, Pause, ChevronLeft } from 'lucide-react';
 import ClipModal from './ClipModal';
-import RemotionVideoPlayer from './RemotionVideoPlayer';
+// Removed RemotionVideoPlayer - using thumbnail mode only
 import { fetchExistingClips, generateSequence, scoreClips, exportData, listSavedSessions, loadSession, importMissingClips, convertSequencedClips } from '../api/client';
 
 const VideoEditor = ({ preloadedClips = [], sourceAsset = null, onBackToAssets }) => {
@@ -59,22 +59,33 @@ const VideoEditor = ({ preloadedClips = [], sourceAsset = null, onBackToAssets }
       };
 
       autoScore();
+    } else {
+      // Clear clips when no preloaded clips - this prevents auto-loading
+      setClips([]);
     }
   }, [preloadedClips]);
 
   const handleLoadClips = async () => {
     try {
       setLoading(true);
-      setLoadingMessage('Loading clips from clips index...');
+      setLoadingMessage('Running comprehensive TwelveLabs analysis...');
 
-      const response = await fetch('http://localhost:3001/api/assets/demo-clips');
-      if (!response.ok) throw new Error('Failed to load demo clips');
+      const response = await fetch('http://localhost:3001/api/assets/analyze-clips', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      });
+
+      if (!response.ok) throw new Error('Failed to analyze clips');
 
       const data = await response.json();
       setClips(data.clips || []);
+
+      console.log(`✅ Imported ${data.clips?.length || 0} clips with comprehensive TwelveLabs analysis`);
     } catch (error) {
-      console.error('Load clips error:', error);
-      alert('Error loading clips: ' + error.message);
+      console.error('Import clips error:', error);
+      alert('Error importing clips with analysis: ' + error.message);
     } finally {
       setLoading(false);
       setLoadingMessage('');
@@ -179,10 +190,16 @@ const VideoEditor = ({ preloadedClips = [], sourceAsset = null, onBackToAssets }
       setLoading(true);
       setLoadingMessage('Generating sequence with Claude...');
 
-      const clipsWithAnalysis = clips.filter(clip => clip.tlAnalysis).map(clip => ({
+      const clipsWithAnalysis = clips.map(clip => ({
         id: clip.id,
         filename: clip.filename,
-        tlAnalysis: clip.tlAnalysis
+        tlAnalysis: clip.tlAnalysis || {
+          summary: clip.title || clip.filename,
+          duration: clip.duration,
+          visual: { overall_quality: 'good' },
+          audio: { audio_quality: 'good' },
+          semantics: { topics: [], emotions: [], sentiment: 'neutral' }
+        }
       }));
 
       const sequenceResult = await generateSequence(clipsWithAnalysis, sessionId);
@@ -248,9 +265,15 @@ const VideoEditor = ({ preloadedClips = [], sourceAsset = null, onBackToAssets }
       setLoading(true);
       setLoadingMessage('Scoring clips with Claude...');
 
-      const clipsWithAnalysis = clips.filter(clip => clip.tlAnalysis).map(clip => ({
+      const clipsWithAnalysis = clips.map(clip => ({
         id: clip.id,
-        tlAnalysis: clip.tlAnalysis
+        tlAnalysis: clip.tlAnalysis || {
+          summary: clip.title || clip.filename,
+          duration: clip.duration,
+          visual: { overall_quality: 'good' },
+          audio: { audio_quality: 'good' },
+          semantics: { topics: [], emotions: [], sentiment: 'neutral' }
+        }
       }));
 
       const scoreResult = await scoreClips(clipsWithAnalysis, sessionId);
@@ -587,14 +610,43 @@ const VideoEditor = ({ preloadedClips = [], sourceAsset = null, onBackToAssets }
         <div className="flex-1 bg-black flex flex-col items-center justify-center p-4">
           {sequence?.sequence?.length > 0 ? (
             <div className="w-full max-w-4xl">
-              <RemotionVideoPlayer
-                clips={clips}
-                sequence={sequence}
-                currentTime={currentTime}
-                isPlaying={isPlaying}
-                onTimeUpdate={handleTimeUpdate}
-                onPlayPause={handlePlayPause}
-              />
+              {/* Thumbnail-based sequence preview */}
+              <div className="bg-gray-800 rounded-lg p-6">
+                <h3 className="text-white text-lg font-semibold mb-4 text-center">
+                  Video Sequence Preview (Thumbnail Mode)
+                </h3>
+                <div className="flex flex-wrap gap-4 justify-center">
+                  {sequence.sequence.map((clipId, index) => {
+                    const clip = clips.find(c => c.id === clipId);
+                    return (
+                      <div key={clipId} className="text-center">
+                        <div className="w-32 h-20 bg-gray-700 rounded-lg overflow-hidden mb-2 relative">
+                          {clip?.thumbnail ? (
+                            <img
+                              src={clip.thumbnail}
+                              alt={clip.filename}
+                              className="w-full h-full object-cover"
+                            />
+                          ) : (
+                            <div className="w-full h-full flex items-center justify-center">
+                              <Play className="h-6 w-6 text-gray-500" />
+                            </div>
+                          )}
+                          <div className="absolute bottom-1 left-1 bg-black bg-opacity-70 text-white text-xs px-1 rounded">
+                            {index + 1}
+                          </div>
+                        </div>
+                        <div className="text-xs text-gray-400 max-w-32 truncate">
+                          {clip?.filename || `Clip ${index + 1}`}
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+                <div className="mt-4 text-center text-sm text-gray-400">
+                  {sequence.sequence.length} clips • {Math.round(duration)}s total duration
+                </div>
+              </div>
             </div>
           ) : (
             <div className="text-gray-600 text-center">
@@ -622,7 +674,7 @@ const VideoEditor = ({ preloadedClips = [], sourceAsset = null, onBackToAssets }
                     className="flex items-center space-x-2 bg-gray-700 hover:bg-gray-600 disabled:opacity-50 px-4 py-2 rounded-lg transition-colors mx-auto"
                   >
                     <Upload className="h-4 w-4" />
-                    <span>Import Clips</span>
+                    <span>Import & Analyze Clips</span>
                   </button>
                   <button
                     onClick={handleShowSessions}
@@ -726,22 +778,7 @@ const VideoEditor = ({ preloadedClips = [], sourceAsset = null, onBackToAssets }
               <span>Auto Sequence</span>
             </button>
 
-            {/* Convert Videos Button - only show if sequence exists but not all clips converted */}
-            {sequence?.sequence && sequence.sequence.length > 0 && (
-              <button
-                onClick={handleConvertVideos}
-                disabled={loading || conversionStatus === 'converting' || conversionStatus === 'completed'}
-                className="w-full flex items-center justify-center space-x-2 bg-purple-600 hover:bg-purple-700 disabled:opacity-50 disabled:cursor-not-allowed px-4 py-3 rounded-lg transition-colors"
-                title={conversionStatus === 'completed' ? 'Videos already converted' : 'Convert sequenced videos to MP4 for preview'}
-              >
-                <Download className="h-4 w-4" />
-                <span>
-                  {conversionStatus === 'converting' ? 'Converting...' :
-                   conversionStatus === 'completed' ? 'Converted ✓' :
-                   'Convert Videos'}
-                </span>
-              </button>
-            )}
+            {/* Convert Videos Button removed - using thumbnail mode only */}
 
             <button
               onClick={handleScoreClips}
@@ -765,18 +802,7 @@ const VideoEditor = ({ preloadedClips = [], sourceAsset = null, onBackToAssets }
               {Math.floor(currentTime / 60)}:{Math.floor(currentTime % 60).toString().padStart(2, '0')} / {Math.floor(duration / 60)}:{Math.floor(duration % 60).toString().padStart(2, '0')}
             </span>
             <div className="flex items-center space-x-2">
-              <button
-                onClick={handlePreviewVideo}
-                disabled={!sequence?.sequence || sequence.sequence.length === 0 || conversionStatus === 'converting'}
-                className="p-1 rounded hover:bg-gray-700 disabled:opacity-50"
-                title={conversionStatus === 'converting' ? 'Converting videos to MP4...' : 'Play video sequence'}
-              >
-                {isPlaying ? (
-                  <Pause className="h-4 w-4" />
-                ) : (
-                  <Play className="h-4 w-4" />
-                )}
-              </button>
+              <span className="text-xs text-gray-500">Thumbnail Mode</span>
             </div>
           </div>
         </div>

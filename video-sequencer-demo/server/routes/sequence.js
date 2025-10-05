@@ -8,8 +8,8 @@ router.post('/generate', async (req, res) => {
   try {
     const { clips, sessionId } = req.body;
 
-    if (!clips || !Array.isArray(clips)) {
-      return res.status(400).json({ error: 'clips array required' });
+    if (!clips || !Array.isArray(clips) || clips.length === 0) {
+      return res.status(400).json({ error: 'clips array required and must not be empty' });
     }
 
     const claude = new ClaudeService(process.env.ANTHROPIC_API_KEY);

@@ -60,27 +60,8 @@ const AssetLibrary = ({ onLoadToTimeline }) => {
   const handleExtractClips = async () => {
     if (!onLoadToTimeline) return;
 
-    setLoading(true);
-    setLoadingMessage('Loading timeline editor...');
-
-    try {
-      const response = await fetch('http://localhost:3001/api/assets/demo-clips');
-
-      if (!response.ok) throw new Error('Failed to load demo clips');
-
-      const data = await response.json();
-
-      // Navigate to timeline editor with demo clips (no asset selection required)
-      onLoadToTimeline(data.clips || [], null);
-
-    } catch (error) {
-      console.error('Error loading demo clips:', error);
-      setLoadingMessage('Error loading clips. Please try again.');
-      setTimeout(() => {
-        setLoading(false);
-        setLoadingMessage('');
-      }, 2000);
-    }
+    // Navigate to timeline editor without any clips - let user import and analyze manually
+    onLoadToTimeline([], null);
   };
 
   const formatDuration = (seconds) => {

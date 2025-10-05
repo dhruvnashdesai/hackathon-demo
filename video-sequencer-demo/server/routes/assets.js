@@ -6,8 +6,12 @@ const { getSession, updateSession } = require('../utils/sessionManager');
 const TwelveLabsService = require('../services/twelveLabs');
 const ClaudeService = require('../services/claude');
 const VideoClipperService = require('../services/videoClipper');
+const CacheService = require('../services/cacheService');
 
 const router = express.Router();
+
+// Initialize cache service
+const cache = new CacheService();
 
 // Configure multer for file uploads
 const storage = multer.diskStorage({
@@ -51,29 +55,35 @@ router.post('/select', async (req, res) => {
     console.log('🔍 Getting video analysis...');
     const tlVideoData = await twelveLabs.getVideoData(videoId);
 
-    // Run comprehensive analysis using both TwelveLabs and Claude
-    console.log('🎯 Running comprehensive multi-platform analysis...');
+    // Run comprehensive analysis using both TwelveLabs and Claude with caching
+    console.log('🎯 Running comprehensive multi-platform analysis with caching...');
     let tiktokAnalysis = null;
     let instagramAnalysis = null;
     let twelveLabsAnalysis = null;
 
     try {
       console.log('🔬 Running TwelveLabs comprehensive analysis...');
-      twelveLabsAnalysis = await twelveLabs.getComprehensiveAnalysis(videoId);
+      twelveLabsAnalysis = await cache.getOrSet(videoId, 'twelvelabs_comprehensive', async () => {
+        return await twelveLabs.getComprehensiveAnalysis(videoId);
+      });
     } catch (analysisError) {
       console.warn('Warning: Could not run TwelveLabs analysis:', analysisError.message);
     }
 
     try {
       console.log('📱 Running Claude TikTok analysis...');
-      tiktokAnalysis = await claude.analyzeLongFormVideo(tlVideoData, 'tiktok');
+      tiktokAnalysis = await cache.getOrSet(videoId, 'claude_tiktok', async () => {
+        return await claude.analyzeLongFormVideo(tlVideoData, 'tiktok');
+      });
     } catch (analysisError) {
       console.warn('Warning: Could not run Claude TikTok analysis:', analysisError.message);
     }
 
     try {
       console.log('📸 Running Claude Instagram analysis...');
-      instagramAnalysis = await claude.analyzeLongFormVideo(tlVideoData, 'instagram');
+      instagramAnalysis = await cache.getOrSet(videoId, 'claude_instagram', async () => {
+        return await claude.analyzeLongFormVideo(tlVideoData, 'instagram');
+      });
     } catch (analysisError) {
       console.warn('Warning: Could not run Claude Instagram analysis:', analysisError.message);
     }
@@ -365,21 +375,280 @@ function getDemoBrand(filename) {
   return 'Demo Brand';
 }
 
-// Get asset details
-router.get('/:assetId', async (req, res) => {
+// Get clips from clips index for timeline demo
+router.get('/demo-clips', async (req, res) => {
   try {
-    const { assetId } = req.params;
+    console.log('🎬 Loading demo clips for timeline...');
 
-    // In a real app, you'd fetch from database
-    // For now, return placeholder data
+    // Use clips index for timeline editor
+    const twelveLabs = new TwelveLabsService(
+      process.env.TWELVE_LABS_API_KEY,
+      process.env.TWELVE_LABS_CLIPS_INDEX_ID
+    );
+
+    const videos = await twelveLabs.listIndexedVideos();
+    console.log(`📁 Found ${videos.length} videos in clips index`);
+
+    // Get detailed analysis for each video
+    const clips = [];
+    for (const video of videos.filter(video => video.status === 'ready')) {
+      try {
+        console.log(`🔍 Getting detailed analysis for ${video.filename}...`);
+
+        // Get comprehensive video data from TwelveLabs
+        const videoData = await twelveLabs.getVideoData(video.id);
+        console.log(`📊 Video data received for ${video.filename}:`, JSON.stringify(videoData, null, 2).substring(0, 500) + '...');
+
+        const clip = {
+          id: video.id,
+          title: video.filename || `Clip ${clips.length + 1}`,
+          filename: video.filename,
+          duration: video.duration || 10,
+          sourceVideoId: video.id,
+          sourceAssetId: 'demo-asset',
+          thumbnail: video.thumbnail,
+          mp4Url: null, // Will be set by timeline editor
+          streamingUrl: `https://api.twelvelabs.io/v1.2/indexes/${process.env.TWELVE_LABS_CLIPS_INDEX_ID}/videos/${video.id}/stream`,
+          metadata: {
+            duration: video.duration || 10,
+            resolution: '1920x1080',
+            detectionMethod: 'pre_existing'
+          },
+          score: {
+            ability: Math.floor(Math.random() * 30) + 70 // Random score between 70-100 for demo
+          },
+          // Add comprehensive TwelveLabs analysis
+          tlAnalysis: {
+            summary: `Analysis for ${video.filename}`,
+            duration: video.duration || 10,
+            visual: {
+              scenes: videoData.metadata?.scenes || [],
+              shots: videoData.metadata?.shots || [],
+              overall_quality: videoData.metadata?.quality || 'good',
+              people: videoData.metadata?.people || [],
+              objects: videoData.metadata?.objects || [],
+              motion: videoData.metadata?.motion || 'moderate'
+            },
+            audio: {
+              transcription: videoData.metadata?.transcription || '',
+              audio_quality: videoData.metadata?.audio_quality || 'good',
+              sounds_detected: videoData.metadata?.sounds || [],
+              music: videoData.metadata?.music || false,
+              voice_analysis: videoData.metadata?.voice || {}
+            },
+            semantics: {
+              topics: videoData.metadata?.topics || [],
+              categories: videoData.metadata?.categories || [],
+              sentiment: videoData.metadata?.sentiment || 'neutral',
+              emotions: videoData.metadata?.emotions || [],
+              highlights: videoData.metadata?.highlights || []
+            },
+            context: {
+              suitable_for: videoData.metadata?.suitable_for || ['short-form content'],
+              platform_fit: videoData.metadata?.platform_fit || ['TikTok', 'Instagram Reels'],
+              flags: videoData.metadata?.flags || []
+            }
+          }
+        };
+
+        clips.push(clip);
+      } catch (error) {
+        console.warn(`⚠️ Could not get analysis for ${video.filename}:`, error.message);
+
+        // Add clip with basic data if analysis fails
+        clips.push({
+          id: video.id,
+          title: video.filename || `Clip ${clips.length + 1}`,
+          filename: video.filename,
+          duration: video.duration || 10,
+          sourceVideoId: video.id,
+          sourceAssetId: 'demo-asset',
+          thumbnail: video.thumbnail,
+          mp4Url: null,
+          streamingUrl: `https://api.twelvelabs.io/v1.2/indexes/${process.env.TWELVE_LABS_CLIPS_INDEX_ID}/videos/${video.id}/stream`,
+          metadata: {
+            duration: video.duration || 10,
+            resolution: '1920x1080',
+            detectionMethod: 'pre_existing'
+          },
+          score: {
+            ability: Math.floor(Math.random() * 30) + 70
+          }
+        });
+      }
+    }
+
+    console.log(`✅ Loaded ${clips.length} demo clips for timeline`);
 
     res.json({
-      id: assetId,
-      status: 'processed',
-      clips: []
+      success: true,
+      clips: clips,
+      totalClips: clips.length,
+      sourceVideoId: 'demo-source',
+      assetId: 'demo-asset'
     });
+
   } catch (error) {
-    console.error('Get asset error:', error.message);
+    console.error('❌ Demo clips loading error:', error.message);
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// New endpoint that runs comprehensive TwelveLabs analysis on clips
+router.post('/analyze-clips', async (req, res) => {
+  try {
+    console.log('🎯 Running comprehensive TwelveLabs analysis on clips...');
+
+    // Use the clips index with reduced index ID for timeline editing
+    const clipsIndexId = process.env.TWELVE_LABS_CLIPS_INDEX_ID;
+    console.log(`📋 Using clips index: ${clipsIndexId}`);
+
+    if (!clipsIndexId) {
+      console.error('❌ TWELVE_LABS_CLIPS_INDEX_ID not found in environment');
+      return res.status(500).json({ error: 'Clips index ID not configured' });
+    }
+
+    const twelveLabs = new TwelveLabsService(process.env.TWELVE_LABS_API_KEY, clipsIndexId);
+    const videos = await twelveLabs.listIndexedVideos();
+
+    console.log(`📊 Found ${videos.length} videos in clips index, running comprehensive analysis...`);
+
+    const clips = [];
+    for (const video of videos.filter(video => video.status === 'ready')) {
+      try {
+        console.log(`🎬 Running comprehensive analysis for ${video.filename}...`);
+
+        // Run the comprehensive analysis like the original workflow
+        const comprehensiveAnalysis = await twelveLabs.getComprehensiveAnalysis(video.id);
+        console.log(`✅ Comprehensive analysis completed for ${video.filename}`);
+
+        // Also get video data for metadata
+        const videoData = await twelveLabs.getVideoData(video.id);
+
+        // Generate summary using TwelveLabs
+        const summary = await twelveLabs.generateSummary(video.id);
+
+        const clip = {
+          id: video.id,
+          title: video.filename || `Clip ${clips.length + 1}`,
+          filename: video.filename,
+          duration: video.duration || 10,
+          sourceVideoId: video.id,
+          sourceAssetId: 'demo-asset',
+          thumbnail: video.thumbnail,
+          mp4Url: null, // Will be set by timeline editor
+          streamingUrl: `https://api.twelvelabs.io/v1.2/indexes/${process.env.TWELVE_LABS_CLIPS_INDEX_ID}/videos/${video.id}/stream`,
+          metadata: {
+            duration: video.duration || 10,
+            resolution: {
+              width: videoData.metadata?.width || 1920,
+              height: videoData.metadata?.height || 1080
+            },
+            detectionMethod: 'comprehensive_analysis'
+          },
+          score: {
+            ability: Math.floor(Math.random() * 30) + 70 // Random score between 70-100 for demo
+          },
+          tlAnalysis: {
+            summary: summary || `Comprehensive analysis for ${video.filename}`,
+            duration: video.duration || 10,
+
+            // Enhanced analysis from comprehensive calls
+            visual: {
+              scenes: videoData.metadata?.scenes || [],
+              shots: videoData.metadata?.shots || [],
+              overall_quality: videoData.metadata?.quality || 'good',
+              people: videoData.metadata?.people || [],
+              objects: videoData.metadata?.objects || [],
+              motion: videoData.metadata?.motion || 'moderate'
+            },
+            audio: {
+              transcription: videoData.metadata?.transcription || '',
+              audio_quality: videoData.metadata?.audio_quality || 'good',
+              sounds_detected: videoData.metadata?.sounds || [],
+              music: videoData.metadata?.music || false,
+              voice_analysis: videoData.metadata?.voice || {}
+            },
+            semantics: {
+              topics: videoData.metadata?.topics || [],
+              categories: videoData.metadata?.categories || [],
+              sentiment: videoData.metadata?.sentiment || 'neutral',
+              emotions: videoData.metadata?.emotions || [],
+              highlights: videoData.metadata?.highlights || []
+            },
+            context: {
+              suitable_for: videoData.metadata?.suitable_for || ['short-form content'],
+              platform_fit: videoData.metadata?.platform_fit || ['TikTok', 'Instagram Reels'],
+              flags: videoData.metadata?.flags || []
+            },
+
+            // Add the comprehensive analysis results
+            comprehensiveAnalysis: comprehensiveAnalysis
+          }
+        };
+
+        clips.push(clip);
+        console.log(`✅ Added clip with comprehensive analysis: ${video.filename}`);
+
+      } catch (error) {
+        console.error(`❌ Error running comprehensive analysis for ${video.filename}:`, error.message);
+
+        // Fallback to basic analysis if comprehensive fails
+        try {
+          const videoData = await twelveLabs.getVideoData(video.id);
+
+          const fallbackClip = {
+            id: video.id,
+            title: video.filename || `Clip ${clips.length + 1}`,
+            filename: video.filename,
+            duration: video.duration || 10,
+            sourceVideoId: video.id,
+            sourceAssetId: 'demo-asset',
+            thumbnail: video.thumbnail,
+            mp4Url: null,
+            streamingUrl: `https://api.twelvelabs.io/v1.2/indexes/${process.env.TWELVE_LABS_CLIPS_INDEX_ID}/videos/${video.id}/stream`,
+            metadata: {
+              duration: video.duration || 10,
+              resolution: {
+                width: videoData.metadata?.width || 1920,
+                height: videoData.metadata?.height || 1080
+              },
+              detectionMethod: 'fallback_basic'
+            },
+            score: {
+              ability: Math.floor(Math.random() * 30) + 70
+            },
+            tlAnalysis: {
+              summary: `Basic analysis for ${video.filename}`,
+              duration: video.duration || 10,
+              visual: { overall_quality: 'unknown', people: [], motion: 'unknown' },
+              audio: { transcription: '', audio_quality: 'unknown', sounds_detected: [], music: false },
+              semantics: { topics: [], emotions: [], sentiment: 'neutral' },
+              context: { suitable_for: [], platform_fit: [], flags: [] },
+              comprehensiveAnalysis: null
+            }
+          };
+
+          clips.push(fallbackClip);
+        } catch (fallbackError) {
+          console.error(`❌ Fallback also failed for ${video.filename}:`, fallbackError.message);
+        }
+      }
+    }
+
+    console.log(`✅ Comprehensive analysis complete! Returning ${clips.length} clips with detailed TwelveLabs analysis`);
+
+    res.json({
+      success: true,
+      clips: clips,
+      totalClips: clips.length,
+      sourceVideoId: 'demo-source',
+      assetId: 'demo-asset',
+      message: `Analyzed ${clips.length} clips with comprehensive TwelveLabs analysis`
+    });
+
+  } catch (error) {
+    console.error('Error running comprehensive analysis:', error);
     res.status(500).json({ error: error.message });
   }
 });
@@ -434,55 +703,43 @@ router.post('/generate-clips', async (req, res) => {
   }
 });
 
-// Get clips from clips index for timeline demo
-router.get('/demo-clips', async (req, res) => {
+// Get asset details
+router.get('/:assetId', async (req, res) => {
   try {
-    console.log('🎬 Loading demo clips for timeline...');
+    const { assetId } = req.params;
 
-    // For demo purposes, just use the same logic as /available endpoint
-    const twelveLabs = new TwelveLabsService(
-      process.env.TWELVE_LABS_API_KEY,
-      process.env.TWELVE_LABS_INDEX_ID
-    );
-
-    const videos = await twelveLabs.listIndexedVideos();
-    console.log(`📁 Found ${videos.length} videos in main index`);
-
-    // Convert videos to clip format for timeline editor
-    const clips = videos
-      .filter(video => video.status === 'ready')
-      .map((video, index) => ({
-        id: video.id,
-        title: video.filename || `Clip ${index + 1}`,
-        filename: video.filename,
-        duration: video.duration || 10,
-        sourceVideoId: video.id,
-        sourceAssetId: 'demo-asset',
-        thumbnail: video.thumbnail,
-        mp4Url: null, // Will be set by timeline editor
-        streamingUrl: `https://api.twelvelabs.io/v1.2/indexes/${process.env.TWELVE_LABS_INDEX_ID}/videos/${video.id}/stream`,
-        metadata: {
-          duration: video.duration || 10,
-          resolution: '1920x1080',
-          detectionMethod: 'pre_existing'
-        },
-        score: {
-          ability: Math.floor(Math.random() * 30) + 70 // Random score between 70-100 for demo
-        }
-      }));
-
-    console.log(`✅ Loaded ${clips.length} demo clips for timeline`);
+    // In a real app, you'd fetch from database
+    // For now, return placeholder data
 
     res.json({
-      success: true,
-      clips: clips,
-      totalClips: clips.length,
-      sourceVideoId: 'demo-source',
-      assetId: 'demo-asset'
+      id: assetId,
+      status: 'processed',
+      clips: []
     });
-
   } catch (error) {
-    console.error('❌ Demo clips loading error:', error.message);
+    console.error('Get asset error:', error.message);
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// Cache management endpoints
+router.delete('/cache/clear', async (req, res) => {
+  try {
+    await cache.clearAll();
+    res.json({ message: 'Cache cleared successfully' });
+  } catch (error) {
+    console.error('Error clearing cache:', error);
+    res.status(500).json({ error: error.message });
+  }
+});
+
+router.delete('/cache/:videoId/:analysisType', async (req, res) => {
+  try {
+    const { videoId, analysisType } = req.params;
+    await cache.delete(videoId, analysisType);
+    res.json({ message: `Cache cleared for ${analysisType} analysis of video ${videoId}` });
+  } catch (error) {
+    console.error('Error clearing specific cache:', error);
     res.status(500).json({ error: error.message });
   }
 });
