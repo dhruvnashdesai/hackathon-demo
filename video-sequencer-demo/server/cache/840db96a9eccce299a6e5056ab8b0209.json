@@ -1,0 +1,110 @@
+{
+  "videoId": "68e2839cf2e53b115e1afd44",
+  "analysisType": "claude_tiktok",
+  "result": {
+    "hook_quality_first_impression": 12,
+    "content_modularity_segmentation": 8,
+    "tiktok_specific_optimization": 6,
+    "engagement_retention_factors": 9,
+    "viral_potential_shareability": 5,
+    "total_score": 40,
+    "score_interpretation": "Poor",
+    "overall_grade": "F",
+    "key_insights": [
+      "140-second duration indicates slow-paced narrative unsuitable for TikTok's fast consumption patterns",
+      "480p resolution at 854x480 landscape format creates significant vertical adaptation challenges",
+      "Large file size (9MB) suggests heavy visual content that may contain strong visual elements for clipping",
+      "Advertisement format likely contains brand messaging that could be repurposed into educational or behind-the-scenes content",
+      "Long-form narrative structure requires significant segmentation work to create coherent short clips"
+    ],
+    "clip_opportunities": {
+      "primary_clips": [
+        {
+          "timestamp": "00:05-00:20",
+          "hook_type": "visual",
+          "hook_score": 6,
+          "modularity_score": 4,
+          "viral_potential": 3,
+          "optimization_notes": "Opening brand reveal - crop to center frame, add trending audio overlay, create curiosity hook with text overlay"
+        },
+        {
+          "timestamp": "01:00-01:15",
+          "hook_type": "emotional",
+          "hook_score": 7,
+          "modularity_score": 5,
+          "viral_potential": 4,
+          "optimization_notes": "Mid-point emotional peak - focus on central action, add captions for context, speed up pacing"
+        }
+      ],
+      "secondary_clips": [
+        {
+          "timestamp": "02:00-02:20",
+          "potential_score": 35,
+          "enhancement_required": "End sequence needs heavy editing - add quick cuts, trending audio, and strong call-to-action"
+        }
+      ]
+    },
+    "strategic_recommendations": {
+      "high_scoring_content": "No segments score above 75 - focus on fundamental restructuring",
+      "medium_scoring_content": "No segments in 60-74 range - requires complete reimagining for TikTok format",
+      "optimization_priorities": [
+        "Crop to vertical format",
+        "Add trending audio",
+        "Create multiple hook points",
+        "Increase pacing with quick cuts",
+        "Add text overlays for context"
+      ],
+      "resource_allocation": "High effort required - consider if ROI justifies extensive editing needed"
+    },
+    "extraction_analysis": {
+      "strong_segments": [
+        {
+          "timestamp": "00:05-00:20",
+          "hook_score": "6/25",
+          "modularity_score": "4/20",
+          "optimization_score": "3/20",
+          "engagement_score": "5/20",
+          "viral_score": "3/15",
+          "total_score": "21/100 TikTok Optimization Score",
+          "strategic_notes": "Opening has potential but needs complete reformatting, trending audio, and faster pacing"
+        }
+      ],
+      "recommended_sequence": [
+        "00:05-00:20",
+        "01:00-01:15",
+        "02:00-02:20"
+      ],
+      "platform_optimization_notes": [
+        "Crop to 9:16 aspect ratio focusing on center 60% of frame",
+        "Replace audio with trending TikTok sounds",
+        "Add quick jump cuts every 2-3 seconds",
+        "Include text overlays for context and engagement"
+      ]
+    },
+    "watch_time_optimization": {
+      "predicted_completion_rate": "25% (slow pacing and long-form narrative structure not optimized for TikTok attention spans)",
+      "predicted_engagement_rate": "20% (traditional ad format lacks interactive elements and fast-paced engagement drivers)",
+      "rewatch_potential": "low (linear narrative without surprise elements or complex visual details requiring multiple views)",
+      "attention_retention_factors": [
+        "Brand recognition",
+        "Visual production quality",
+        "Narrative progression"
+      ]
+    },
+    "tiktok_optimizations": {
+      "face_frequency_score": "3 (limited people detection expected in brand-focused advertisement)",
+      "central_action_percentage": "40 (landscape format likely has distributed visual elements not optimized for vertical crop)",
+      "visual_variety_score": "4 (140-second duration suggests slower scene transitions typical of traditional advertising)",
+      "cover_frame_recommendation": "00:08 (likely contains brand logo or key visual element for recognition)",
+      "trending_audio_potential": "low (original brand audio incompatible with TikTok trending sounds)",
+      "text_overlay_compatibility": "6 (professional video production likely has visual space for text additions)"
+    },
+    "platform_optimization": {
+      "vertical_format_score": "2 (854x480 landscape requires significant cropping with potential content loss)",
+      "trending_audio_compatibility": "2 (branded audio content incompatible with TikTok's music-driven algorithm)",
+      "text_overlay_opportunities": "6 (professional production quality allows for text overlay integration)",
+      "algorithm_favorability": "3 (traditional advertising format conflicts with TikTok's authentic, user-generated content preferences)"
+    }
+  },
+  "timestamp": "2025-10-06T18:52:23.187Z"
+}

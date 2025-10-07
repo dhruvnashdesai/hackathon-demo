@@ -8,8 +8,12 @@ const { generateThumbnail, getVideoMetadata } = require('../utils/ffmpeg');
 const TwelveLabsService = require('../services/twelveLabs');
 const ClaudeService = require('../services/claude');
 const VideoConverter = require('../services/videoConverter');
+const CacheService = require('../services/cacheService');
 
 const router = express.Router();
+
+// Initialize cache service
+const cache = new CacheService();
 
 // NEW ROUTE: List saved sessions
 router.get('/sessions', async (req, res) => {
@@ -626,7 +630,21 @@ router.post('/score', async (req, res) => {
     for (const clip of clips) {
       try {
         console.log(`Scoring clip: ${clip.id}`);
-        const score = await claude.scoreClip(clip.tlAnalysis);
+
+        // Use video ID for caching if available, otherwise use clip ID
+        const cacheKey = clip.twelveLabsVideoId || clip.tlAnalysis?.video_id || clip.id;
+        console.log(`🔍 Scoring cache key for ${clip.id}: ${cacheKey}`);
+        console.log(`📊 Clip data:`, {
+          id: clip.id,
+          twelveLabsVideoId: clip.twelveLabsVideoId,
+          tlAnalysisVideoId: clip.tlAnalysis?.video_id
+        });
+
+        // Cache the Claude scoring
+        const score = await cache.getOrSet(cacheKey, 'claude_score', async () => {
+          return await claude.scoreClip(clip.tlAnalysis);
+        });
+
         scores.push({
           clipId: clip.id,
           ...score

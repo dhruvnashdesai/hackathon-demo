@@ -1,0 +1,26 @@
+{
+  "videoId": "68e2842717b39f617835f113",
+  "analysisType": "clip_metadata",
+  "result": {
+    "_id": "68e2842717b39f617835f113",
+    "created_at": "2025-10-05T14:43:51Z",
+    "updated_at": "2025-10-05T14:47:44Z",
+    "system_metadata": {
+      "duration": 4.066667,
+      "filename": "Clip 6.mov",
+      "fps": 30,
+      "height": 2160,
+      "size": 12848667,
+      "width": 3840
+    },
+    "hls": {
+      "video_url": "https://deuqpmn4rs7j5.cloudfront.net/68e283455cc17d94ad18fbe1/68e2842717b39f617835f113/stream/44026f9b-b73c-4708-a527-b81b4afd3030.m3u8",
+      "thumbnail_urls": [
+        "https://deuqpmn4rs7j5.cloudfront.net/68e283455cc17d94ad18fbe1/68e2842717b39f617835f113/thumbnails/44026f9b-b73c-4708-a527-b81b4afd3030.0000000.jpg"
+      ],
+      "status": "COMPLETE",
+      "updated_at": "2025-10-05T14:43:58.55Z"
+    }
+  },
+  "timestamp": "2025-10-07T13:10:01.551Z"
+}
